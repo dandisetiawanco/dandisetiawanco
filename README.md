@@ -1,99 +1,82 @@
-<!-- =========================================================
-   DANDI SETIAWAN — ENGINEERING PORTFOLIO
-========================================================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Dandi%20Setiawan&fontAlign=50&fontAlignY=38&color=0:1E3A8A,50:2563EB,100:0EA5E9&fontColor=ffffff&fontSize=38&desc=Full%20Stack%20Engineer%20•%20Laravel%20•%20Next.js%20•%20React%20•%20AI&descAlign=50&descAlignY=62" />
-</p>
+  <!-- Minimalist Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0d1117&text=Dandi%20Setiawan&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20Software%20Engineer&descAlign=50&descAlignY=65&descScale=18&descColor=8b949e" width="100%" alt="Header Banner" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dandisetiawanco&color=2563EB&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based%20in-Indonesia-0EA5E9?style=flat-square" />
-</p>
+  <p>
+    <a href="https://linkedin.com/in/dandi-setiawan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:dandisetiawan.co@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/Location-Indonesia-21262d?style=flat-square&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-238636?style=flat-square" alt="Status" />
+  </p>
 
-<br/>
+</div>
 
-## 🚀 Engineering Focus
+---
 
-I build scalable and production-ready digital systems with strong emphasis on:
+###  Engineering Overview
 
-- 🧱 Clean & Modular Architecture
-- 🔐 Secure Authentication & Authorization
-- ⚡ High-Performance Backend Optimization
-- 🎨 Modern Frontend Systems (Next.js / React)
-- 🤖 AI Integration in Web Applications
-- 🔗 Blockchain Infrastructure Concepts
+Full Stack Software Engineer specializing in scalable web systems, clean architecture, and modern backend-frontend integration. Focused on delivering maintainable codebases, robust API design, and high-performance applications.
 
-> Focused on clarity, performance, and long-term maintainability.
+* **Backend Systems:** Microservices & Monolith Architecture, RESTful API Design, Database Optimization, Authentication Protocols.
+* **Frontend Engineering:** Modern Component Systems, Server-Side Rendering (SSR), State Management, Responsive Interfaces.
+* **Core Stack:** PHP (Laravel), JavaScript/TypeScript (React, Next.js, Node.js), Relational Databases (MySQL, PostgreSQL).
 
-<br/>
+---
 
-## 🧩 Technology Stack
+###  Technical Expertise
 
 <table>
-<tr>
-<td valign="top" width="50%">
-
-**🏗 Backend**
-<p><img src="https://skillicons.dev/icons?i=php,laravel,nodejs" /></p>
-
-**🎨 Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" /></p>
-
-</td>
-<td valign="top" width="50%">
-
-**🗄 Database & Infra**
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,linux,git" /></p>
-
-**🤖 AI & Emerging Tech**
-<p><img src="https://skillicons.dev/icons?i=python" /></p>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Backend & Infrastructure</h4>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Frontend Development</h4>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
 
-<sub>Artificial Intelligence • Machine Learning Concepts • Web3 Infrastructure • Blockchain Ecosystem</sub>
+---
 
-<br/>
+###  Performance Metrics & Activity
 
-## 📊 GitHub Analytics
+<div align="center">
+  <br />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dandisetiawanco&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandisetiawanco&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dandisetiawanco&show_icons=true&theme=default&title_color=2563EB&icon_color=0EA5E9&text_color=333333&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandisetiawanco&layout=compact&title_color=2563EB&text_color=333333&hide_border=true&cache_seconds=86400" />
-</p>
+<br />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dandisetiawanco&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=0EA5E9&currStreakLabel=2563EB" />
-</p>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dandisetiawanco&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=161b22&hide_border=true" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dandisetiawanco&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</p>
+---
 
-<br/>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dandisetiawanco&bg_color=ffffff&color=2563EB&line=0EA5E9&point=1E3A8A&hide_border=true" />
-</p>
-
-<br/>
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/dandi-setiawan">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dandisetiawan.co@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dandisetiawan.co@gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,50:2563EB,100:1E3A8A" />
-</p>
+<div align="center">
+  <sub>Designed & Maintained by Dandi Setiawan</sub>
+</div>
