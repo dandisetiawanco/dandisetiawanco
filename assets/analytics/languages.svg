@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 204" width="440" height="204" role="img" aria-labelledby="langs-t-dark langs-d-dark">
+  <title id="langs-t-dark">Most-Used Programming Languages for dandisetiawanco</title>
+  <desc id="langs-d-dark">Language breakdown computed across owned public GitHub repositories.</desc>
+  <defs>
+    <clipPath id="lang-bar-dark">
+      <rect x="20" y="60" width="400" height="10" rx="5" />
+    </clipPath>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+  </style>
+  <rect x="1" y="1" width="438" height="202" rx="12" fill="#0F1F2A" stroke="#1F3E4B" stroke-width="1.2" />
+  <text x="20" y="33" class="sans" font-size="15" font-weight="700" fill="#F0F7F4">Most-Used Languages</text>
+  <text x="420" y="32" text-anchor="end" class="mono" font-size="11" fill="#8CB3A9">Public repositories</text>
+  <line x1="20" y1="45" x2="420" y2="45" stroke="#1B3541" stroke-width="1" />
+  <g clip-path="url(#lang-bar-dark)">
+    <rect x="20.0" y="60" width="99.7" height="10" fill="#34D399" />
+    <rect x="119.7" y="60" width="90.0" height="10" fill="#2EA8B8" />
+    <rect x="209.7" y="60" width="77.1" height="10" fill="#83BCA8" />
+    <rect x="286.8" y="60" width="55.7" height="10" fill="#5EEAD4" />
+    <rect x="342.5" y="60" width="50.1" height="10" fill="#10B981" />
+    <rect x="392.6" y="60" width="27.4" height="10" fill="#78A3B2" />
+  </g>
+  <rect x="20" y="94" width="10" height="10" rx="2.5" fill="#34D399" />
+  <text x="38" y="104" class="sans" font-size="13" font-weight="600" fill="#F0F7F4">JavaScript</text>
+  <text x="206" y="104" text-anchor="end" class="mono" font-size="12" fill="#B2CEC6">24.7%</text>
+  <rect x="230" y="94" width="10" height="10" rx="2.5" fill="#2EA8B8" />
+  <text x="248" y="104" class="sans" font-size="13" font-weight="600" fill="#F0F7F4">Python</text>
+  <text x="416" y="104" text-anchor="end" class="mono" font-size="12" fill="#B2CEC6">22.3%</text>
+  <rect x="20" y="126" width="10" height="10" rx="2.5" fill="#83BCA8" />
+  <text x="38" y="136" class="sans" font-size="13" font-weight="600" fill="#F0F7F4">PHP</text>
+  <text x="206" y="136" text-anchor="end" class="mono" font-size="12" fill="#B2CEC6">19.1%</text>
+  <rect x="230" y="126" width="10" height="10" rx="2.5" fill="#5EEAD4" />
+  <text x="248" y="136" class="sans" font-size="13" font-weight="600" fill="#F0F7F4">Blade</text>
+  <text x="416" y="136" text-anchor="end" class="mono" font-size="12" fill="#B2CEC6">13.8%</text>
+  <rect x="20" y="158" width="10" height="10" rx="2.5" fill="#10B981" />
+  <text x="38" y="168" class="sans" font-size="13" font-weight="600" fill="#F0F7F4">TypeScript</text>
+  <text x="206" y="168" text-anchor="end" class="mono" font-size="12" fill="#B2CEC6">12.4%</text>
+  <rect x="230" y="158" width="10" height="10" rx="2.5" fill="#78A3B2" />
+  <text x="248" y="168" class="sans" font-size="13" font-weight="600" fill="#F0F7F4">CSS</text>
+  <text x="416" y="168" text-anchor="end" class="mono" font-size="12" fill="#B2CEC6">6.8%</text>
+</svg>

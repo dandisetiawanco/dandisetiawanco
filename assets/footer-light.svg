@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 112" width="1000" height="112" role="img" aria-labelledby="footer-title-l footer-desc-l">
+  <title id="footer-title-l">Connect. Collaborate. Create. Dandi Setiawan, NGOPREK DIGITAL</title>
+  <desc id="footer-desc-l">Animated emerald and mint architectural footer matching the hero banner in light mode.</desc>
+  <defs>
+    <linearGradient id="f-bg-l" x1="0" y1="0" x2="1000" y2="112" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F7FAF9" />
+      <stop offset="50%" stop-color="#EDF7F3" />
+      <stop offset="100%" stop-color="#F7FAF9" />
+    </linearGradient>
+    <linearGradient id="f-sweep-l" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#057A55" stop-opacity="0" />
+      <stop offset="50%" stop-color="#057A55" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#057A55" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="f-clip-l">
+      <rect x="1" y="1" width="998" height="110" rx="14" />
+    </clipPath>
+  </defs>
+
+  <style>
+    .sans {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    }
+    .serif-italic {
+      font-family: Georgia, "Times New Roman", serif;
+      font-style: italic;
+    }
+    .trace-base {
+      fill: none;
+      stroke: #C4DCD5;
+      stroke-width: 1.3;
+      stroke-linecap: round;
+    }
+    .trace-left, .trace-right {
+      fill: none;
+      stroke: #057A55;
+      stroke-width: 1.7;
+      stroke-linecap: round;
+    }
+    @media (prefers-reduced-motion: no-preference) {
+      .trace-left { stroke-dasharray: 42 260; animation: fLeft 5.8s linear infinite; }
+      .trace-right { stroke-dasharray: 42 260; animation: fRight 5.8s linear infinite; }
+      .f-bar { animation: fSweep 9s ease-in-out infinite; }
+    }
+    @keyframes fLeft { from { stroke-dashoffset: 302; } to { stroke-dashoffset: 0; } }
+    @keyframes fRight { from { stroke-dashoffset: 0; } to { stroke-dashoffset: 302; } }
+    @keyframes fSweep {
+      0% { transform: translateX(-240px); opacity: 0; }
+      14% { opacity: 0.8; }
+      86% { opacity: 0.8; }
+      100% { transform: translateX(1020px); opacity: 0; }
+    }
+  </style>
+
+  <g clip-path="url(#f-clip-l)">
+    <rect x="0" y="0" width="1000" height="112" fill="url(#f-bg-l)" />
+    <rect class="f-bar" x="0" y="109" width="220" height="2" fill="url(#f-sweep-l)" />
+
+    <g stroke="#83BCA8" stroke-width="1.3" fill="none">
+      <path d="M 16 26 L 16 14 L 28 14" />
+      <path d="M 972 14 L 984 14 L 984 26" />
+      <path d="M 16 86 L 16 98 L 28 98" />
+      <path d="M 972 98 L 984 98 L 984 86" />
+    </g>
+
+    <g aria-hidden="true">
+      <path class="trace-base" d="M 36 56 L 195 56 L 218 42 L 296 42" />
+      <path class="trace-base" d="M 88 74 L 222 74 L 240 62 L 296 62" />
+      <path class="trace-base" d="M 964 56 L 805 56 L 782 42 L 704 42" />
+      <path class="trace-base" d="M 912 74 L 778 74 L 760 62 L 704 62" />
+
+      <path class="trace-left" d="M 36 56 L 195 56 L 218 42 L 296 42" />
+      <path class="trace-right" d="M 964 56 L 805 56 L 782 42 L 704 42" />
+
+      <circle cx="296" cy="42" r="2.5" fill="#057A55" />
+      <circle cx="704" cy="42" r="2.5" fill="#057A55" />
+      <circle cx="296" cy="62" r="2.2" fill="#83BCA8" />
+      <circle cx="704" cy="62" r="2.2" fill="#83BCA8" />
+    </g>
+
+    <text x="500" y="51" text-anchor="middle" class="serif-italic" font-size="22" fill="#173344">Connect. Collaborate. Create.</text>
+    <text x="500" y="80" text-anchor="middle" class="sans" font-size="13" font-weight="500" fill="#435C63">
+      Dandi Setiawan  ·  <tspan font-weight="600" fill="#166270">NGOPREK DIGITAL</tspan>  ·  Bandar Lampung, Indonesia
+    </text>
+  </g>
+
+  <rect x="1" y="1" width="998" height="110" rx="14" fill="none" stroke="#C4DCD5" stroke-width="1.25" />
+</svg>
