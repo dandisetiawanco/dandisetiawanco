@@ -15,29 +15,29 @@
   <text x="420" y="32" text-anchor="end" class="mono" font-size="11" fill="#4A656C">Public repositories</text>
   <line x1="20" y1="45" x2="420" y2="45" stroke="#E2EFEA" stroke-width="1" />
   <g clip-path="url(#lang-bar-light)">
-    <rect x="20.0" y="60" width="99.7" height="10" fill="#057A55" />
-    <rect x="119.7" y="60" width="90.0" height="10" fill="#1B6F7E" />
-    <rect x="209.7" y="60" width="77.1" height="10" fill="#10B981" />
-    <rect x="286.8" y="60" width="55.7" height="10" fill="#2996A8" />
-    <rect x="342.5" y="60" width="50.1" height="10" fill="#5C9E8C" />
-    <rect x="392.6" y="60" width="27.4" height="10" fill="#64848F" />
+    <rect x="20.0" y="60" width="98.6" height="10" fill="#057A55" />
+    <rect x="118.6" y="60" width="93.7" height="10" fill="#1B6F7E" />
+    <rect x="212.3" y="60" width="76.0" height="10" fill="#10B981" />
+    <rect x="288.3" y="60" width="54.9" height="10" fill="#2996A8" />
+    <rect x="343.2" y="60" width="49.7" height="10" fill="#5C9E8C" />
+    <rect x="392.9" y="60" width="27.1" height="10" fill="#64848F" />
   </g>
   <rect x="20" y="94" width="10" height="10" rx="2.5" fill="#057A55" />
   <text x="38" y="104" class="sans" font-size="13" font-weight="600" fill="#173344">JavaScript</text>
-  <text x="206" y="104" text-anchor="end" class="mono" font-size="12" fill="#435C63">24.7%</text>
+  <text x="206" y="104" text-anchor="end" class="mono" font-size="12" fill="#435C63">24.4%</text>
   <rect x="230" y="94" width="10" height="10" rx="2.5" fill="#1B6F7E" />
   <text x="248" y="104" class="sans" font-size="13" font-weight="600" fill="#173344">Python</text>
-  <text x="416" y="104" text-anchor="end" class="mono" font-size="12" fill="#435C63">22.3%</text>
+  <text x="416" y="104" text-anchor="end" class="mono" font-size="12" fill="#435C63">23.2%</text>
   <rect x="20" y="126" width="10" height="10" rx="2.5" fill="#10B981" />
   <text x="38" y="136" class="sans" font-size="13" font-weight="600" fill="#173344">PHP</text>
-  <text x="206" y="136" text-anchor="end" class="mono" font-size="12" fill="#435C63">19.1%</text>
+  <text x="206" y="136" text-anchor="end" class="mono" font-size="12" fill="#435C63">18.8%</text>
   <rect x="230" y="126" width="10" height="10" rx="2.5" fill="#2996A8" />
   <text x="248" y="136" class="sans" font-size="13" font-weight="600" fill="#173344">Blade</text>
-  <text x="416" y="136" text-anchor="end" class="mono" font-size="12" fill="#435C63">13.8%</text>
+  <text x="416" y="136" text-anchor="end" class="mono" font-size="12" fill="#435C63">13.6%</text>
   <rect x="20" y="158" width="10" height="10" rx="2.5" fill="#5C9E8C" />
   <text x="38" y="168" class="sans" font-size="13" font-weight="600" fill="#173344">TypeScript</text>
-  <text x="206" y="168" text-anchor="end" class="mono" font-size="12" fill="#435C63">12.4%</text>
+  <text x="206" y="168" text-anchor="end" class="mono" font-size="12" fill="#435C63">12.3%</text>
   <rect x="230" y="158" width="10" height="10" rx="2.5" fill="#64848F" />
   <text x="248" y="168" class="sans" font-size="13" font-weight="600" fill="#173344">CSS</text>
-  <text x="416" y="168" text-anchor="end" class="mono" font-size="12" fill="#435C63">6.8%</text>
+  <text x="416" y="168" text-anchor="end" class="mono" font-size="12" fill="#435C63">6.7%</text>
 </svg>
