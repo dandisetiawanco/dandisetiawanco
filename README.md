@@ -1,148 +1,275 @@
+
 <div align="center">
 
-  <!-- HERO GRADIENT BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4f46e5,50:6366f1,100:06b6d4&text=Dandi%20Setiawan&fontAlign=50&fontAlignY=36&fontSize=46&fontColor=ffffff&desc=Full%20Stack%20Software%20Engineer%20•%20Architecting%20Scalable%20Systems&descAlign=50&descAlignY=60&descScale=18&descColor=e0e7ff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=059669&height=6&section=header" width="100%" alt="Header"/>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/dandi-setiawan"><img src="https://img.shields.io/badge/LinkedIn-Profile-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:dandisetiawan.co@gmail.com"><img src="https://img.shields.io/badge/Email-Direct%20Contact-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Location-Indonesia-312e81?style=for-the-badge&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-10b981?style=for-the-badge" />
+  <br/>
+
+  <h1>Dandi Setiawan</h1>
+
+  <h3>Software Engineer & AI Developer</h3>
+
+  <p>
+    Founder of NGOPREK DIGITAL
   </p>
+
+  <p>
+    Engineering reliable software, exploring artificial intelligence,<br/>
+    and building meaningful digital experiences.
+  </p>
+
+  <a href="https://www.dandisetiawan.id/">
+    <img src="https://img.shields.io/badge/Personal_Website-059669?style=for-the-badge&logo=safari&logoColor=white" alt="Personal Website"/>
+  </a>
+  <a href="https://www.ngoprekdigital.site/">
+    <img src="https://img.shields.io/badge/NGOPREK_DIGITAL-064E3B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NGOPREK DIGITAL"/>
+  </a>
+
+  <br/>
+
+  <a href="https://linkedin.com/in/dandi-setiawan">
+    <img src="https://img.shields.io/badge/LinkedIn-059669?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/6287700616969">
+    <img src="https://img.shields.io/badge/WhatsApp-059669?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:dandisetiawan.co@gmail.com">
+    <img src="https://img.shields.io/badge/Email-059669?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <br/><br/>
+
+  <sub>Bandar Lampung, Indonesia</sub>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Available_for_Opportunities-ECFDF5?style=flat-square&logoColor=059669&color=059669" alt="Availability"/>
 
 </div>
 
-<br/>
+---
 
-### 🏛️ Executive Summary
+## About Me
 
-Full Stack Software Engineer with deep technical focus on building enterprise-grade web applications, robust microservices, and high-throughput system architectures. Expert in bridging complex backend business logic with high-performance, accessible frontend interfaces.
+I'm a software engineer with a focus on full-stack development, artificial intelligence, and modern software architecture.
 
-- **Primary Paradigm:** Clean Architecture, Domain-Driven Design (DDD), & SOLID Principles
-- **Engineering Philosophy:** Code for maintainability, optimize for speed, and build for resilience
-- **Core Specialization:** Modern PHP (Laravel), TypeScript (Next.js/React), RESTful & GraphQL API Infrastructure, Relational Database Modeling
+I enjoy transforming complex problems into practical, reliable, and maintainable digital solutions through thoughtful engineering and continuous learning.
 
-<br/>
+As the founder of **[NGOPREK DIGITAL](https://www.ngoprekdigital.site/)**, I work alongside developers, engineers, designers, and AI practitioners to explore technology, collaborate on innovative projects, and develop digital products.
 
-### ⚡ System Architecture & Technical Stack
+My current interests include:
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- Full-stack software engineering
+- Artificial intelligence and machine learning
+- Intelligent automation and AI agents
+- Software architecture and system integration
+- Open-source development
+- Digital product innovation
 
-#### ⚙️ Backend & Infrastructure
-Engineered with reliability, strict typing, and high availability in mind.
-
-- **Languages:** PHP 8+, TypeScript, JavaScript (Node.js), Python
-- **Frameworks:** Laravel, Express.js, NestJS Concepts
-- **Databases:** MySQL, PostgreSQL, Redis (Caching Layer)
-- **DevOps & Cloud:** Docker, Linux Environment, NGINX, Git Workflow, CI/CD Pipelines
-
-<br/>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres,redis,docker,linux,git&perline=5" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎨 Frontend & Interface Engineering
-Focused on component-driven development, state management, and modern UX.
-
-- **Frameworks:** React.js, Next.js (App Router, SSR, SSG)
-- **Styling:** Tailwind CSS, CSS Modules, Modern Responsive Systems
-- **State & Tools:** Redux Toolkit, React Query, Zustand, Webpack/Vite
-- **Core Web Vitals:** Performance Optimization, SEO, & Accessibility (a11y)
-
-<br/>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma,postman,vscode&perline=5" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🛠️ Featured Engineering Projects
+## Technical Stack
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛒 Premium E-Commerce Platform</h4>
-      <p><i>High-performance fashion e-commerce ecosystem.</i></p>
-      <ul>
-        <li>Implemented secure payment gateway integration and JWT authentication.</li>
-        <li>Optimized database queries reducing load times by 40%.</li>
-        <li>Built with <b>Laravel, Next.js, PostgreSQL, and Tailwind CSS</b>.</li>
-      </ul>
+      <h3>Frontend Engineering</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=7" alt="Frontend Stack"/>
+      <p>
+        Modern interfaces, component-driven architecture,
+        responsive design, and web performance.
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 AI-Powered Web Application</h4>
-      <p><i>Intelligent web tool integrating advanced AI APIs.</i></p>
-      <ul>
-        <li>Integrated OpenAI / Gemini API endpoints for automated workflows.</li>
-        <li>Built dynamic frontend components with asynchronous state updates.</li>
-        <li>Developed using <b>Next.js, TypeScript, Node.js, and Python</b>.</li>
-      </ul>
+      <h3>Backend Engineering</h3>
+      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,fastapi&perline=7" alt="Backend Stack"/>
+      <p>
+        API development, authentication, business logic,
+        backend services, and system integration.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Artificial Intelligence & Data</h3>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,postgres,redis&perline=7" alt="AI and Data Stack"/>
+      <p>
+        Machine learning, AI integration, data processing,
+        intelligent automation, and database systems.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Infrastructure & Development Tools</h3>
+      <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman,vscode&perline=7" alt="Development Tools"/>
+      <p>
+        Containerization, version control, deployment,
+        development workflows, and CI/CD practices.
+      </p>
     </td>
   </tr>
 </table>
 
-<br/>
+## Engineering Philosophy
 
-### 📊 Engineering Analytics & Performance Metrics
+| Focus | Approach |
+| :--- | :--- |
+| Architecture | Modular, scalable, and maintainable systems |
+| Code Quality | Clean code and SOLID principles |
+| Performance | Efficient processing and optimized interfaces |
+| Security | Secure development and responsible data handling |
+| Innovation | Research, experimentation, and practical implementation |
+| Collaboration | Clear documentation and continuous improvement |
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>NGOPREK DIGITAL</h3>
+      <img src="https://img.shields.io/badge/Organization-059669?style=flat-square" alt="Organization"/>
+      <p>
+        A multidisciplinary technology collective focused
+        on software engineering, artificial intelligence,
+        research, and digital product development.
+      </p>
+      <p>
+        <code>Engineering</code>
+        <code>Technology</code>
+        <code>Collaboration</code>
+      </p>
+      <a href="https://www.ngoprekdigital.site/">
+        <strong>Explore Website ↗</strong>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AgentOS</h3>
+      <img src="https://img.shields.io/badge/In_Development-059669?style=flat-square" alt="In Development"/>
+      <p>
+        An experimental desktop application exploring
+        AI agents, intelligent workflows, and modern
+        desktop software experiences.
+      </p>
+      <p>
+        <code>Tauri</code>
+        <code>React</code>
+        <code>FastAPI</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Personal Portfolio</h3>
+      <img src="https://img.shields.io/badge/Live-059669?style=flat-square" alt="Live"/>
+      <p>
+        A personal platform showcasing my professional
+        background, technical capabilities, and
+        software engineering projects.
+      </p>
+      <p>
+        <code>Web Development</code>
+        <code>Personal Branding</code>
+      </p>
+      <a href="https://www.dandisetiawan.id/">
+        <strong>Explore Portfolio ↗</strong>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI & Software Experiments</h3>
+      <img src="https://img.shields.io/badge/Research-059669?style=flat-square" alt="Research"/>
+      <p>
+        Exploring intelligent applications, automation,
+        modern software architecture, and emerging
+        technologies through hands-on experimentation.
+      </p>
+      <p>
+        <code>Python</code>
+        <code>TypeScript</code>
+        <code>AI</code>
+      </p>
+      <a href="https://github.com/dandisetiawanco?tab=repositories">
+        <strong>Explore Repositories ↗</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## GitHub Analytics
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dandisetiawanco&show_icons=true&theme=synthwave&title_color=06b6d4&icon_color=6366f1&text_color=e0e7ff&bg_color=0f172a&border_color=312e81&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandisetiawanco&layout=compact&theme=synthwave&title_color=06b6d4&text_color=e0e7ff&bg_color=0f172a&border_color=312e81&hide_border=false" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=dandisetiawanco&show_icons=true&hide_border=true&bg_color=00000000&title_color=10B981&icon_color=059669&text_color=808080&rank_icon=github"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandisetiawanco&layout=compact&hide_border=true&bg_color=00000000&title_color=10B981&text_color=808080&langs_count=8"
+    alt="Top Languages"
+  />
+
+  <br/><br/>
+
+  <img
+    width="80%"
+    src="https://streak-stats.demolab.com?user=dandisetiawanco&hide_border=true&background=00000000&ring=059669&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&currStreakNum=808080&sideNums=808080&dates=808080"
+    alt="GitHub Streak"
+  />
 
 </div>
 
-<br/>
+## Contribution Activity
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dandisetiawanco&theme=dark&background=0f172a&border=312e81&ring=6366f1&fire=06b6d4&currStreakNum=e0e7ff&sideNums=e0e7ff&sideTitle=06b6d4&dates=818cf8" width="90%" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dandisetiawanco&bg_color=transparent&color=10B981&line=059669&point=34D399&area=true&area_color=059669&hide_border=true"
+    alt="Contribution Activity"
+  />
 
 </div>
 
-<br/>
+## Professional Contact
 
-### 🌐 System Activity & Contribution Timeline
+Open to software engineering opportunities, technology projects, research, and professional collaborations.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dandisetiawanco&bg_color=0f172a&color=06b6d4&line=6366f1&point=ffffff&area=true&area_color=1e1b4b&hide_border=true" width="100%" />
-</div>
-
-<br/>
+| Platform | Contact |
+| :--- | :--- |
+| Personal Website | [www.dandisetiawan.id](https://www.dandisetiawan.id/) |
+| NGOPREK DIGITAL | [www.ngoprekdigital.site](https://www.ngoprekdigital.site/) |
+| LinkedIn | [Dandi Setiawan](https://linkedin.com/in/dandi-setiawan) |
+| WhatsApp | [+62 877-0061-6969](https://wa.me/6287700616969) |
+| Email | [dandisetiawan.co@gmail.com](mailto:dandisetiawan.co@gmail.com) |
+| Location | Bandar Lampung, Indonesia |
 
 ---
 
 <div align="center">
 
-  ### 📬 Connect & Collaboration
+  <h3>Build with purpose. Engineer with precision.</h3>
 
-  If you have an interesting project, engineering role, or technical collaboration in mind, feel free to reach out.
+  <p>
+    <strong>NGOPREK DIGITAL</strong>
+  </p>
 
-  <br/>
+  <p>
+    Connect. Collaborate. Create.
+  </p>
 
-  <a href="https://linkedin.com/in/dandi-setiawan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:dandisetiawan.co@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20a%20Message-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.ngoprekdigital.site/">
+    <img src="https://img.shields.io/badge/Explore_NGOPREK_DIGITAL-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NGOPREK DIGITAL"/>
   </a>
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06b6d4,50:6366f1,100:4f46e5" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=dandisetiawanco&style=flat-square&color=059669&label=Profile+Views" alt="Profile Views"/>
 
-  <sub>Crafted with precision by <b>Dandi Setiawan</b></sub>
+  <br/><br/>
+
+  <sub>Designed & maintained by Dandi Setiawan.</sub>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=059669&height=6&section=footer" width="100%" alt="Footer"/>
 
 </div>
