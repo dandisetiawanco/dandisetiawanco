@@ -1,20 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 182" width="440" height="182" role="img" aria-labelledby="p-nexa-t p-nexa-d">
-  <title id="p-nexa-t">NEXA POS: Store Management &amp; Point of Sale</title>
-  <desc id="p-nexa-d">Open-source store management and point-of-sale platform built with Laravel 12, React, Sanctum, Tailwind CSS, and MySQL.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 256" width="440" height="256" role="img" aria-labelledby="nx-t nx-d">
+  <title id="nx-t">NEXA POS: Store Operations &amp; Point of Sale</title>
+  <desc id="nx-d">Interactive POS register and SKU inventory showcase for NEXA POS built with Laravel 12 and React.</desc>
+  <defs>
+    <linearGradient id="nx-bg" x1="0" y1="0" x2="440" y2="256" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B0F14" />
+      <stop offset="100%" stop-color="#0F1715" />
+    </linearGradient>
+    <clipPath id="nx-clip">
+      <rect x="0.75" y="0.75" width="438.5" height="254.5" rx="12" />
+    </clipPath>
+  </defs>
   <style>
     .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
     .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+    .pay-bar { transform-origin: 288px 124px; transform: scaleX(1); }
+    @media (prefers-reduced-motion: no-preference) {
+      .scan-row { animation: posScan 6.4s ease-in-out infinite; }
+      .pay-bar  { animation: payFill 6.4s cubic-bezier(0.22, 1, 0.36, 1) infinite; }
+    }
+    @keyframes posScan {
+      0%, 45%  { transform: translateY(0px); opacity: 1; }
+      50%, 92% { transform: translateY(28px); opacity: 1; }
+      100%     { transform: translateY(0px); opacity: 1; }
+    }
+    @keyframes payFill {
+      0%, 15%  { transform: scaleX(0.35); opacity: 0.6; }
+      55%, 90% { transform: scaleX(1); opacity: 1; }
+      100%     { transform: scaleX(0.35); opacity: 0.6; }
+    }
   </style>
-  <rect x="0.75" y="0.75" width="438.5" height="180.5" rx="12" fill="#0D1117" stroke="#24352E" stroke-width="1.2" />
 
-  <text x="24" y="34" class="mono" font-size="11" font-weight="500" fill="#34D399">Full-stack web</text>
-  <text x="416" y="34" text-anchor="end" class="mono" font-size="11" fill="#9CA3AF">dandisetiawanco/nexapos</text>
+  <g clip-path="url(#nx-clip)">
+    <rect x="0" y="0" width="440" height="256" fill="url(#nx-bg)" />
 
-  <text x="24" y="65" class="sans" font-size="19.5" font-weight="700" fill="#F0F6FC" letter-spacing="-0.015em">NEXA POS</text>
+    <!-- Upper Product UI: Split Cashier Register & Stock Control -->
+    <rect x="18" y="18" width="404" height="128" rx="9" fill="#111820" stroke="#1E2C30" stroke-width="1" />
 
-  <text x="24" y="93" class="sans" font-size="13.3" fill="#D1D5DB">Store operations and point-of-sale platform with role-based</text>
-  <text x="24" y="113" class="sans" font-size="13.3" fill="#D1D5DB">access, SKU stock tracking, barcode lookup, and sales reports.</text>
+    <!-- Left Register Cart -->
+    <text x="30" y="36" class="mono" font-size="9.5" fill="#94A3B8">REGISTER · SKU SCANNER</text>
+    <rect class="scan-row" x="26" y="44" width="238" height="24" rx="5" fill="#122922" stroke="#10B981" stroke-opacity="0.65" stroke-width="1" />
 
-  <line x1="24" y1="136" x2="416" y2="136" stroke="#1E2D27" stroke-width="1" />
-  <text x="24" y="159" class="mono" font-size="11.3" fill="#9CA3AF">Laravel 12  ·  React  ·  Tailwind CSS  ·  Sanctum  ·  MySQL</text>
+    <text x="34" y="60" class="sans" font-size="10.8" font-weight="500" fill="#F1F5F9">Arabica Beans 250g</text>
+    <text x="256" y="60" text-anchor="end" class="mono" font-size="10.2" fill="#34D399">2 x 65k</text>
+
+    <text x="34" y="88" class="sans" font-size="10.8" font-weight="500" fill="#CBD5E1">Oat Milk Barista 1L</text>
+    <text x="256" y="88" text-anchor="end" class="mono" font-size="10.2" fill="#CBD5E1">1 x 55k</text>
+
+    <line x1="30" y1="104" x2="260" y2="104" stroke="#1D2A30" stroke-width="1" />
+    <text x="34" y="124" class="mono" font-size="9.8" fill="#34D399">SKU-204 · Stock: 42</text>
+    <text x="256" y="124" text-anchor="end" class="mono" font-size="9.8" fill="#94A3B8">Sanctum RBAC</text>
+
+    <!-- Vertical Divider -->
+    <line x1="274" y1="26" x2="274" y2="138" stroke="#1E2B32" stroke-width="1" />
+
+    <!-- Right Order Settlement Module -->
+    <text x="288" y="38" class="mono" font-size="9.5" fill="#94A3B8">SETTLEMENT</text>
+    <text x="288" y="66" class="mono" font-size="18" font-weight="700" fill="#F8FAFC">Rp 185k</text>
+    <text x="288" y="84" class="sans" font-size="10.2" fill="#94A3B8">3 items · Tax incl.</text>
+    <rect x="288" y="102" width="120" height="26" rx="5" fill="#132A22" stroke="#285244" stroke-width="1" />
+    <text x="348" y="118" text-anchor="middle" class="sans" font-size="10.5" font-weight="600" fill="#34D399">Checkout Paid</text>
+    <rect class="pay-bar" x="288" y="134" width="120" height="3" rx="1.5" fill="#10B981" />
+
+    <!-- Lower Project Metadata -->
+    <text x="22" y="175" class="sans" font-size="19" font-weight="700" fill="#F8FAFC" letter-spacing="-0.015em">NEXA POS</text>
+    <text x="418" y="174" text-anchor="end" class="mono" font-size="10.8" fill="#94A3B8">dandisetiawanco/nexapos</text>
+    <text x="22" y="200" class="sans" font-size="13" fill="#CBD5E1">Point-of-sale, barcode lookup, and role-gated inventory system.</text>
+    <line x1="22" y1="217" x2="418" y2="217" stroke="#1C2A26" stroke-width="1" />
+    <text x="22" y="237" class="mono" font-size="11" fill="#34D399">Laravel 12  ·  React  ·  Tailwind CSS  ·  Sanctum  ·  MySQL</text>
+  </g>
+
+  <rect x="0.75" y="0.75" width="438.5" height="254.5" rx="12" fill="none" stroke="#23342E" stroke-width="1.2" />
 </svg>

@@ -1,20 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 182" width="440" height="182" role="img" aria-labelledby="p-port-tl p-port-dl">
-  <title id="p-port-tl">Personal Portfolio (dandisetiawan.id)</title>
-  <desc id="p-port-dl">Light-mode project card for Dandi Setiawan's personal software engineering portfolio.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 96" width="440" height="96" role="img" aria-labelledby="pt-tl pt-dl">
+  <title id="pt-tl">Personal Portfolio (dandisetiawan.id)</title>
+  <desc id="pt-dl">Light-mode compact secondary index card for Dandi Setiawan's personal engineering portfolio.</desc>
   <style>
     .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
     .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
   </style>
-  <rect x="0.75" y="0.75" width="438.5" height="180.5" rx="12" fill="#FFFFFF" stroke="#D5E0DC" stroke-width="1.2" />
+  <line x1="0" y1="1" x2="440" y2="1" stroke="#CBD8D3" stroke-width="1.2" />
+  <line x1="0" y1="1" x2="54" y2="1" stroke="#059669" stroke-width="2" />
+  <line x1="0" y1="95" x2="440" y2="95" stroke="#E2ECE8" stroke-width="1" />
 
-  <text x="24" y="34" class="mono" font-size="11" font-weight="600" fill="#047857">Engineering archive</text>
-  <text x="416" y="34" text-anchor="end" class="mono" font-size="11" fill="#566560">dandisetiawan.id</text>
+  <text x="6" y="31" class="sans" font-size="15.5" font-weight="700" fill="#0F1715" letter-spacing="-0.01em">Personal Portfolio</text>
+  <text x="418" y="30" text-anchor="end" class="mono" font-size="11" font-weight="600" fill="#047857">dandisetiawan.id</text>
+  <path d="M 425 28 L 432 21 M 427 21 L 432 21 L 432 26" fill="none" stroke="#047857" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round" />
 
-  <text x="24" y="65" class="sans" font-size="19.5" font-weight="700" fill="#0F1715" letter-spacing="-0.015em">Personal Portfolio</text>
-
-  <text x="24" y="93" class="sans" font-size="13.3" fill="#2E3A36">Published archive documenting production web systems,</text>
-  <text x="24" y="113" class="sans" font-size="13.3" fill="#2E3A36">decision-support research, and engineering case studies.</text>
-
-  <line x1="24" y1="136" x2="416" y2="136" stroke="#DCE5E1" stroke-width="1" />
-  <text x="24" y="159" class="mono" font-size="11.3" fill="#4B5854">React 19  ·  Vite  ·  Framer Motion  ·  Technical SEO</text>
+  <text x="6" y="54" class="sans" font-size="12.5" fill="#2E3A36">Engineering archive, research notes, and production case studies.</text>
+  <text x="6" y="77" class="mono" font-size="10.8" fill="#566560">React 19  ·  Vite  ·  Framer Motion  ·  Technical SEO</text>
 </svg>
