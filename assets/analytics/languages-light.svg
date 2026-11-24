@@ -44,33 +44,33 @@
   <line x1="20" y1="45" x2="420" y2="45" stroke="#DCE6E2" stroke-width="1" />
   <rect x="20" y="60" width="400" height="10" rx="5" fill="#F8FBFA" />
   <g clip-path="url(#lang-bar-light)">
-    <rect x="20.0" y="60" width="96.1" height="10" fill="#047857" />
-    <rect x="118.1" y="60" width="91.4" height="10" fill="#10B981" />
-    <rect x="211.5" y="60" width="74.1" height="10" fill="#065F46" />
-    <rect x="287.6" y="60" width="53.6" height="10" fill="#34D399" />
-    <rect x="343.2" y="60" width="48.5" height="10" fill="#566560" />
+    <rect x="20.0" y="60" width="96.4" height="10" fill="#047857" />
+    <rect x="118.4" y="60" width="90.5" height="10" fill="#10B981" />
+    <rect x="210.9" y="60" width="74.4" height="10" fill="#065F46" />
+    <rect x="287.3" y="60" width="53.9" height="10" fill="#34D399" />
+    <rect x="343.2" y="60" width="48.4" height="10" fill="#566560" />
     <rect x="393.6" y="60" width="26.4" height="10" fill="#8CA19A" />
     <rect class="bar-sheen" x="20" y="60" width="110" height="10" fill="url(#lg-sheen-light)" />
   </g>
   <g>
     <rect class="sw-0" x="20" y="96" width="10" height="10" rx="2.5" fill="#047857" />
     <text x="38" y="106" class="sans" font-size="13" font-weight="600" fill="#0F1715">JavaScript</text>
-    <text x="206" y="106" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">24.4%</text>
+    <text x="206" y="106" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">24.5%</text>
   </g>
   <g>
     <rect class="sw-1" x="230" y="96" width="10" height="10" rx="2.5" fill="#10B981" />
     <text x="248" y="106" class="sans" font-size="13" font-weight="600" fill="#0F1715">Python</text>
-    <text x="416" y="106" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">23.2%</text>
+    <text x="416" y="106" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">23.0%</text>
   </g>
   <g>
     <rect class="sw-2" x="20" y="129" width="10" height="10" rx="2.5" fill="#065F46" />
     <text x="38" y="139" class="sans" font-size="13" font-weight="600" fill="#0F1715">PHP</text>
-    <text x="206" y="139" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">18.8%</text>
+    <text x="206" y="139" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">18.9%</text>
   </g>
   <g>
     <rect class="sw-3" x="230" y="129" width="10" height="10" rx="2.5" fill="#34D399" />
     <text x="248" y="139" class="sans" font-size="13" font-weight="600" fill="#0F1715">Blade</text>
-    <text x="416" y="139" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">13.6%</text>
+    <text x="416" y="139" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">13.7%</text>
   </g>
   <g>
     <rect class="sw-4" x="20" y="162" width="10" height="10" rx="2.5" fill="#566560" />
