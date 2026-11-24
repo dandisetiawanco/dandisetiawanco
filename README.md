@@ -48,49 +48,19 @@ My engineering work centers on full-stack web platforms built with Laravel, Reac
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/dandisetiawanco/AgentOs">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/agentos.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/agentos-light.svg" />
-      <img alt="AgentOS: Open-source local-first autonomous AI desktop assistant built with Tauri, React, FastAPI, and LangGraph" src="./assets/projects/agentos.svg" width="100%" />
-    </picture>
-  </a>
+  <a href="https://github.com/dandisetiawanco/AgentOs"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/agentos.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/agentos-light.svg" /><img alt="AgentOS: Open-source local-first autonomous AI desktop assistant built with Tauri, React, FastAPI, and LangGraph" src="./assets/projects/agentos.svg" width="100%" /></picture></a>
 </div>
 
 <p align="center">
-  <a href="https://www.ngoprekdigital.site/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/ngoprek-platform.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/ngoprek-platform-light.svg" />
-      <img alt="NGOPREK DIGITAL Web Platform: Active technology collective platform" src="./assets/projects/ngoprek-platform.svg" width="404" />
-    </picture>
-  </a>
+  <a href="https://www.ngoprekdigital.site/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/ngoprek-platform.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/ngoprek-platform-light.svg" /><img alt="NGOPREK DIGITAL Web Platform: Active technology collective platform" src="./assets/projects/ngoprek-platform.svg" width="404" /></picture></a>
   &nbsp;
-  <a href="https://www.dandisetiawan.id/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/portfolio.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/portfolio-light.svg" />
-      <img alt="Personal Portfolio at dandisetiawan.id: Published full-stack engineering archive" src="./assets/projects/portfolio.svg" width="404" />
-    </picture>
-  </a>
+  <a href="https://www.dandisetiawan.id/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/portfolio.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/portfolio-light.svg" /><img alt="Personal Portfolio at dandisetiawan.id: Published full-stack engineering archive" src="./assets/projects/portfolio.svg" width="404" /></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/dandisetiawanco/nexapos">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/nexapos.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/nexapos-light.svg" />
-      <img alt="NEXA POS: Open-source store management and point-of-sale platform built with Laravel 12 and React" src="./assets/projects/nexapos.svg" width="404" />
-    </picture>
-  </a>
+  <a href="https://github.com/dandisetiawanco/nexapos"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/nexapos.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/nexapos-light.svg" /><img alt="NEXA POS: Open-source store management and point-of-sale platform built with Laravel 12 and React" src="./assets/projects/nexapos.svg" width="404" /></picture></a>
   &nbsp;
-  <a href="https://github.com/dandisetiawanco/nimbus">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/nimbus.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/nimbus-light.svg" />
-      <img alt="NIMBUS CMS: Modular content management system built with Laravel 12, Blade, and Tailwind CSS" src="./assets/projects/nimbus.svg" width="404" />
-    </picture>
-  </a>
+  <a href="https://github.com/dandisetiawanco/nimbus"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/nimbus.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/nimbus-light.svg" /><img alt="NIMBUS CMS: Modular content management system built with Laravel 12, Blade, and Tailwind CSS" src="./assets/projects/nimbus.svg" width="404" /></picture></a>
 </p>
 
 ### Additional Public Repositories
@@ -159,13 +129,7 @@ Browse all public work on [GitHub Repositories](https://github.com/dandisetiawan
 ## NGOPREK DIGITAL
 
 <div align="center">
-  <a href="https://www.ngoprekdigital.site/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/ngoprek-digital.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/ngoprek-digital-light.svg" />
-      <img alt="NGOPREK DIGITAL: Connect. Collaborate. Create." src="./assets/ngoprek-digital.svg" width="100%" />
-    </picture>
-  </a>
+  <a href="https://www.ngoprekdigital.site/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ngoprek-digital.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/ngoprek-digital-light.svg" /><img alt="NGOPREK DIGITAL: Connect. Collaborate. Create." src="./assets/ngoprek-digital.svg" width="100%" /></picture></a>
 </div>
 
 [NGOPREK DIGITAL](https://www.ngoprekdigital.site/) is a multidisciplinary Indonesian technology collective I founded to unite software engineers, AI practitioners, product designers, and creative technologists. The collective builds web platforms, custom software, mobile applications, and applied AI solutions for organizations and independent teams.
