@@ -1,195 +1,153 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-labelledby="hero-title hero-desc">
-  <title id="hero-title">Dandi Setiawan, Full Stack Software Engineer, Artificial Intelligence Developer, Founder of NGOPREK DIGITAL</title>
-  <desc id="hero-desc">Animated architectural emerald and deep navy banner introducing Dandi Setiawan with subtle geometric circuit data streams.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 248" width="900" height="248" role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">Dandi Setiawan, Software Engineer &amp; AI Developer, Bandar Lampung, Indonesia</title>
+  <desc id="hero-desc">Editorial personal portfolio header for Dandi Setiawan featuring restrained typography, subtle emerald accent motion, and obsidian tonal depth.</desc>
   <defs>
-    <linearGradient id="bg-grad" x1="0" y1="0" x2="1000" y2="260" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0A151D" />
-      <stop offset="58%" stop-color="#0E1E29" />
-      <stop offset="100%" stop-color="#112731" />
+    <linearGradient id="hero-surface" x1="0" y1="0" x2="900" y2="248" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="58%" stop-color="#0E1513" />
+      <stop offset="100%" stop-color="#101A17" />
     </linearGradient>
-    <radialGradient id="core-glow" cx="792" cy="116" r="155" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#10B981" stop-opacity="0.22" />
-      <stop offset="55%" stop-color="#2996A8" stop-opacity="0.08" />
-      <stop offset="100%" stop-color="#0E1E29" stop-opacity="0" />
+    <radialGradient id="ambient-emerald" cx="720" cy="84" r="310" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.085" />
+      <stop offset="55%" stop-color="#10B981" stop-opacity="0.025" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
     </radialGradient>
-    <linearGradient id="stream-emerald" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="top-edge-sheen" x1="0" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#34D399" stop-opacity="0" />
-      <stop offset="50%" stop-color="#34D399" stop-opacity="0.95" />
-      <stop offset="100%" stop-color="#5EEAD4" stop-opacity="0" />
-    </linearGradient>
-    <linearGradient id="top-sweep" x1="0" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#34D399" stop-opacity="0" />
-      <stop offset="50%" stop-color="#34D399" stop-opacity="0.85" />
+      <stop offset="50%" stop-color="#34D399" stop-opacity="0.65" />
       <stop offset="100%" stop-color="#34D399" stop-opacity="0" />
     </linearGradient>
-    <clipPath id="card-clip">
-      <rect x="1" y="1" width="998" height="258" rx="16" />
+    <linearGradient id="rule-sheen" x1="0" y1="0" x2="140" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0" />
+      <stop offset="50%" stop-color="#34D399" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="hero-clip">
+      <rect x="0.75" y="0.75" width="898.5" height="246.5" rx="12" />
     </clipPath>
-    <filter id="node-glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="2.5" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
+    <clipPath id="rule-clip">
+      <rect x="56" y="160" width="788" height="6" />
+    </clipPath>
   </defs>
 
   <style>
     .sans {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
     }
-    .serif-italic {
-      font-family: Georgia, "Times New Roman", serif;
-      font-style: italic;
+    .edge-sheen, .rule-pass {
+      opacity: 0;
     }
-    .mono {
-      font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
-    }
-    .trace-base {
-      fill: none;
-      stroke: #1D3A47;
-      stroke-width: 1.25;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-    }
-    .trace-flow {
-      fill: none;
-      stroke: #34D399;
-      stroke-width: 1.75;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-    }
-    .trace-flow-teal {
-      fill: none;
-      stroke: #5EEAD4;
-      stroke-width: 1.5;
-      stroke-linecap: round;
-      stroke-linejoin: round;
+    .accent-bar {
+      transform-origin: 56px 163px;
     }
 
     @media (prefers-reduced-motion: no-preference) {
-      .enter-1 { animation: fadeSlide 0.55s cubic-bezier(0.22, 1, 0.36, 1) 0.05s both; }
-      .enter-2 { animation: fadeSlide 0.6s cubic-bezier(0.22, 1, 0.36, 1) 0.16s both; }
-      .enter-3 { animation: fadeSlide 0.6s cubic-bezier(0.22, 1, 0.36, 1) 0.28s both; }
-      .enter-4 { animation: fadeSlide 0.6s cubic-bezier(0.22, 1, 0.36, 1) 0.40s both; }
-
-      .flow-a { stroke-dasharray: 52 340; animation: dashA 5.6s linear infinite; }
-      .flow-b { stroke-dasharray: 44 316; animation: dashB 6.8s linear infinite; }
-      .flow-c { stroke-dasharray: 38 282; animation: dashC 4.9s linear infinite; }
-      .flow-d { stroke-dasharray: 46 314; animation: dashD 6.2s linear infinite; }
-      .flow-e { stroke-dasharray: 34 246; animation: dashE 7.4s linear infinite; }
-
-      .ring-cw { transform-origin: 792px 116px; animation: spinCW 32s linear infinite; }
-      .ring-ccw { transform-origin: 792px 116px; animation: spinCCW 44s linear infinite; }
-      .pulse-1 { animation: nodePulse 3.6s ease-in-out infinite; }
-      .pulse-2 { animation: nodePulse 4.4s ease-in-out 1.2s infinite; }
-      .pulse-3 { animation: nodePulse 5.0s ease-in-out 2.1s infinite; }
-      .sweep-bar { animation: sweepX 8.5s ease-in-out infinite; }
+      .t-name {
+        animation: riseIn 0.72s cubic-bezier(0.16, 1, 0.3, 1) 0.04s both;
+      }
+      .t-role {
+        animation: riseIn 0.72s cubic-bezier(0.16, 1, 0.3, 1) 0.14s both;
+      }
+      .accent-bar {
+        animation: drawRule 0.85s cubic-bezier(0.16, 1, 0.3, 1) 0.22s both;
+      }
+      .t-loc {
+        animation: riseIn 0.72s cubic-bezier(0.16, 1, 0.3, 1) 0.28s both;
+      }
+      .ambient-plane {
+        animation: ambientShift 14s ease-in-out infinite;
+      }
+      .edge-sheen {
+        animation: topGlide 12s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+      }
+      .rule-pass {
+        animation: ruleGlide 12s cubic-bezier(0.4, 0, 0.2, 1) 1.5s infinite;
+      }
     }
 
-    @keyframes fadeSlide {
-      from { opacity: 0; transform: translateY(8px); }
-      to { opacity: 1; transform: translateY(0); }
+    @keyframes riseIn {
+      from {
+        opacity: 0;
+        transform: translateY(6px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
     }
-    @keyframes dashA { from { stroke-dashoffset: 392; } to { stroke-dashoffset: 0; } }
-    @keyframes dashB { from { stroke-dashoffset: 360; } to { stroke-dashoffset: 0; } }
-    @keyframes dashC { from { stroke-dashoffset: 320; } to { stroke-dashoffset: 0; } }
-    @keyframes dashD { from { stroke-dashoffset: 0; } to { stroke-dashoffset: 360; } }
-    @keyframes dashE { from { stroke-dashoffset: 0; } to { stroke-dashoffset: 280; } }
-    @keyframes spinCW { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-    @keyframes spinCCW { from { transform: rotate(360deg); } to { transform: rotate(0deg); } }
-    @keyframes nodePulse {
-      0%, 100% { opacity: 0.45; }
-      50% { opacity: 1; }
+    @keyframes drawRule {
+      from {
+        opacity: 0;
+        transform: scaleX(0.15);
+      }
+      to {
+        opacity: 1;
+        transform: scaleX(1);
+      }
     }
-    @keyframes sweepX {
-      0% { transform: translateX(-280px); opacity: 0; }
-      12% { opacity: 0.9; }
-      88% { opacity: 0.9; }
-      100% { transform: translateX(1020px); opacity: 0; }
+    @keyframes ambientShift {
+      0%, 100% {
+        transform: translate(0px, 0px);
+        opacity: 0.9;
+      }
+      50% {
+        transform: translate(-36px, 12px);
+        opacity: 1;
+      }
+    }
+    @keyframes topGlide {
+      0% {
+        transform: translateX(-260px);
+        opacity: 0;
+      }
+      15% {
+        opacity: 0.85;
+      }
+      75% {
+        opacity: 0.85;
+      }
+      92%, 100% {
+        transform: translateX(920px);
+        opacity: 0;
+      }
+    }
+    @keyframes ruleGlide {
+      0% {
+        transform: translateX(-90px);
+        opacity: 0;
+      }
+      12% {
+        opacity: 0.75;
+      }
+      72% {
+        opacity: 0.75;
+      }
+      88%, 100% {
+        transform: translateX(860px);
+        opacity: 0;
+      }
     }
   </style>
 
-  <g clip-path="url(#card-clip)">
-    <!-- Canvas & controlled luminous core -->
-    <rect x="0" y="0" width="1000" height="260" fill="url(#bg-grad)" />
-    <rect x="0" y="0" width="1000" height="260" fill="url(#core-glow)" />
+  <g clip-path="url(#hero-clip)">
+    <rect x="0" y="0" width="900" height="248" fill="url(#hero-surface)" />
+    <rect class="ambient-plane" x="-60" y="-30" width="1020" height="308" fill="url(#ambient-emerald)" />
 
-    <!-- Top emerald light sweep -->
-    <rect class="sweep-bar" x="0" y="1" width="260" height="2" fill="url(#top-sweep)" />
+    <line x1="56" y1="1.25" x2="844" y2="1.25" stroke="#182621" stroke-width="1" />
+    <rect class="edge-sheen" x="0" y="0.75" width="260" height="1.25" fill="url(#top-edge-sheen)" />
 
-    <!-- Architectural corner registration brackets -->
-    <g stroke="#2B5B53" stroke-width="1.25" fill="none" opacity="0.9">
-      <path d="M 18 32 L 18 18 L 32 18" />
-      <path d="M 968 18 L 982 18 L 982 32" />
-      <path d="M 18 228 L 18 242 L 32 242" />
-      <path d="M 968 242 L 982 242 L 982 228" />
+    <text x="56" y="100" class="sans t-name" font-size="48" font-weight="700" fill="#F0F6FC" letter-spacing="-0.03em">Dandi Setiawan</text>
+
+    <text x="56" y="138" class="sans t-role" font-size="19.5" font-weight="500" fill="#D1D5DB" letter-spacing="-0.01em">Software Engineer &amp; AI Developer</text>
+
+    <line x1="56" y1="163" x2="844" y2="163" stroke="#24352E" stroke-width="1" />
+    <g clip-path="url(#rule-clip)">
+      <rect class="rule-pass" x="56" y="162.25" width="140" height="1.5" fill="url(#rule-sheen)" />
     </g>
+    <rect class="accent-bar" x="56" y="162" width="72" height="2" rx="1" fill="#10B981" />
 
-    <!-- Right-side geometric circuit & data-stream topology -->
-    <g aria-hidden="true">
-      <!-- Base static circuit paths -->
-      <path class="trace-base" d="M 555 58 L 652 58 L 684 90 L 732 90" />
-      <path class="trace-base" d="M 588 116 L 716 116" />
-      <path class="trace-base" d="M 548 176 L 648 176 L 682 142 L 732 142" />
-      <path class="trace-base" d="M 852 90 L 904 90 L 934 60 L 986 60" />
-      <path class="trace-base" d="M 868 116 L 986 116" />
-      <path class="trace-base" d="M 852 142 L 906 142 L 936 172 L 986 172" />
-      <path class="trace-base" d="M 792 22 L 792 48" />
-      <path class="trace-base" d="M 792 184 L 792 204" />
-
-      <!-- Animated data stream pulses -->
-      <path class="trace-flow flow-a" d="M 555 58 L 652 58 L 684 90 L 732 90" />
-      <path class="trace-flow-teal flow-b" d="M 588 116 L 716 116" />
-      <path class="trace-flow flow-c" d="M 548 176 L 648 176 L 682 142 L 732 142" />
-      <path class="trace-flow-teal flow-d" d="M 852 90 L 904 90 L 934 60 L 986 60" />
-      <path class="trace-flow flow-e" d="M 852 142 L 906 142 L 936 172 L 986 172" />
-
-      <!-- Subtle geometric diamond frame around central node -->
-      <polygon points="792,46 862,116 792,186 722,116" fill="none" stroke="#1E4152" stroke-width="1" />
-
-      <!-- Counter-rotating precision rings -->
-      <g class="ring-cw">
-        <circle cx="792" cy="116" r="56" fill="none" stroke="#23534A" stroke-width="1.25" stroke-dasharray="18 10 6 10" />
-      </g>
-      <g class="ring-ccw">
-        <circle cx="792" cy="116" r="41" fill="none" stroke="#34D399" stroke-opacity="0.55" stroke-width="1.25" stroke-dasharray="28 16 8 16" />
-      </g>
-
-      <!-- Central architectural emblem badge -->
-      <rect x="766" y="90" width="52" height="52" rx="12" fill="#102530" stroke="#34D399" stroke-opacity="0.65" stroke-width="1.4" />
-      <path d="M 779 127 L 779 105 L 792 125 L 792 105" fill="none" stroke="#F0F7F4" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" />
-      <path d="M 798 105 L 803 105 C 808 105 811 109.5 811 116 C 811 122.5 808 127 803 127 L 798 127 Z" fill="none" stroke="#34D399" stroke-width="2.1" stroke-linejoin="round" />
-
-      <!-- Junction telemetry nodes -->
-      <circle class="pulse-1" cx="652" cy="58" r="3" fill="#34D399" filter="url(#node-glow)" />
-      <circle class="pulse-2" cx="648" cy="176" r="3" fill="#34D399" filter="url(#node-glow)" />
-      <circle class="pulse-3" cx="904" cy="90" r="2.8" fill="#5EEAD4" />
-      <circle class="pulse-1" cx="906" cy="142" r="2.8" fill="#34D399" />
-      <circle cx="588" cy="116" r="2.4" fill="#2B5B53" />
-      <circle cx="555" cy="58" r="2.4" fill="#2B5B53" />
-      <circle cx="548" cy="176" r="2.4" fill="#2B5B53" />
-    </g>
-
-    <!-- Primary editorial typography -->
-    <g>
-      <text x="48" y="54" class="sans enter-1" font-size="13" font-weight="500" fill="#34D399" letter-spacing="0.02em">Bandar Lampung, Indonesia  ·  Software Engineering &amp; AI</text>
-
-      <text x="48" y="108" class="sans enter-2" font-size="44" font-weight="700" fill="#F0F7F4" letter-spacing="-0.025em">Dandi Setiawan</text>
-
-      <text x="48" y="142" class="sans enter-3" font-size="17" font-weight="500" fill="#D4E8E2">Full Stack Software Engineer  ·  Artificial Intelligence Developer</text>
-
-      <text x="48" y="170" class="sans enter-4" font-size="15.5" font-weight="400" fill="#A8C6BE">
-        Founder of <tspan font-weight="600" fill="#5EEAD4">NGOPREK DIGITAL</tspan>
-      </text>
-    </g>
-
-    <!-- Bottom architectural hairline & signature tagline -->
-    <line x1="48" y1="206" x2="952" y2="206" stroke="#1E3C48" stroke-width="1" />
-    <text x="48" y="232" class="serif-italic" font-size="15" fill="#5EEAD4">Connect. Collaborate. Create.</text>
-    <text x="952" y="231" text-anchor="end" class="mono" font-size="12" fill="#8CB3A9">dandisetiawanco  ·  ngoprekdigital.site</text>
+    <text x="56" y="191" class="sans t-loc" font-size="14" font-weight="400" fill="#9CA3AF" letter-spacing="0.01em">Bandar Lampung, Indonesia</text>
   </g>
 
-  <!-- Crisp outer border -->
-  <rect x="1" y="1" width="998" height="258" rx="16" fill="none" stroke="#1F424D" stroke-width="1.25" />
+  <rect x="0.75" y="0.75" width="898.5" height="246.5" rx="12" fill="none" stroke="#24352E" stroke-width="1.2" />
 </svg>

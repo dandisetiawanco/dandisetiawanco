@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 198" width="900" height="198" role="img" aria-labelledby="p-aos-t p-aos-d">
-  <title id="p-aos-t">AgentOS: Open-Source Local-First Autonomous AI Desktop Assistant</title>
-  <desc id="p-aos-d">Flagship product card for AgentOS built with Tauri, React, FastAPI, LangGraph, and SQLite.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 196" width="900" height="196" role="img" aria-labelledby="p-aos-t p-aos-d">
+  <title id="p-aos-t">AgentOS: Local-First AI Desktop Assistant</title>
+  <desc id="p-aos-d">Flagship open-source project card for AgentOS built with Tauri 2, React, FastAPI, LangGraph, and SQLite.</desc>
   <defs>
-    <linearGradient id="aos-bg" x1="0" y1="0" x2="900" y2="198" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0D1C26" />
-      <stop offset="100%" stop-color="#112731" />
+    <linearGradient id="aos-bg" x1="0" y1="0" x2="900" y2="196" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#101A17" />
     </linearGradient>
   </defs>
   <style>
@@ -12,41 +12,38 @@
     .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
   </style>
 
-  <rect x="1" y="1" width="898" height="196" rx="14" fill="url(#aos-bg)" stroke="#235059" stroke-width="1.25" />
+  <rect x="0.75" y="0.75" width="898.5" height="194.5" rx="12" fill="url(#aos-bg)" stroke="#24352E" stroke-width="1.2" />
 
-  <!-- Left Content -->
-  <text x="30" y="38" class="mono" font-size="11.5" font-weight="600" fill="#34D399">FLAGSHIP OPEN SOURCE  ·  RELEASED v0.1.0</text>
-  <text x="30" y="72" class="sans" font-size="26" font-weight="700" fill="#F0F7F4" letter-spacing="-0.02em">AgentOS</text>
+  <text x="32" y="38" class="mono" font-size="11.5" font-weight="500" fill="#34D399">Open-source desktop runtime  ·  v0.1.0</text>
+  <text x="32" y="72" class="sans" font-size="25" font-weight="700" fill="#F0F6FC" letter-spacing="-0.02em">AgentOS</text>
 
-  <text x="30" y="102" class="sans" font-size="14" fill="#C4DED6">Local-first autonomous AI desktop assistant that turns natural-language</text>
-  <text x="30" y="122" class="sans" font-size="14" fill="#C4DED6">instructions into structured plans, explicit permission gates, and verified actions.</text>
+  <text x="32" y="102" class="sans" font-size="13.8" fill="#D1D5DB">Local-first AI desktop assistant that converts natural-language prompts</text>
+  <text x="32" y="122" class="sans" font-size="13.8" fill="#D1D5DB">into structured plans, permission-gated tool runs, and verified output.</text>
 
-  <line x1="30" y1="146" x2="544" y2="146" stroke="#1E3C48" stroke-width="1" />
-  <text x="30" y="171" class="mono" font-size="12" fill="#92B8AE">Python  ·  TypeScript  ·  Rust  ·  Tauri 2  ·  React  ·  FastAPI  ·  LangGraph  ·  SQLite</text>
+  <line x1="32" y1="146" x2="544" y2="146" stroke="#1E2D27" stroke-width="1" />
+  <text x="32" y="170" class="mono" font-size="11.5" fill="#9CA3AF">Python  ·  TypeScript  ·  Rust  ·  Tauri 2  ·  React  ·  FastAPI  ·  LangGraph  ·  SQLite</text>
 
-  <!-- Right Minimalist Architecture Pipeline Diagram -->
-  <rect x="572" y="24" width="298" height="150" rx="10" fill="#09131B" stroke="#1D3A47" stroke-width="1" />
-  <text x="590" y="47" class="mono" font-size="11" fill="#8CB3A9">EXECUTION ARCHITECTURE</text>
+  <rect x="572" y="24" width="296" height="148" rx="10" fill="#0A0E13" stroke="#24352E" stroke-width="1" />
+  <text x="590" y="46" class="sans" font-size="11.5" font-weight="500" fill="#9CA3AF">Execution pipeline</text>
 
-  <!-- Step Nodes -->
-  <rect x="590" y="60" width="122" height="32" rx="6" fill="#122632" stroke="#254C59" stroke-width="1" />
-  <text x="651" y="80" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#F0F7F4">1. Plan Graph</text>
+  <rect x="590" y="59" width="120" height="32" rx="6" fill="#101A17" stroke="#283C34" stroke-width="1" />
+  <text x="650" y="79" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">1. Plan Graph</text>
 
-  <path d="M 712 76 L 732 76" stroke="#34D399" stroke-width="1.5" />
-  <polygon points="732,72 739,76 732,80" fill="#34D399" />
+  <path d="M 710 75 L 731 75" stroke="#10B981" stroke-width="1.4" />
+  <polygon points="731,71.5 737.5,75 731,78.5" fill="#10B981" />
 
-  <rect x="740" y="60" width="112" height="32" rx="6" fill="#133330" stroke="#34D399" stroke-opacity="0.7" stroke-width="1" />
-  <text x="796" y="80" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#34D399">2. Approval</text>
+  <rect x="739" y="59" width="111" height="32" rx="6" fill="#11241E" stroke="#2F8568" stroke-width="1" />
+  <text x="794.5" y="79" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#34D399">2. Approval</text>
 
-  <path d="M 796 92 L 796 112" stroke="#34D399" stroke-width="1.5" />
-  <polygon points="792,112 796,119 800,112" fill="#34D399" />
+  <path d="M 794.5 91 L 794.5 111" stroke="#10B981" stroke-width="1.4" />
+  <polygon points="791,111 794.5,117.5 798,111" fill="#10B981" />
 
-  <rect x="740" y="120" width="112" height="32" rx="6" fill="#122632" stroke="#254C59" stroke-width="1" />
-  <text x="796" y="140" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#F0F7F4">3. Sandbox Tool</text>
+  <rect x="739" y="119" width="111" height="32" rx="6" fill="#101A17" stroke="#283C34" stroke-width="1" />
+  <text x="794.5" y="139" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#F0F6FC">3. Sandbox Tool</text>
 
-  <path d="M 740 136 L 720 136" stroke="#5EEAD4" stroke-width="1.5" />
-  <polygon points="720,132 713,136 720,140" fill="#5EEAD4" />
+  <path d="M 739 135 L 718 135" stroke="#34D399" stroke-width="1.4" />
+  <polygon points="718,131.5 711.5,135 718,138.5" fill="#34D399" />
 
-  <rect x="590" y="120" width="122" height="32" rx="6" fill="#102E2C" stroke="#5EEAD4" stroke-opacity="0.65" stroke-width="1" />
-  <text x="651" y="140" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#5EEAD4">4. Verified Result</text>
+  <rect x="590" y="119" width="120" height="32" rx="6" fill="#101A17" stroke="#2F8568" stroke-opacity="0.7" stroke-width="1" />
+  <text x="650" y="139" text-anchor="middle" class="sans" font-size="12" font-weight="600" fill="#34D399">4. Verified Result</text>
 </svg>

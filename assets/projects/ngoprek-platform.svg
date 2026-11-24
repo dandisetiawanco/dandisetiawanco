@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 184" width="440" height="184" role="img" aria-labelledby="p-nd-t p-nd-d">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 182" width="440" height="182" role="img" aria-labelledby="p-nd-t p-nd-d">
   <title id="p-nd-t">NGOPREK DIGITAL Web Platform</title>
-  <desc id="p-nd-d">Product showcase card for NGOPREK DIGITAL, active multidisciplinary technology collective and web platform.</desc>
+  <desc id="p-nd-d">Web platform for NGOPREK DIGITAL, software engineering and AI collective.</desc>
   <style>
     .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
     .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
   </style>
-  <rect x="1" y="1" width="438" height="182" rx="12" fill="#0F1F2A" stroke="#1F3E4B" stroke-width="1.2" />
+  <rect x="0.75" y="0.75" width="438.5" height="180.5" rx="12" fill="#0D1117" stroke="#24352E" stroke-width="1.2" />
 
-  <text x="24" y="34" class="mono" font-size="11" font-weight="600" fill="#34D399">ACTIVE  ·  FOUNDER</text>
-  <text x="416" y="34" text-anchor="end" class="mono" font-size="11" fill="#8CB3A9">ngoprekdigital.site</text>
+  <text x="24" y="34" class="mono" font-size="11" font-weight="500" fill="#34D399">Technology collective</text>
+  <text x="416" y="34" text-anchor="end" class="mono" font-size="11" fill="#9CA3AF">ngoprekdigital.site</text>
 
-  <text x="24" y="66" class="sans" font-size="20" font-weight="700" fill="#F0F7F4">NGOPREK DIGITAL</text>
+  <text x="24" y="65" class="sans" font-size="19.5" font-weight="700" fill="#F0F6FC" letter-spacing="-0.015em">NGOPREK DIGITAL</text>
 
-  <text x="24" y="94" class="sans" font-size="13.5" fill="#B2CEC6">Collaborative technology collective platform showcasing</text>
-  <text x="24" y="114" class="sans" font-size="13.5" fill="#B2CEC6">engineering capabilities, AI work, and team divisions.</text>
+  <text x="24" y="93" class="sans" font-size="13.3" fill="#D1D5DB">Software and applied AI studio platform I founded to build</text>
+  <text x="24" y="113" class="sans" font-size="13.3" fill="#D1D5DB">custom web systems, mobile applications, and automation tools.</text>
 
-  <line x1="24" y1="136" x2="416" y2="136" stroke="#1C3743" stroke-width="1" />
-  <text x="24" y="160" class="mono" font-size="11.5" fill="#8CB3A9">Next.js  ·  TypeScript  ·  Tailwind CSS  ·  AI &amp; Design</text>
+  <line x1="24" y1="136" x2="416" y2="136" stroke="#1E2D27" stroke-width="1" />
+  <text x="24" y="159" class="mono" font-size="11.3" fill="#9CA3AF">Next.js  ·  TypeScript  ·  Tailwind CSS  ·  Applied AI</text>
 </svg>

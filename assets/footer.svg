@@ -1,19 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 112" width="1000" height="112" role="img" aria-labelledby="footer-title footer-desc">
-  <title id="footer-title">Connect. Collaborate. Create. Dandi Setiawan, NGOPREK DIGITAL</title>
-  <desc id="footer-desc">Animated emerald and deep navy architectural footer matching the hero banner.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 76" width="900" height="76" role="img" aria-labelledby="footer-title footer-desc">
+  <title id="footer-title">Dandi Setiawan, Software Engineer &amp; AI Developer, Bandar Lampung, Indonesia</title>
+  <desc id="footer-desc">Restrained personal signature footer matching the header palette and motion language.</desc>
   <defs>
-    <linearGradient id="f-bg" x1="0" y1="0" x2="1000" y2="112" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0A151D" />
-      <stop offset="50%" stop-color="#0F212D" />
-      <stop offset="100%" stop-color="#0A151D" />
+    <linearGradient id="f-surface" x1="0" y1="0" x2="900" y2="76" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#101A17" />
     </linearGradient>
-    <linearGradient id="f-sweep" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="f-sheen" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#34D399" stop-opacity="0" />
-      <stop offset="50%" stop-color="#34D399" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#34D399" stop-opacity="0.55" />
       <stop offset="100%" stop-color="#34D399" stop-opacity="0" />
     </linearGradient>
     <clipPath id="f-clip">
-      <rect x="1" y="1" width="998" height="110" rx="14" />
+      <rect x="0.75" y="0.75" width="898.5" height="74.5" rx="12" />
     </clipPath>
   </defs>
 
@@ -21,70 +20,32 @@
     .sans {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
     }
-    .serif-italic {
-      font-family: Georgia, "Times New Roman", serif;
-      font-style: italic;
-    }
-    .trace-base {
-      fill: none;
-      stroke: #1D3A47;
-      stroke-width: 1.2;
-      stroke-linecap: round;
-    }
-    .trace-left, .trace-right {
-      fill: none;
-      stroke: #34D399;
-      stroke-width: 1.6;
-      stroke-linecap: round;
+    .f-glide {
+      opacity: 0;
     }
     @media (prefers-reduced-motion: no-preference) {
-      .trace-left { stroke-dasharray: 42 260; animation: fLeft 5.8s linear infinite; }
-      .trace-right { stroke-dasharray: 42 260; animation: fRight 5.8s linear infinite; }
-      .f-bar { animation: fSweep 9s ease-in-out infinite; }
+      .f-glide {
+        animation: footerGlide 12s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+      }
     }
-    @keyframes fLeft { from { stroke-dashoffset: 302; } to { stroke-dashoffset: 0; } }
-    @keyframes fRight { from { stroke-dashoffset: 0; } to { stroke-dashoffset: 302; } }
-    @keyframes fSweep {
-      0% { transform: translateX(-240px); opacity: 0; }
-      14% { opacity: 0.85; }
-      86% { opacity: 0.85; }
-      100% { transform: translateX(1020px); opacity: 0; }
+    @keyframes footerGlide {
+      0% { transform: translateX(-220px); opacity: 0; }
+      15% { opacity: 0.75; }
+      75% { opacity: 0.75; }
+      92%, 100% { transform: translateX(910px); opacity: 0; }
     }
   </style>
 
   <g clip-path="url(#f-clip)">
-    <rect x="0" y="0" width="1000" height="112" fill="url(#f-bg)" />
-    <rect class="f-bar" x="0" y="109" width="220" height="2" fill="url(#f-sweep)" />
+    <rect x="0" y="0" width="900" height="76" fill="url(#f-surface)" />
+    <rect class="f-glide" x="0" y="0.75" width="220" height="1.25" fill="url(#f-sheen)" />
 
-    <!-- Corner brackets -->
-    <g stroke="#2B5B53" stroke-width="1.2" fill="none">
-      <path d="M 16 26 L 16 14 L 28 14" />
-      <path d="M 972 14 L 984 14 L 984 26" />
-      <path d="M 16 86 L 16 98 L 28 98" />
-      <path d="M 972 98 L 984 98 L 984 86" />
-    </g>
-
-    <!-- Symmetrical subtle circuit streams -->
-    <g aria-hidden="true">
-      <path class="trace-base" d="M 36 56 L 195 56 L 218 42 L 296 42" />
-      <path class="trace-base" d="M 88 74 L 222 74 L 240 62 L 296 62" />
-      <path class="trace-base" d="M 964 56 L 805 56 L 782 42 L 704 42" />
-      <path class="trace-base" d="M 912 74 L 778 74 L 760 62 L 704 62" />
-
-      <path class="trace-left" d="M 36 56 L 195 56 L 218 42 L 296 42" />
-      <path class="trace-right" d="M 964 56 L 805 56 L 782 42 L 704 42" />
-
-      <circle cx="296" cy="42" r="2.5" fill="#34D399" />
-      <circle cx="704" cy="42" r="2.5" fill="#34D399" />
-      <circle cx="296" cy="62" r="2.2" fill="#2B5B53" />
-      <circle cx="704" cy="62" r="2.2" fill="#2B5B53" />
-    </g>
-
-    <text x="500" y="51" text-anchor="middle" class="serif-italic" font-size="22" fill="#F0F7F4">Connect. Collaborate. Create.</text>
-    <text x="500" y="80" text-anchor="middle" class="sans" font-size="13" font-weight="500" fill="#A8C6BE">
-      Dandi Setiawan  ·  <tspan fill="#5EEAD4">NGOPREK DIGITAL</tspan>  ·  Bandar Lampung, Indonesia
+    <text x="32" y="43" class="sans" font-size="14.5" font-weight="600" fill="#F0F6FC">
+      Dandi Setiawan <tspan font-weight="400" fill="#9CA3AF"> ·  Software Engineer &amp; AI Developer</tspan>
     </text>
+    <text x="868" y="43" text-anchor="end" class="sans" font-size="13.5" font-weight="400" fill="#9CA3AF">Bandar Lampung, Indonesia</text>
   </g>
 
-  <rect x="1" y="1" width="998" height="110" rx="14" fill="none" stroke="#1F424D" stroke-width="1.25" />
+  <rect x="0.75" y="0.75" width="898.5" height="74.5" rx="12" fill="none" stroke="#24352E" stroke-width="1.2" />
+  <line x1="32" y1="0.75" x2="88" y2="0.75" stroke="#10B981" stroke-width="1.6" stroke-linecap="round" />
 </svg>

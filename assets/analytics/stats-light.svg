@@ -1,30 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 204" width="440" height="204" role="img" aria-labelledby="stats-t-light stats-d-light">
-  <title id="stats-t-light">GitHub Statistics for dandisetiawanco</title>
-  <desc id="stats-d-light">Real GitHub metrics: 39 contributions, 9 repositories, 29 commits, 1 day current streak.</desc>
+  <title id="stats-t-light">GitHub Statistics for dandisetiawanco (Public Scope)</title>
+  <desc id="stats-d-light">Public GitHub metrics over the last 12 months: 45 public contributions, 9 public repositories, 35 public commits, 2 day current streak.</desc>
   <style>
     .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
     .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
   </style>
-  <rect x="1" y="1" width="438" height="202" rx="12" fill="#FFFFFF" stroke="#D6E5E1" stroke-width="1.2" />
-  <text x="20" y="33" class="sans" font-size="15" font-weight="700" fill="#173344">GitHub Statistics</text>
-  <text x="420" y="32" text-anchor="end" class="mono" font-size="11" fill="#4A656C">Updated 2026-11-23</text>
-  <line x1="20" y1="45" x2="420" y2="45" stroke="#E2EFEA" stroke-width="1" />
-  <rect x="20" y="58" width="128" height="58" rx="8" fill="#F7FAF9" stroke="#E2EFEA" stroke-width="1" />
-  <text x="32" y="82" class="mono" font-size="18" font-weight="700" fill="#046C4E">39</text>
-  <text x="32" y="100" class="sans" font-size="11" font-weight="500" fill="#435C63">Annual Contributions</text>
-  <rect x="156" y="58" width="128" height="58" rx="8" fill="#F7FAF9" stroke="#E2EFEA" stroke-width="1" />
-  <text x="168" y="82" class="mono" font-size="18" font-weight="700" fill="#173344">9</text>
-  <text x="168" y="100" class="sans" font-size="11" font-weight="500" fill="#435C63">Public Repositories</text>
-  <rect x="292" y="58" width="128" height="58" rx="8" fill="#F7FAF9" stroke="#E2EFEA" stroke-width="1" />
-  <text x="304" y="82" class="mono" font-size="18" font-weight="700" fill="#173344">29</text>
-  <text x="304" y="100" class="sans" font-size="11" font-weight="500" fill="#435C63">Commits Recorded</text>
-  <rect x="20" y="126" width="128" height="58" rx="8" fill="#F7FAF9" stroke="#E2EFEA" stroke-width="1" />
-  <text x="32" y="150" class="mono" font-size="18" font-weight="700" fill="#173344">10</text>
-  <text x="32" y="168" class="sans" font-size="11" font-weight="500" fill="#435C63">Active Days</text>
-  <rect x="156" y="126" width="128" height="58" rx="8" fill="#F7FAF9" stroke="#E2EFEA" stroke-width="1" />
-  <text x="168" y="150" class="mono" font-size="18" font-weight="700" fill="#046C4E">1d</text>
-  <text x="168" y="168" class="sans" font-size="11" font-weight="500" fill="#435C63">Current Streak</text>
-  <rect x="292" y="126" width="128" height="58" rx="8" fill="#F7FAF9" stroke="#E2EFEA" stroke-width="1" />
-  <text x="304" y="150" class="mono" font-size="18" font-weight="700" fill="#173344">2d</text>
-  <text x="304" y="168" class="sans" font-size="11" font-weight="500" fill="#435C63">Longest Streak</text>
+  <rect x="0.75" y="0.75" width="438.5" height="202.5" rx="12" fill="#FFFFFF" stroke="#D5E0DC" stroke-width="1.2" />
+  <text x="20" y="32" class="sans" font-size="14.5" font-weight="700" fill="#0F1715">GitHub Statistics</text>
+  <text x="420" y="31.5" text-anchor="end" class="mono" font-size="10.8" fill="#566560">Public scope  ·  2026-11-24</text>
+  <line x1="20" y1="45" x2="420" y2="45" stroke="#DCE5E1" stroke-width="1" />
+  <rect x="20" y="58" width="128" height="58" rx="8" fill="#F6F9F8" stroke="#DCE5E1" stroke-width="1" />
+  <text x="32" y="82" class="mono" font-size="18" font-weight="700" fill="#047857">45</text>
+  <text x="32" y="100" class="sans" font-size="10.8" font-weight="500" fill="#2E3A36">Public Contributions</text>
+  <rect x="156" y="58" width="128" height="58" rx="8" fill="#F6F9F8" stroke="#DCE5E1" stroke-width="1" />
+  <text x="168" y="82" class="mono" font-size="18" font-weight="700" fill="#0F1715">9</text>
+  <text x="168" y="100" class="sans" font-size="10.8" font-weight="500" fill="#2E3A36">Public Repositories</text>
+  <rect x="292" y="58" width="128" height="58" rx="8" fill="#F6F9F8" stroke="#DCE5E1" stroke-width="1" />
+  <text x="304" y="82" class="mono" font-size="18" font-weight="700" fill="#0F1715">35</text>
+  <text x="304" y="100" class="sans" font-size="10.8" font-weight="500" fill="#2E3A36">Public Commits</text>
+  <rect x="20" y="126" width="128" height="58" rx="8" fill="#F6F9F8" stroke="#DCE5E1" stroke-width="1" />
+  <text x="32" y="150" class="mono" font-size="18" font-weight="700" fill="#0F1715">11</text>
+  <text x="32" y="168" class="sans" font-size="10.8" font-weight="500" fill="#2E3A36">Active Days (12m)</text>
+  <rect x="156" y="126" width="128" height="58" rx="8" fill="#F6F9F8" stroke="#DCE5E1" stroke-width="1" />
+  <text x="168" y="150" class="mono" font-size="18" font-weight="700" fill="#047857">2d</text>
+  <text x="168" y="168" class="sans" font-size="10.8" font-weight="500" fill="#2E3A36">Current Streak</text>
+  <rect x="292" y="126" width="128" height="58" rx="8" fill="#F6F9F8" stroke="#DCE5E1" stroke-width="1" />
+  <text x="304" y="150" class="mono" font-size="18" font-weight="700" fill="#0F1715">2d</text>
+  <text x="304" y="168" class="sans" font-size="10.8" font-weight="500" fill="#2E3A36">Longest Streak</text>
 </svg>

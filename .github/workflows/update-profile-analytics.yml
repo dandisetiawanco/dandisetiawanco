@@ -4,6 +4,11 @@ on:
   schedule:
     # Run daily at 00:15 UTC
     - cron: "15 0 * * *"
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "assets/analytics/**"
   workflow_dispatch:
 
 permissions:
@@ -15,7 +20,7 @@ concurrency:
 
 jobs:
   generate:
-    name: Generate real GitHub analytics and contribution snake SVGs
+    name: Refresh public GitHub analytics SVGs
     runs-on: ubuntu-latest
 
     steps:
@@ -27,13 +32,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate analytics and animated contribution snake SVGs
+      - name: Generate public GitHub analytics SVGs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: python3 scripts/generate_analytics.py
 
-      - name: Validate generated SVG files
+      - name: Validate SVG assets
         run: |
           python3 -c '
           import pathlib, xml.etree.ElementTree as ET
@@ -52,6 +57,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Analytics assets are already up to date."
           else
-            git commit -m "chore(analytics): refresh GitHub statistics and contribution snake"
+            git commit -m "chore(analytics): refresh public GitHub analytics SVGs"
             git push
           fi
