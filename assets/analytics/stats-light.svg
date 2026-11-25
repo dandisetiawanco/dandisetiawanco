@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 212" width="440" height="212" role="img" aria-labelledby="stats-t-light stats-d-light">
   <title id="stats-t-light">GitHub Statistics for dandisetiawanco (Public Scope)</title>
-  <desc id="stats-d-light">Public GitHub metrics over the trailing 12 months: 55 public contributions, 10 public repositories, 44 public commits.</desc>
+  <desc id="stats-d-light">Public GitHub metrics over the trailing 12 months: 53 public contributions, 8 public repositories, 44 public commits.</desc>
   <defs>
     <linearGradient id="st-bg-light" x1="0" y1="0" x2="440" y2="212" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#FFFFFF" />
@@ -30,17 +30,17 @@
   </style>
   <rect x="0.75" y="0.75" width="438.5" height="210.5" rx="12" fill="url(#st-bg-light)" stroke="#CBD8D3" stroke-width="1.2" />
   <text x="20" y="32" class="sans" font-size="14.5" font-weight="700" fill="#0F1715">GitHub Statistics</text>
-  <text x="420" y="31.5" text-anchor="end" class="mono" font-size="10.8" fill="#566560">Public scope  ·  2026-11-24</text>
+  <text x="420" y="31.5" text-anchor="end" class="mono" font-size="10.8" fill="#566560">Public scope  ·  2026-11-25</text>
   <line x1="20" y1="45" x2="420" y2="45" stroke="#DCE6E2" stroke-width="1" />
   <g>
     <rect class="mc-0" x="20" y="58" width="128" height="60" rx="8" fill="#F8FBFA" stroke="#DCE6E2" stroke-width="1" />
-    <text x="32" y="83" class="mono" font-size="18.5" font-weight="700" fill="#047857">55</text>
+    <text x="32" y="83" class="mono" font-size="18.5" font-weight="700" fill="#047857">53</text>
     <text x="32" y="101" class="sans" font-size="10.8" font-weight="500" fill="#2E3A36">Public Contributions</text>
     <rect class="k-bar" x="32" y="110" width="32" height="2" rx="1" fill="#059669" />
   </g>
   <g>
     <rect class="mc-1" x="156" y="58" width="128" height="60" rx="8" fill="#F8FBFA" stroke="#DCE6E2" stroke-width="1" />
-    <text x="168" y="83" class="mono" font-size="18.5" font-weight="700" fill="#0F1715">10</text>
+    <text x="168" y="83" class="mono" font-size="18.5" font-weight="700" fill="#0F1715">8</text>
     <text x="168" y="101" class="sans" font-size="10.8" font-weight="500" fill="#2E3A36">Public Repositories</text>
   </g>
   <g>
@@ -50,7 +50,7 @@
   </g>
   <g>
     <rect class="mc-3" x="20" y="128" width="128" height="60" rx="8" fill="#F8FBFA" stroke="#DCE6E2" stroke-width="1" />
-    <text x="32" y="153" class="mono" font-size="18.5" font-weight="700" fill="#0F1715">11</text>
+    <text x="32" y="153" class="mono" font-size="18.5" font-weight="700" fill="#0F1715">9</text>
     <text x="32" y="171" class="sans" font-size="10.8" font-weight="500" fill="#2E3A36">Active Days (12m)</text>
   </g>
   <g>
