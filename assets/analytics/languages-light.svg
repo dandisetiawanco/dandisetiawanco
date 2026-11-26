@@ -44,42 +44,42 @@
   <line x1="20" y1="45" x2="420" y2="45" stroke="#DCE6E2" stroke-width="1" />
   <rect x="20" y="60" width="400" height="10" rx="5" fill="#F8FBFA" />
   <g clip-path="url(#lang-bar-light)">
-    <rect x="20.0" y="60" width="127.2" height="10" fill="#047857" />
-    <rect x="149.2" y="60" width="81.1" height="10" fill="#10B981" />
-    <rect x="232.3" y="60" width="62.6" height="10" fill="#065F46" />
-    <rect x="296.9" y="60" width="54.5" height="10" fill="#34D399" />
-    <rect x="353.4" y="60" width="45.2" height="10" fill="#566560" />
-    <rect x="400.6" y="60" width="19.4" height="10" fill="#8CA19A" />
+    <rect x="20.0" y="60" width="131.1" height="10" fill="#047857" />
+    <rect x="153.1" y="60" width="118.7" height="10" fill="#10B981" />
+    <rect x="273.8" y="60" width="39.4" height="10" fill="#065F46" />
+    <rect x="315.2" y="60" width="38.2" height="10" fill="#34D399" />
+    <rect x="355.4" y="60" width="34.0" height="10" fill="#566560" />
+    <rect x="391.4" y="60" width="28.6" height="10" fill="#8CA19A" />
     <rect class="bar-sheen" x="20" y="60" width="110" height="10" fill="url(#lg-sheen-light)" />
   </g>
   <g>
     <rect class="sw-0" x="20" y="96" width="10" height="10" rx="2.5" fill="#047857" />
-    <text x="38" y="106" class="sans" font-size="13" font-weight="600" fill="#0F1715">Python</text>
-    <text x="206" y="106" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">31.5%</text>
+    <text x="38" y="106" class="sans" font-size="13" font-weight="600" fill="#0F1715">TypeScript</text>
+    <text x="206" y="106" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">31.6%</text>
   </g>
   <g>
     <rect class="sw-1" x="230" y="96" width="10" height="10" rx="2.5" fill="#10B981" />
-    <text x="248" y="106" class="sans" font-size="13" font-weight="600" fill="#0F1715">TypeScript</text>
-    <text x="416" y="106" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">20.1%</text>
+    <text x="248" y="106" class="sans" font-size="13" font-weight="600" fill="#0F1715">Python</text>
+    <text x="416" y="106" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">28.6%</text>
   </g>
   <g>
     <rect class="sw-2" x="20" y="129" width="10" height="10" rx="2.5" fill="#065F46" />
     <text x="38" y="139" class="sans" font-size="13" font-weight="600" fill="#0F1715">PHP</text>
-    <text x="206" y="139" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">15.5%</text>
+    <text x="206" y="139" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">9.5%</text>
   </g>
   <g>
     <rect class="sw-3" x="230" y="129" width="10" height="10" rx="2.5" fill="#34D399" />
-    <text x="248" y="139" class="sans" font-size="13" font-weight="600" fill="#0F1715">JavaScript</text>
-    <text x="416" y="139" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">13.5%</text>
+    <text x="248" y="139" class="sans" font-size="13" font-weight="600" fill="#0F1715">Go</text>
+    <text x="416" y="139" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">9.2%</text>
   </g>
   <g>
     <rect class="sw-4" x="20" y="162" width="10" height="10" rx="2.5" fill="#566560" />
-    <text x="38" y="172" class="sans" font-size="13" font-weight="600" fill="#0F1715">Blade</text>
-    <text x="206" y="172" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">11.2%</text>
+    <text x="38" y="172" class="sans" font-size="13" font-weight="600" fill="#0F1715">JavaScript</text>
+    <text x="206" y="172" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">8.2%</text>
   </g>
   <g>
     <rect class="sw-5" x="230" y="162" width="10" height="10" rx="2.5" fill="#8CA19A" />
-    <text x="248" y="172" class="sans" font-size="13" font-weight="600" fill="#0F1715">CSS</text>
-    <text x="416" y="172" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">4.8%</text>
+    <text x="248" y="172" class="sans" font-size="13" font-weight="600" fill="#0F1715">Blade</text>
+    <text x="416" y="172" text-anchor="end" class="mono" font-size="12" fill="#2E3A36">6.9%</text>
   </g>
 </svg>
