@@ -1,0 +1,177 @@
+{
+  "username": "dandisetiawanco",
+  "identity": {
+    "name": "Dandi Setiawan",
+    "role": "Full-Stack Developer & AI Engineer",
+    "statement": "Building intelligent systems, scalable applications, and software that solves real problems.",
+    "location": "Bandar Lampung, Indonesia",
+    "coordinates": "5.4292° S, 105.2610° E",
+    "studio": {
+      "name": "NGOPREK DIGITAL",
+      "url": "https://www.ngoprekdigital.site/"
+    }
+  },
+  "links": [
+    {
+      "label": "Portfolio",
+      "display": "dandisetiawan.id",
+      "url": "https://www.dandisetiawan.id/"
+    },
+    {
+      "label": "GitHub",
+      "display": "github.com/dandisetiawanco",
+      "url": "https://github.com/dandisetiawanco"
+    },
+    {
+      "label": "NGOPREK DIGITAL",
+      "display": "ngoprekdigital.site",
+      "url": "https://www.ngoprekdigital.site/"
+    },
+    {
+      "label": "LinkedIn",
+      "display": "linkedin.com/in/dandi-setiawan",
+      "url": "https://linkedin.com/in/dandi-setiawan"
+    },
+    {
+      "label": "Email",
+      "display": "dandisetiawan.co@gmail.com",
+      "url": "mailto:dandisetiawan.co@gmail.com"
+    }
+  ],
+  "featured_projects": [
+    {
+      "repo": "AgentOs",
+      "display_name": "AgentOS",
+      "slug": "agentos",
+      "index": "01",
+      "domain_label": "LOCAL-FIRST AI RUNTIME",
+      "status": "v0.1.0 Preview",
+      "accent": "emerald",
+      "summary": "Open-source local-first desktop agent that compiles natural-language tasks into typed execution plans, explicit approval gates, sandboxed tool runs, and SQLite audit traces.",
+      "stack": ["Tauri 2", "Rust", "React", "TypeScript", "FastAPI", "LangGraph", "SQLite"],
+      "layout": "hero_full"
+    },
+    {
+      "repo": "Omnidesk",
+      "display_name": "OmniDesk",
+      "slug": "omnidesk",
+      "index": "02",
+      "domain_label": "DESKTOP AI ORCHESTRATION",
+      "status": "v0.1.0 Preview",
+      "accent": "cyan",
+      "summary": "Cross-platform desktop AI operator bridging local Ollama and cloud model providers over authenticated loopback IPC with native adapters for macOS, Linux, and Windows.",
+      "stack": ["Rust", "Tauri 2", "Python", "React 19", "TypeScript", "Ollama", "Loopback IPC"],
+      "layout": "reversed_full"
+    },
+    {
+      "repo": "Ledger",
+      "display_name": "Ledger",
+      "slug": "ledger",
+      "index": "03",
+      "domain_label": "FINANCIAL ARCHITECTURE",
+      "status": "Active",
+      "accent": "amber",
+      "summary": "Modular double-entry accounting and financial management platform built with explicit ACID transaction boundaries, invoicing, bank reconciliation, and trial balance reporting.",
+      "stack": ["Java 21", "Spring Boot", "Next.js", "TypeScript", "PostgreSQL", "Docker"],
+      "layout": "pair_left"
+    },
+    {
+      "repo": "TalentOS",
+      "display_name": "TalentOS",
+      "slug": "talentos",
+      "index": "04",
+      "domain_label": "RECRUITMENT SYSTEMS",
+      "status": "Active",
+      "accent": "violet",
+      "summary": "Full-stack recruitment operating system uniting evidence-first resume extraction, organization-isolated hiring workspaces, and structured human-led evaluation pipelines.",
+      "stack": ["Next.js", "TypeScript", "FastAPI", "Python", "PostgreSQL", "Docker"],
+      "layout": "pair_right"
+    },
+    {
+      "repo": "InfraOS",
+      "display_name": "InfraOS",
+      "slug": "infraos",
+      "index": "05",
+      "domain_label": "INFRASTRUCTURE & OBSERVABILITY",
+      "status": "Active",
+      "accent": "cyan",
+      "summary": "Infrastructure operations control plane combining Go telemetry collectors, Prometheus metrics, Terraform provisioning modules, and controlled deployment workflows.",
+      "stack": ["Go", "Next.js", "TypeScript", "PostgreSQL", "Prometheus", "Terraform", "Docker"],
+      "layout": "band_full"
+    }
+  ],
+  "supporting_projects": [
+    {
+      "repo": "nexapos",
+      "display_name": "NEXA POS",
+      "summary": "Point-of-sale register, barcode SKU lookup, and Sanctum role-gated inventory system.",
+      "stack": ["Laravel 12", "PHP", "React", "MySQL"]
+    },
+    {
+      "repo": "nimbus",
+      "display_name": "NIMBUS CMS",
+      "summary": "Modular publishing platform with Trix rich-text workflows and Spatie RBAC governance.",
+      "stack": ["Laravel 12", "PHP 8.4", "Blade", "MySQL"]
+    },
+    {
+      "repo": "dandisetiawan_pk",
+      "display_name": "Employee Management System",
+      "summary": "JWT-authenticated employee CRUD API with SQL audit triggers and automated PDF reporting.",
+      "stack": ["Laravel", "PHP", "MySQL", "JWT"]
+    },
+    {
+      "repo": "vegetables-fruits-interactive",
+      "display_name": "Vegetables & Fruits Interactive",
+      "summary": "Problem-based interactive English learning web application built for elementary classrooms.",
+      "stack": ["React", "Vite", "JavaScript"]
+    }
+  ],
+  "ecosystem": {
+    "layers": [
+      {
+        "id": "interface",
+        "title": "Interface & Desktop",
+        "accent": "cyan",
+        "items": ["React", "Next.js", "TypeScript", "JavaScript", "HTML & CSS", "Tauri 2"]
+      },
+      {
+        "id": "application",
+        "title": "Application & API Services",
+        "accent": "emerald",
+        "items": ["FastAPI", "Laravel & PHP", "Django", "Spring Boot", "Go"]
+      },
+      {
+        "id": "ai",
+        "title": "AI & Agent Orchestration",
+        "accent": "violet",
+        "items": ["Python", "LangGraph", "LLM Agents", "Local Ollama", "Workflow Automation"]
+      },
+      {
+        "id": "data",
+        "title": "Data & Persistence",
+        "accent": "amber",
+        "items": ["PostgreSQL", "MySQL", "SQLite", "ACID & Audit Trails"]
+      }
+    ],
+    "backbone": {
+      "title": "Systems & Delivery",
+      "accent": "emerald",
+      "items": ["Rust", "Docker", "Terraform", "Git", "GitHub Actions", "CI/CD"]
+    }
+  },
+  "automation": {
+    "exclude_repos_from_recent": ["dandisetiawanco"],
+    "exclude_commit_prefixes": [
+      "chore(analytics):",
+      "chore(profile):",
+      "chore(readme):",
+      "auto:"
+    ],
+    "exclude_authors": [
+      "github-actions[bot]",
+      "dependabot[bot]",
+      "renovate[bot]"
+    ],
+    "max_recent_repos": 6
+  }
+}

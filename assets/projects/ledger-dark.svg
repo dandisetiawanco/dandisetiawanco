@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 320" width="448" height="320" role="img" aria-labelledby="p-ldg-t-dark p-ldg-d-dark">
+  <title id="p-ldg-t-dark">Ledger: Double-Entry Financial Architecture</title>
+  <desc id="p-ldg-d-dark">Modular double-entry accounting and financial management platform built with explicit ACID transaction boundaries, invoicing, bank reconciliation, and trial balance reporting.</desc>
+  <defs>
+    <linearGradient id="ldg-bg-dark" x1="0" y1="0" x2="448" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#101820" />
+      <stop offset="100%" stop-color="#0C131A" />
+    </linearGradient>
+    <clipPath id="ldg-clip-dark">
+      <rect x="0.75" y="0.75" width="446.5" height="318.5" rx="14" />
+    </clipPath>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+    .eq-dr { transform-origin: 40px 158px; }
+    .eq-cr { transform-origin: 408px 158px; }
+    @media (prefers-reduced-motion: no-preference) {
+      .tx-flow { stroke-dasharray: 6 6; animation: txDash 2.0s linear infinite; }
+      .tx-row-1 { animation: rowPulse 6s ease-in-out 0s infinite; }
+      .tx-row-2 { animation: rowPulse 6s ease-in-out 3s infinite; }
+      .eq-beam { animation: eqSweep 4.8s ease-in-out infinite; }
+    }
+    @keyframes txDash {
+      from { stroke-dashoffset: 24; }
+      to   { stroke-dashoffset: 0; }
+    }
+    @keyframes rowPulse {
+      0%, 42%   { opacity: 1; }
+      52%, 100% { opacity: 0.62; }
+    }
+    @keyframes eqSweep {
+      0%, 100% { opacity: 0.72; }
+      50%      { opacity: 1; }
+    }
+  </style>
+  <g clip-path="url(#ldg-clip-dark)">
+    <rect x="0" y="0" width="448" height="320" fill="url(#ldg-bg-dark)" />
+    <rect x="0" y="0" width="448" height="3.5" fill="#F59E0B" />
+
+    <!-- Top visual: Double-entry ledger & ACID reconciliation diagram -->
+    <rect x="20" y="20" width="408" height="162" rx="10" fill="#16212C" stroke="#263646" stroke-width="1.1" />
+    <text x="34" y="41" class="mono" font-size="9.5" font-weight="700" fill="#FBBF24">DOUBLE-ENTRY ENGINE</text>
+    <text x="414" y="41" text-anchor="end" class="mono" font-size="9.2" fill="#94A3B8">ACID · POSTGRESQL</text>
+    <line x1="34" y1="50" x2="414" y2="50" stroke="#1E2C3A" stroke-width="1" />
+
+    <!-- Debit journal block -->
+    <rect class="tx-row-1" x="34" y="62" width="144" height="54" rx="7" fill="#2A2215" stroke="#F59E0B" stroke-width="1.15" />
+    <text x="44" y="79" class="mono" font-size="9.2" font-weight="700" fill="#FBBF24">DEBIT LEDGER</text>
+    <text x="44" y="95" class="sans" font-size="11" font-weight="600" fill="#F8FAFC">1100 · Cash &amp; Bank</text>
+    <text x="44" y="109" class="mono" font-size="9.2" fill="#94A3B8">Invoicing · AR</text>
+
+    <!-- Center ACID verifier node -->
+    <line class="tx-flow" x1="178" y1="89" x2="202" y2="89" stroke="#F59E0B" stroke-width="1.6" />
+    <line class="tx-flow" x1="246" y1="89" x2="270" y2="89" stroke="#10B981" stroke-width="1.6" />
+    <rect x="202" y="68" width="44" height="42" rx="7" fill="#1B2836" stroke="#33485C" stroke-width="1.2" />
+    <text x="224" y="87" text-anchor="middle" class="mono" font-size="9.5" font-weight="700" fill="#F8FAFC">TX</text>
+    <text x="224" y="101" text-anchor="middle" class="mono" font-size="8.5" fill="#34D399">DR=CR</text>
+
+    <!-- Credit journal block -->
+    <rect class="tx-row-2" x="270" y="62" width="144" height="54" rx="7" fill="#112924" stroke="#10B981" stroke-width="1.15" />
+    <text x="280" y="79" class="mono" font-size="9.2" font-weight="700" fill="#34D399">CREDIT LEDGER</text>
+    <text x="280" y="95" class="sans" font-size="11" font-weight="600" fill="#F8FAFC">4100 · Revenue</text>
+    <text x="280" y="109" class="mono" font-size="9.2" fill="#94A3B8">Reconciled Journal</text>
+
+    <!-- Trial balance equilibrium bar -->
+    <text x="34" y="142" class="mono" font-size="9.2" font-weight="600" fill="#94A3B8">TRIAL BALANCE INVARIANT</text>
+    <text x="414" y="142" text-anchor="end" class="mono" font-size="9.2" font-weight="600" fill="#34D399">BALANCED · ZERO DRIFT</text>
+    <rect x="34" y="151" width="380" height="8" rx="4" fill="#1B2836" />
+    <rect class="eq-beam" x="34" y="151" width="188" height="8" rx="4" fill="#F59E0B" />
+    <rect class="eq-beam" x="226" y="151" width="188" height="8" rx="4" fill="#10B981" />
+    <rect x="222" y="148" width="4" height="14" rx="1.5" fill="#F8FAFC" />
+
+    <!-- Bottom editorial specification -->
+    <text x="22" y="208" class="mono" font-size="9.8" font-weight="600" fill="#FBBF24">03 / FINANCIAL ARCHITECTURE</text>
+    <text x="426" y="208" text-anchor="end" class="mono" font-size="9.8" fill="#94A3B8">2026-11-26</text>
+    <text x="22" y="236" class="sans" font-size="22" font-weight="700" fill="#F8FAFC" letter-spacing="-0.02em">Ledger</text>
+    <text x="22" y="260" class="sans" font-size="12.2" fill="#CBD5E1">Double-entry bookkeeping, bank reconciliation, and</text>
+    <text x="22" y="277" class="sans" font-size="12.2" fill="#CBD5E1">modular enterprise financial reporting.</text>
+    <line x1="22" y1="291" x2="426" y2="291" stroke="#1E2C3A" stroke-width="1" />
+    <text x="22" y="308" class="mono" font-size="10.2" font-weight="600" fill="#FBBF24">Java 21 · Spring Boot · Next.js · PostgreSQL</text>
+  </g>
+  <rect x="0.75" y="0.75" width="446.5" height="318.5" rx="14" fill="none" stroke="#263646" stroke-width="1.2" />
+</svg>

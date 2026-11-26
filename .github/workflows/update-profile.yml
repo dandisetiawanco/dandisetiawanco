@@ -1,0 +1,73 @@
+name: Update GitHub Profile Portfolio
+
+on:
+  schedule:
+    # Refresh every hour at minute 17 UTC to avoid top-of-hour runner congestion.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    # Optional webhook trigger from other repositories for near-real-time profile updates.
+    types: [profile-refresh]
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/**"
+      - "config/profile.json"
+      - ".github/workflows/update-profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-portfolio
+  cancel-in-progress: false
+
+jobs:
+  refresh-profile:
+    name: Refresh dynamic profile data, SVGs, and README
+    runs-on: ubuntu-latest
+    # Prevent automated refresh commits from triggering recursive runs.
+    if: github.actor != 'github-actions[bot]' || github.event_name != 'push'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate profile dataset, animated SVGs, and README sections
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python3 scripts/generate_profile.py --allow-fallback
+
+      - name: Validate generated SVGs and README integrity
+        run: |
+          python3 -c '
+          import pathlib, xml.etree.ElementTree as ET
+          svgs = sorted(pathlib.Path("assets").rglob("*.svg"))
+          assert svgs, "No SVG assets found"
+          for svg in svgs:
+              ET.parse(svg)
+          readme = pathlib.Path("README.md").read_text(encoding="utf-8")
+          for marker in ("FEATURED_PROJECTS", "RECENTLY_SHIPPED", "ANALYTICS_FOOTER"):
+              assert readme.count(f"<!-- DYNAMIC:{marker}:START -->") == 1, f"Invalid start marker {marker}"
+              assert readme.count(f"<!-- DYNAMIC:{marker}:END -->") == 1, f"Invalid end marker {marker}"
+          print(f"Validated {len(svgs)} SVGs and all README markers cleanly.")
+          '
+
+      - name: Commit and push updated profile artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/profile.json assets/ README.md
+          if git diff --cached --quiet; then
+            echo "Profile artifacts are already up to date."
+          else
+            git commit -m "chore(profile): refresh live GitHub activity and visuals"
+            git push
+          fi

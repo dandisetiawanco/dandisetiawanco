@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 74" width="920" height="74" role="img" aria-labelledby="ft-t-dark ft-d-dark">
+  <title id="ft-t-dark">Dandi Setiawan: Full-Stack Engineering, AI Systems, Software Architecture</title>
+  <desc id="ft-d-dark">Minimal animated architectural closing signature.</desc>
+  <defs>
+    <linearGradient id="ft-line-dark" x1="0" y1="0" x2="920" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#263646" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#33485C" stop-opacity="1" />
+      <stop offset="100%" stop-color="#263646" stop-opacity="0.2" />
+    </linearGradient>
+    <linearGradient id="ft-beam-dark" x1="0" y1="0" x2="200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0" />
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="ft-clip-dark">
+      <rect x="0" y="8" width="920" height="6" />
+    </clipPath>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+    .ft-sweep { opacity: 0; }
+    @media (prefers-reduced-motion: no-preference) {
+      .ft-sweep { animation: ftPass 8.5s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+    }
+    @keyframes ftPass {
+      0%        { transform: translateX(-200px); opacity: 0; }
+      15%, 78%  { opacity: 0.95; }
+      95%, 100% { transform: translateX(940px); opacity: 0; }
+    }
+  </style>
+
+  <line x1="0" y1="11" x2="920" y2="11" stroke="url(#ft-line-dark)" stroke-width="1" />
+  <g clip-path="url(#ft-clip-dark)">
+    <rect class="ft-sweep" x="0" y="10" width="200" height="2" fill="url(#ft-beam-dark)" />
+  </g>
+
+  <!-- Centered 4-domain motif echoing hero -->
+  <rect x="424" y="9.5" width="18" height="3" rx="1" fill="#10B981" />
+  <rect x="445" y="9.5" width="16" height="3" rx="1" fill="#22D3EE" />
+  <rect x="464" y="9.5" width="14" height="3" rx="1" fill="#8B5CF6" />
+  <rect x="481" y="9.5" width="12" height="3" rx="1" fill="#F59E0B" />
+
+  <text x="16" y="48" class="sans" font-size="13.5" font-weight="700" fill="#F8FAFC" letter-spacing="-0.01em">Dandi Setiawan</text>
+  <text x="460" y="48" text-anchor="middle" class="mono" font-size="10.8" font-weight="600" fill="#34D399">Full-Stack Engineering  ·  AI Systems  ·  Architecture</text>
+  <text x="904" y="48" text-anchor="end" class="mono" font-size="10.5" fill="#94A3B8">5.4292° S, 105.2610° E</text>
+</svg>

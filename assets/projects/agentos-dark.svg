@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 310" width="920" height="310" role="img" aria-labelledby="p-aos-t-dark p-aos-d-dark">
+  <title id="p-aos-t-dark">AgentOS: Local-First AI Desktop Agent Architecture</title>
+  <desc id="p-aos-d-dark">Open-source local-first desktop agent that compiles natural-language tasks into typed execution plans, explicit approval gates, sandboxed tool runs, and SQLite audit traces.</desc>
+  <defs>
+    <linearGradient id="aos-bg-dark" x1="0" y1="0" x2="920" y2="310" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#101820" />
+      <stop offset="100%" stop-color="#0C131A" />
+    </linearGradient>
+    <clipPath id="aos-clip-dark">
+      <rect x="0.75" y="0.75" width="918.5" height="308.5" rx="14" />
+    </clipPath>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+    .prog-bar { transform-origin: 416px 262px; transform: scaleX(1); }
+    @media (prefers-reduced-motion: no-preference) {
+      .flow-line { stroke-dasharray: 10 8; animation: flowRight 1.8s linear infinite; }
+      .node-1 { animation: focus1 10s ease-in-out infinite; }
+      .node-2 { animation: focus2 10s ease-in-out infinite; }
+      .node-3 { animation: focus3 10s ease-in-out infinite; }
+      .node-4 { animation: focus4 10s ease-in-out infinite; }
+      .prog-bar { animation: runFill 10s cubic-bezier(0.22, 1, 0.36, 1) infinite; }
+    }
+    @keyframes flowRight {
+      from { stroke-dashoffset: 36; }
+      to   { stroke-dashoffset: 0; }
+    }
+    @keyframes focus1 {
+      0%, 22%   { stroke: #8B5CF6; fill: #1E1B33; }
+      28%, 100% { stroke: #263646; fill: #16212C; }
+    }
+    @keyframes focus2 {
+      0%, 23%   { stroke: #263646; fill: #16212C; }
+      26%, 47%  { stroke: #F59E0B; fill: #2A2215; }
+      53%, 100% { stroke: #263646; fill: #16212C; }
+    }
+    @keyframes focus3 {
+      0%, 48%   { stroke: #263646; fill: #16212C; }
+      51%, 72%  { stroke: #10B981; fill: #112924; }
+      78%, 100% { stroke: #263646; fill: #16212C; }
+    }
+    @keyframes focus4 {
+      0%, 73%   { stroke: #263646; fill: #16212C; }
+      76%, 96%  { stroke: #22D3EE; fill: #102731; }
+      100%      { stroke: #263646; fill: #16212C; }
+    }
+    @keyframes runFill {
+      0%, 20%  { transform: scaleX(0.22); }
+      48%      { transform: scaleX(0.54); }
+      74%      { transform: scaleX(0.84); }
+      90%, 96% { transform: scaleX(1); }
+      100%     { transform: scaleX(0.22); }
+    }
+  </style>
+  <g clip-path="url(#aos-clip-dark)">
+    <rect x="0" y="0" width="920" height="310" fill="url(#aos-bg-dark)" />
+    <rect x="0" y="0" width="4" height="310" fill="#10B981" />
+
+    <!-- Left editorial specification -->
+    <text x="34" y="42" class="mono" font-size="10.2" font-weight="600" fill="#34D399">01 / LOCAL-FIRST AI RUNTIME  ·  Apache-2.0  ·  3 stars</text>
+    <text x="34" y="82" class="sans" font-size="32" font-weight="700" fill="#F8FAFC" letter-spacing="-0.025em">AgentOS</text>
+    <text x="34" y="114" class="sans" font-size="13.2" fill="#CBD5E1">Local-first desktop agent runtime turning user</text>
+    <text x="34" y="134" class="sans" font-size="13.2" fill="#CBD5E1">instructions into typed execution plans, explicit</text>
+    <text x="34" y="154" class="sans" font-size="13.2" fill="#CBD5E1">permission gates, and verifiable computer actions.</text>
+
+    <line x1="34" y1="184" x2="362" y2="184" stroke="#1E2C3A" stroke-width="1" />
+    <text x="34" y="206" class="mono" font-size="9.8" font-weight="600" fill="#94A3B8">ARCHITECTURE STACK</text>
+    <text x="34" y="228" class="mono" font-size="11" font-weight="600" fill="#F8FAFC">Tauri 2  ·  Rust  ·  React  ·  TypeScript</text>
+    <text x="34" y="248" class="mono" font-size="11" font-weight="600" fill="#34D399">FastAPI  ·  LangGraph  ·  SQLite Audit</text>
+
+    <text x="34" y="284" class="mono" font-size="10.2" fill="#94A3B8">github.com/dandisetiawanco/AgentOs</text>
+
+    <!-- Right animated DAG execution canvas -->
+    <rect x="394" y="22" width="500" height="266" rx="11" fill="#16212C" stroke="#263646" stroke-width="1.15" />
+    <text x="416" y="48" class="mono" font-size="10" font-weight="700" fill="#94A3B8">AGENT EXECUTION GRAPH</text>
+    <text x="872" y="48" text-anchor="end" class="mono" font-size="10" font-weight="600" fill="#34D399">LOCAL RUNTIME · 127.0.0.1</text>
+    <line x1="416" y1="58" x2="872" y2="58" stroke="#1E2C3A" stroke-width="1" />
+
+    <!-- Animated connecting conduits between DAG stages -->
+    <path d="M 624 104 L 664 104 M 768 136 L 768 158 M 664 190 L 624 190" fill="none" stroke="#1E2C3A" stroke-width="2" />
+    <path class="flow-line" d="M 624 104 L 664 104" fill="none" stroke="#8B5CF6" stroke-width="1.8" />
+    <path class="flow-line" d="M 768 136 L 768 158" fill="none" stroke="#F59E0B" stroke-width="1.8" />
+    <path class="flow-line" d="M 664 190 L 624 190" fill="none" stroke="#10B981" stroke-width="1.8" />
+
+    <!-- Stage 1: LangGraph Planner -->
+    <rect class="node-1" x="416" y="72" width="208" height="64" rx="8" fill="#1E1B33" stroke="#8B5CF6" stroke-width="1.25" />
+    <text x="430" y="93" class="mono" font-size="9.5" font-weight="700" fill="#C4B5FD">01 · PLAN GRAPH</text>
+    <text x="430" y="111" class="sans" font-size="12" font-weight="600" fill="#F8FAFC">Typed LangGraph Steps</text>
+    <text x="430" y="126" class="mono" font-size="9.5" fill="#94A3B8">Intent → DAG nodes</text>
+
+    <!-- Stage 2: Permission Gate -->
+    <rect class="node-2" x="664" y="72" width="208" height="64" rx="8" fill="#16212C" stroke="#263646" stroke-width="1.25" />
+    <text x="678" y="93" class="mono" font-size="9.5" font-weight="700" fill="#FBBF24">02 · APPROVAL GATE</text>
+    <text x="678" y="111" class="sans" font-size="12" font-weight="600" fill="#F8FAFC">Scoped Permission Check</text>
+    <text x="678" y="126" class="mono" font-size="9.5" fill="#94A3B8">Human confirmation required</text>
+
+    <!-- Stage 3: Sandboxed Tool Runner -->
+    <rect class="node-3" x="664" y="158" width="208" height="64" rx="8" fill="#16212C" stroke="#263646" stroke-width="1.25" />
+    <text x="678" y="179" class="mono" font-size="9.5" font-weight="700" fill="#34D399">03 · TOOL SANDBOX</text>
+    <text x="678" y="197" class="sans" font-size="12" font-weight="600" fill="#F8FAFC">Authorized Execution</text>
+    <text x="678" y="212" class="mono" font-size="9.5" fill="#94A3B8">Rust IPC + Python workers</text>
+
+    <!-- Stage 4: Verification & SQLite Audit -->
+    <rect class="node-4" x="416" y="158" width="208" height="64" rx="8" fill="#16212C" stroke="#263646" stroke-width="1.25" />
+    <text x="430" y="179" class="mono" font-size="9.5" font-weight="700" fill="#22D3EE">04 · VERIFY &amp; AUDIT</text>
+    <text x="430" y="197" class="sans" font-size="12" font-weight="600" fill="#F8FAFC">Exit Code &amp; Trace Log</text>
+    <text x="430" y="212" class="mono" font-size="9.5" fill="#94A3B8">Persisted to SQLite</text>
+
+    <!-- Bottom execution progress rail -->
+    <text x="416" y="248" class="mono" font-size="9.5" font-weight="600" fill="#94A3B8">PIPELINE CYCLE</text>
+    <text x="872" y="248" text-anchor="end" class="mono" font-size="9.5" font-weight="600" fill="#34D399">Plan → Gate → Execute → Verify</text>
+    <rect x="416" y="258" width="456" height="7" rx="3.5" fill="#1B2836" />
+    <rect class="prog-bar" x="416" y="258" width="456" height="7" rx="3.5" fill="#10B981" />
+  </g>
+  <rect x="0.75" y="0.75" width="918.5" height="308.5" rx="14" fill="none" stroke="#263646" stroke-width="1.2" />
+</svg>

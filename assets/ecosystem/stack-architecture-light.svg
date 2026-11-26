@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 412" width="920" height="412" role="img" aria-labelledby="eco-t-light eco-d-light">
+  <title id="eco-t-light">Engineering Ecosystem Architecture</title>
+  <desc id="eco-d-light">Animated five-layer engineering architecture connecting interface, application APIs, AI agent orchestration, data persistence, and systems delivery.</desc>
+  <defs>
+    <linearGradient id="eco-bg-light" x1="0" y1="0" x2="920" y2="412" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F8FAFC" />
+      <stop offset="100%" stop-color="#F1F5F9" />
+    </linearGradient>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+    @media (prefers-reduced-motion: no-preference) {
+      .v-flow { stroke-dasharray: 5 5; animation: vMove 1.8s linear infinite; }
+      .h-flow { stroke-dasharray: 5 5; animation: hMove 2.1s linear infinite; }
+      .junc-0 { animation: jPulse 8s ease-in-out 0s infinite; }
+      .junc-1 { animation: jPulse 8s ease-in-out 2s infinite; }
+      .junc-2 { animation: jPulse 8s ease-in-out 4s infinite; }
+      .junc-3 { animation: jPulse 8s ease-in-out 6s infinite; }
+    }
+    @keyframes vMove {
+      from { stroke-dashoffset: 20; }
+      to   { stroke-dashoffset: 0; }
+    }
+    @keyframes hMove {
+      from { stroke-dashoffset: 0; }
+      to   { stroke-dashoffset: 20; }
+    }
+    @keyframes jPulse {
+      0%, 24%   { opacity: 1; }
+      34%, 100% { opacity: 0.4; }
+    }
+  </style>
+  <rect x="0.75" y="0.75" width="918.5" height="410.5" rx="14" fill="url(#eco-bg-light)" stroke="#CBD5E1" stroke-width="1.2" />
+  <text x="26" y="34" class="sans" font-size="15" font-weight="700" fill="#0F172A">System Layer Architecture</text>
+  <text x="894" y="34" text-anchor="end" class="mono" font-size="10" fill="#475569">INTERFACE  →  SERVICES  →  AI AGENTS  →  DATA</text>
+  <line x1="26" y1="45" x2="894" y2="45" stroke="#E2E8F0" stroke-width="1" />
+
+  <line class="v-flow" x1="156" y1="128" x2="156" y2="144" stroke="#0891B2" stroke-width="1.6" />
+  <line class="v-flow" x1="348" y1="128" x2="348" y2="144" stroke="#0891B2" stroke-width="1.6" />
+  <line class="v-flow" x1="540" y1="128" x2="540" y2="144" stroke="#0891B2" stroke-width="1.6" />
+  <line class="h-flow" x1="670" y1="93" x2="708" y2="93" stroke="#0891B2" stroke-width="1.6" />
+  <circle class="junc-0" cx="670" cy="93" r="3.2" fill="#0891B2" />
+  <circle cx="708" cy="93" r="3.2" fill="#059669" />
+  <line class="v-flow" x1="156" y1="214" x2="156" y2="230" stroke="#059669" stroke-width="1.6" />
+  <line class="v-flow" x1="348" y1="214" x2="348" y2="230" stroke="#059669" stroke-width="1.6" />
+  <line class="v-flow" x1="540" y1="214" x2="540" y2="230" stroke="#059669" stroke-width="1.6" />
+  <line class="h-flow" x1="670" y1="179" x2="708" y2="179" stroke="#059669" stroke-width="1.6" />
+  <circle class="junc-1" cx="670" cy="179" r="3.2" fill="#059669" />
+  <circle cx="708" cy="179" r="3.2" fill="#059669" />
+  <line class="v-flow" x1="156" y1="300" x2="156" y2="316" stroke="#7C3AED" stroke-width="1.6" />
+  <line class="v-flow" x1="348" y1="300" x2="348" y2="316" stroke="#7C3AED" stroke-width="1.6" />
+  <line class="v-flow" x1="540" y1="300" x2="540" y2="316" stroke="#7C3AED" stroke-width="1.6" />
+  <line class="h-flow" x1="670" y1="265" x2="708" y2="265" stroke="#7C3AED" stroke-width="1.6" />
+  <circle class="junc-2" cx="670" cy="265" r="3.2" fill="#7C3AED" />
+  <circle cx="708" cy="265" r="3.2" fill="#059669" />
+  <line class="h-flow" x1="670" y1="351" x2="708" y2="351" stroke="#D97706" stroke-width="1.6" />
+  <circle class="junc-3" cx="670" cy="351" r="3.2" fill="#D97706" />
+  <circle cx="708" cy="351" r="3.2" fill="#059669" />
+  <g>
+    <rect x="26" y="58" width="644" height="70" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1" />
+    <rect x="26" y="58" width="4" height="70" rx="2" fill="#0891B2" />
+    <text x="44" y="79" class="mono" font-size="9.8" font-weight="700" fill="#0E7490">01 · INTERFACE &amp; DESKTOP</text>
+    <rect class="l0-hi" x="44.0" y="89" width="94.7" height="28" rx="6" fill="#ECFEFF" stroke="#0891B2" stroke-width="1" />
+    <text x="91.3" y="107" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">React</text>
+    <rect class="l0-hi" x="146.7" y="89" width="94.7" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="194.0" y="107" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">Next.js</text>
+    <rect class="l0-hi" x="249.3" y="89" width="94.7" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="296.7" y="107" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">TypeScript</text>
+    <rect class="" x="352.0" y="89" width="94.7" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="399.3" y="107" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">JavaScript</text>
+    <rect class="" x="454.7" y="89" width="94.7" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="502.0" y="107" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">HTML &amp; CSS</text>
+    <rect class="" x="557.3" y="89" width="94.7" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="604.7" y="107" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">Tauri 2</text>
+  </g>
+  <g>
+    <rect x="26" y="144" width="644" height="70" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1" />
+    <rect x="26" y="144" width="4" height="70" rx="2" fill="#059669" />
+    <text x="44" y="165" class="mono" font-size="9.8" font-weight="700" fill="#047857">02 · APPLICATION &amp; API SERVICES</text>
+    <rect class="l1-hi" x="44.0" y="175" width="115.2" height="28" rx="6" fill="#ECFDF5" stroke="#059669" stroke-width="1" />
+    <text x="101.6" y="193" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">FastAPI</text>
+    <rect class="l1-hi" x="167.2" y="175" width="115.2" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="224.8" y="193" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">Laravel &amp; PHP</text>
+    <rect class="l1-hi" x="290.4" y="175" width="115.2" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="348.0" y="193" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">Django</text>
+    <rect class="" x="413.6" y="175" width="115.2" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="471.2" y="193" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">Spring Boot</text>
+    <rect class="" x="536.8" y="175" width="115.2" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="594.4" y="193" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">Go</text>
+  </g>
+  <g>
+    <rect x="26" y="230" width="644" height="70" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1" />
+    <rect x="26" y="230" width="4" height="70" rx="2" fill="#7C3AED" />
+    <text x="44" y="251" class="mono" font-size="9.8" font-weight="700" fill="#6D28D9">03 · AI &amp; AGENT ORCHESTRATION</text>
+    <rect class="l2-hi" x="44.0" y="261" width="115.2" height="28" rx="6" fill="#F5F3FF" stroke="#7C3AED" stroke-width="1" />
+    <text x="101.6" y="279" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">Python</text>
+    <rect class="l2-hi" x="167.2" y="261" width="115.2" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="224.8" y="279" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">LangGraph</text>
+    <rect class="l2-hi" x="290.4" y="261" width="115.2" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="348.0" y="279" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">LLM Agents</text>
+    <rect class="" x="413.6" y="261" width="115.2" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="471.2" y="279" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">Local Ollama</text>
+    <rect class="" x="536.8" y="261" width="115.2" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="594.4" y="279" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">Workflow Automation</text>
+  </g>
+  <g>
+    <rect x="26" y="316" width="644" height="70" rx="10" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.1" />
+    <rect x="26" y="316" width="4" height="70" rx="2" fill="#D97706" />
+    <text x="44" y="337" class="mono" font-size="9.8" font-weight="700" fill="#B45309">04 · DATA &amp; PERSISTENCE</text>
+    <rect class="l3-hi" x="44.0" y="347" width="146.0" height="28" rx="6" fill="#FFFBEB" stroke="#D97706" stroke-width="1" />
+    <text x="117.0" y="365" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">PostgreSQL</text>
+    <rect class="l3-hi" x="198.0" y="347" width="146.0" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="271.0" y="365" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">MySQL</text>
+    <rect class="l3-hi" x="352.0" y="347" width="146.0" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="425.0" y="365" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">SQLite</text>
+    <rect class="" x="506.0" y="347" width="146.0" height="28" rx="6" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="579.0" y="365" text-anchor="middle" class="sans" font-size="11.2" font-weight="600" fill="#0F172A">ACID &amp; Audit Trails</text>
+  </g>
+
+  <!-- Right Systems & Delivery Backbone -->
+  <g>
+    <rect x="708" y="58" width="186" height="328" rx="10" fill="#FFFFFF" stroke="#059669" stroke-width="1.2" />
+    <text x="724" y="81" class="mono" font-size="9.8" font-weight="700" fill="#047857">05 · SYSTEMS &amp; OPS</text>
+    <line x1="724" y1="91" x2="878" y2="91" stroke="#E2E8F0" stroke-width="1" />
+    <rect x="724" y="104" width="154" height="34" rx="7" fill="#ECFDF5" stroke="#059669" stroke-width="1" />
+    <text x="801" y="125" text-anchor="middle" class="sans" font-size="11.5" font-weight="600" fill="#0F172A">Rust</text>
+    <rect x="724" y="149" width="154" height="34" rx="7" fill="#ECFDF5" stroke="#059669" stroke-width="1" />
+    <text x="801" y="170" text-anchor="middle" class="sans" font-size="11.5" font-weight="600" fill="#0F172A">Docker</text>
+    <rect x="724" y="194" width="154" height="34" rx="7" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="801" y="215" text-anchor="middle" class="sans" font-size="11.5" font-weight="600" fill="#0F172A">Terraform</text>
+    <rect x="724" y="239" width="154" height="34" rx="7" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="801" y="260" text-anchor="middle" class="sans" font-size="11.5" font-weight="600" fill="#0F172A">Git</text>
+    <rect x="724" y="284" width="154" height="34" rx="7" fill="#ECFDF5" stroke="#059669" stroke-width="1" />
+    <text x="801" y="305" text-anchor="middle" class="sans" font-size="11.5" font-weight="600" fill="#0F172A">GitHub Actions</text>
+    <rect x="724" y="329" width="154" height="34" rx="7" fill="#F1F5F9" stroke="#E2E8F0" stroke-width="1" />
+    <text x="801" y="350" text-anchor="middle" class="sans" font-size="11.5" font-weight="600" fill="#0F172A">CI/CD</text>
+  </g>
+</svg>

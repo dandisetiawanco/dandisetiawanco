@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 36" width="156" height="36" role="img" aria-label="NGOPREK DIGITAL">
-  <style>.t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-size: 12.3px; font-weight: 500; letter-spacing: 0.01em; }</style>
-  <line x1="2" y1="12" x2="2" y2="24" stroke="#263631" stroke-width="1" />
-  <circle cx="19" cy="18" r="5" fill="none" stroke="#94A3B8" stroke-width="1.2" />
-  <path d="M 14 18 L 24 18 M 19 13 C 20.8 14.6 20.8 21.4 19 23 C 17.2 21.4 17.2 14.6 19 13 Z" fill="none" stroke="#94A3B8" stroke-width="1.05" />
-  <text x="30" y="22.2" class="t" fill="#E2E8F0">NGOPREK DIGITAL</text>
-</svg>

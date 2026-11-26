@@ -1,0 +1,2552 @@
+{
+  "schema_version": 2,
+  "generated_at_utc": "2026-11-26 10:37 UTC",
+  "updated_date_utc": "2026-11-26",
+  "token_source": "git-credential",
+  "scope": "public_owned_non_fork",
+  "user": {
+    "login": "dandisetiawanco",
+    "name": "Dandi Setiawan",
+    "location": "Indonesia",
+    "public_repos": 11,
+    "followers": 0
+  },
+  "stats": {
+    "public_repos": 11,
+    "total_stars": 4,
+    "total_forks": 0,
+    "total_contributions": 91,
+    "public_commits": 79,
+    "active_days": 11,
+    "current_streak": 4,
+    "longest_streak": 4,
+    "peak_day": 25,
+    "peak_week": 66,
+    "releases_count": 0
+  },
+  "languages": [
+    {
+      "name": "TypeScript",
+      "bytes": 1641086,
+      "pct": 32.7
+    },
+    {
+      "name": "Python",
+      "bytes": 1131547,
+      "pct": 22.5
+    },
+    {
+      "name": "Java",
+      "bytes": 658550,
+      "pct": 13.1
+    },
+    {
+      "name": "PHP",
+      "bytes": 375728,
+      "pct": 7.5
+    },
+    {
+      "name": "Go",
+      "bytes": 364306,
+      "pct": 7.3
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 326800,
+      "pct": 6.5
+    },
+    {
+      "name": "Blade",
+      "bytes": 271841,
+      "pct": 5.4
+    }
+  ],
+  "repo_commits": [
+    {
+      "repo": "TalentOS",
+      "commits": 18
+    },
+    {
+      "repo": "AgentOs",
+      "commits": 11
+    },
+    {
+      "repo": "Ledger",
+      "commits": 9
+    },
+    {
+      "repo": "InfraOS",
+      "commits": 8
+    },
+    {
+      "repo": "Omnidesk",
+      "commits": 7
+    },
+    {
+      "repo": "nexapos",
+      "commits": 2
+    }
+  ],
+  "weekly_totals": [
+    {
+      "first_day": "2025-11-23",
+      "count": 0
+    },
+    {
+      "first_day": "2025-11-30",
+      "count": 0
+    },
+    {
+      "first_day": "2025-12-07",
+      "count": 0
+    },
+    {
+      "first_day": "2025-12-14",
+      "count": 0
+    },
+    {
+      "first_day": "2025-12-21",
+      "count": 0
+    },
+    {
+      "first_day": "2025-12-28",
+      "count": 0
+    },
+    {
+      "first_day": "2026-01-04",
+      "count": 0
+    },
+    {
+      "first_day": "2026-01-11",
+      "count": 0
+    },
+    {
+      "first_day": "2026-01-18",
+      "count": 0
+    },
+    {
+      "first_day": "2026-01-25",
+      "count": 0
+    },
+    {
+      "first_day": "2026-02-01",
+      "count": 0
+    },
+    {
+      "first_day": "2026-02-08",
+      "count": 0
+    },
+    {
+      "first_day": "2026-02-15",
+      "count": 15
+    },
+    {
+      "first_day": "2026-02-22",
+      "count": 3
+    },
+    {
+      "first_day": "2026-03-01",
+      "count": 0
+    },
+    {
+      "first_day": "2026-03-08",
+      "count": 0
+    },
+    {
+      "first_day": "2026-03-15",
+      "count": 0
+    },
+    {
+      "first_day": "2026-03-22",
+      "count": 0
+    },
+    {
+      "first_day": "2026-03-29",
+      "count": 0
+    },
+    {
+      "first_day": "2026-04-05",
+      "count": 0
+    },
+    {
+      "first_day": "2026-04-12",
+      "count": 0
+    },
+    {
+      "first_day": "2026-04-19",
+      "count": 0
+    },
+    {
+      "first_day": "2026-04-26",
+      "count": 0
+    },
+    {
+      "first_day": "2026-05-03",
+      "count": 2
+    },
+    {
+      "first_day": "2026-05-10",
+      "count": 0
+    },
+    {
+      "first_day": "2026-05-17",
+      "count": 0
+    },
+    {
+      "first_day": "2026-05-24",
+      "count": 0
+    },
+    {
+      "first_day": "2026-05-31",
+      "count": 0
+    },
+    {
+      "first_day": "2026-06-07",
+      "count": 0
+    },
+    {
+      "first_day": "2026-06-14",
+      "count": 0
+    },
+    {
+      "first_day": "2026-06-21",
+      "count": 0
+    },
+    {
+      "first_day": "2026-06-28",
+      "count": 0
+    },
+    {
+      "first_day": "2026-07-05",
+      "count": 0
+    },
+    {
+      "first_day": "2026-07-12",
+      "count": 0
+    },
+    {
+      "first_day": "2026-07-19",
+      "count": 0
+    },
+    {
+      "first_day": "2026-07-26",
+      "count": 0
+    },
+    {
+      "first_day": "2026-08-02",
+      "count": 3
+    },
+    {
+      "first_day": "2026-08-09",
+      "count": 0
+    },
+    {
+      "first_day": "2026-08-16",
+      "count": 0
+    },
+    {
+      "first_day": "2026-08-23",
+      "count": 0
+    },
+    {
+      "first_day": "2026-08-30",
+      "count": 0
+    },
+    {
+      "first_day": "2026-09-06",
+      "count": 0
+    },
+    {
+      "first_day": "2026-09-13",
+      "count": 1
+    },
+    {
+      "first_day": "2026-09-20",
+      "count": 1
+    },
+    {
+      "first_day": "2026-09-27",
+      "count": 0
+    },
+    {
+      "first_day": "2026-10-04",
+      "count": 0
+    },
+    {
+      "first_day": "2026-10-11",
+      "count": 0
+    },
+    {
+      "first_day": "2026-10-18",
+      "count": 0
+    },
+    {
+      "first_day": "2026-10-25",
+      "count": 0
+    },
+    {
+      "first_day": "2026-11-01",
+      "count": 0
+    },
+    {
+      "first_day": "2026-11-08",
+      "count": 0
+    },
+    {
+      "first_day": "2026-11-15",
+      "count": 0
+    },
+    {
+      "first_day": "2026-11-22",
+      "count": 66
+    }
+  ],
+  "calendar_days": [
+    {
+      "date": "2025-11-23",
+      "count": 0
+    },
+    {
+      "date": "2025-11-24",
+      "count": 0
+    },
+    {
+      "date": "2025-11-25",
+      "count": 0
+    },
+    {
+      "date": "2025-11-26",
+      "count": 0
+    },
+    {
+      "date": "2025-11-27",
+      "count": 0
+    },
+    {
+      "date": "2025-11-28",
+      "count": 0
+    },
+    {
+      "date": "2025-11-29",
+      "count": 0
+    },
+    {
+      "date": "2025-11-30",
+      "count": 0
+    },
+    {
+      "date": "2025-12-01",
+      "count": 0
+    },
+    {
+      "date": "2025-12-02",
+      "count": 0
+    },
+    {
+      "date": "2025-12-03",
+      "count": 0
+    },
+    {
+      "date": "2025-12-04",
+      "count": 0
+    },
+    {
+      "date": "2025-12-05",
+      "count": 0
+    },
+    {
+      "date": "2025-12-06",
+      "count": 0
+    },
+    {
+      "date": "2025-12-07",
+      "count": 0
+    },
+    {
+      "date": "2025-12-08",
+      "count": 0
+    },
+    {
+      "date": "2025-12-09",
+      "count": 0
+    },
+    {
+      "date": "2025-12-10",
+      "count": 0
+    },
+    {
+      "date": "2025-12-11",
+      "count": 0
+    },
+    {
+      "date": "2025-12-12",
+      "count": 0
+    },
+    {
+      "date": "2025-12-13",
+      "count": 0
+    },
+    {
+      "date": "2025-12-14",
+      "count": 0
+    },
+    {
+      "date": "2025-12-15",
+      "count": 0
+    },
+    {
+      "date": "2025-12-16",
+      "count": 0
+    },
+    {
+      "date": "2025-12-17",
+      "count": 0
+    },
+    {
+      "date": "2025-12-18",
+      "count": 0
+    },
+    {
+      "date": "2025-12-19",
+      "count": 0
+    },
+    {
+      "date": "2025-12-20",
+      "count": 0
+    },
+    {
+      "date": "2025-12-21",
+      "count": 0
+    },
+    {
+      "date": "2025-12-22",
+      "count": 0
+    },
+    {
+      "date": "2025-12-23",
+      "count": 0
+    },
+    {
+      "date": "2025-12-24",
+      "count": 0
+    },
+    {
+      "date": "2025-12-25",
+      "count": 0
+    },
+    {
+      "date": "2025-12-26",
+      "count": 0
+    },
+    {
+      "date": "2025-12-27",
+      "count": 0
+    },
+    {
+      "date": "2025-12-28",
+      "count": 0
+    },
+    {
+      "date": "2025-12-29",
+      "count": 0
+    },
+    {
+      "date": "2025-12-30",
+      "count": 0
+    },
+    {
+      "date": "2025-12-31",
+      "count": 0
+    },
+    {
+      "date": "2026-01-01",
+      "count": 0
+    },
+    {
+      "date": "2026-01-02",
+      "count": 0
+    },
+    {
+      "date": "2026-01-03",
+      "count": 0
+    },
+    {
+      "date": "2026-01-04",
+      "count": 0
+    },
+    {
+      "date": "2026-01-05",
+      "count": 0
+    },
+    {
+      "date": "2026-01-06",
+      "count": 0
+    },
+    {
+      "date": "2026-01-07",
+      "count": 0
+    },
+    {
+      "date": "2026-01-08",
+      "count": 0
+    },
+    {
+      "date": "2026-01-09",
+      "count": 0
+    },
+    {
+      "date": "2026-01-10",
+      "count": 0
+    },
+    {
+      "date": "2026-01-11",
+      "count": 0
+    },
+    {
+      "date": "2026-01-12",
+      "count": 0
+    },
+    {
+      "date": "2026-01-13",
+      "count": 0
+    },
+    {
+      "date": "2026-01-14",
+      "count": 0
+    },
+    {
+      "date": "2026-01-15",
+      "count": 0
+    },
+    {
+      "date": "2026-01-16",
+      "count": 0
+    },
+    {
+      "date": "2026-01-17",
+      "count": 0
+    },
+    {
+      "date": "2026-01-18",
+      "count": 0
+    },
+    {
+      "date": "2026-01-19",
+      "count": 0
+    },
+    {
+      "date": "2026-01-20",
+      "count": 0
+    },
+    {
+      "date": "2026-01-21",
+      "count": 0
+    },
+    {
+      "date": "2026-01-22",
+      "count": 0
+    },
+    {
+      "date": "2026-01-23",
+      "count": 0
+    },
+    {
+      "date": "2026-01-24",
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "count": 0
+    },
+    {
+      "date": "2026-01-30",
+      "count": 0
+    },
+    {
+      "date": "2026-01-31",
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "count": 0
+    },
+    {
+      "date": "2026-02-05",
+      "count": 0
+    },
+    {
+      "date": "2026-02-06",
+      "count": 0
+    },
+    {
+      "date": "2026-02-07",
+      "count": 0
+    },
+    {
+      "date": "2026-02-08",
+      "count": 0
+    },
+    {
+      "date": "2026-02-09",
+      "count": 0
+    },
+    {
+      "date": "2026-02-10",
+      "count": 0
+    },
+    {
+      "date": "2026-02-11",
+      "count": 0
+    },
+    {
+      "date": "2026-02-12",
+      "count": 0
+    },
+    {
+      "date": "2026-02-13",
+      "count": 0
+    },
+    {
+      "date": "2026-02-14",
+      "count": 0
+    },
+    {
+      "date": "2026-02-15",
+      "count": 0
+    },
+    {
+      "date": "2026-02-16",
+      "count": 0
+    },
+    {
+      "date": "2026-02-17",
+      "count": 0
+    },
+    {
+      "date": "2026-02-18",
+      "count": 0
+    },
+    {
+      "date": "2026-02-19",
+      "count": 8
+    },
+    {
+      "date": "2026-02-20",
+      "count": 0
+    },
+    {
+      "date": "2026-02-21",
+      "count": 7
+    },
+    {
+      "date": "2026-02-22",
+      "count": 3
+    },
+    {
+      "date": "2026-02-23",
+      "count": 0
+    },
+    {
+      "date": "2026-02-24",
+      "count": 0
+    },
+    {
+      "date": "2026-02-25",
+      "count": 0
+    },
+    {
+      "date": "2026-02-26",
+      "count": 0
+    },
+    {
+      "date": "2026-02-27",
+      "count": 0
+    },
+    {
+      "date": "2026-02-28",
+      "count": 0
+    },
+    {
+      "date": "2026-03-01",
+      "count": 0
+    },
+    {
+      "date": "2026-03-02",
+      "count": 0
+    },
+    {
+      "date": "2026-03-03",
+      "count": 0
+    },
+    {
+      "date": "2026-03-04",
+      "count": 0
+    },
+    {
+      "date": "2026-03-05",
+      "count": 0
+    },
+    {
+      "date": "2026-03-06",
+      "count": 0
+    },
+    {
+      "date": "2026-03-07",
+      "count": 0
+    },
+    {
+      "date": "2026-03-08",
+      "count": 0
+    },
+    {
+      "date": "2026-03-09",
+      "count": 0
+    },
+    {
+      "date": "2026-03-10",
+      "count": 0
+    },
+    {
+      "date": "2026-03-11",
+      "count": 0
+    },
+    {
+      "date": "2026-03-12",
+      "count": 0
+    },
+    {
+      "date": "2026-03-13",
+      "count": 0
+    },
+    {
+      "date": "2026-03-14",
+      "count": 0
+    },
+    {
+      "date": "2026-03-15",
+      "count": 0
+    },
+    {
+      "date": "2026-03-16",
+      "count": 0
+    },
+    {
+      "date": "2026-03-17",
+      "count": 0
+    },
+    {
+      "date": "2026-03-18",
+      "count": 0
+    },
+    {
+      "date": "2026-03-19",
+      "count": 0
+    },
+    {
+      "date": "2026-03-20",
+      "count": 0
+    },
+    {
+      "date": "2026-03-21",
+      "count": 0
+    },
+    {
+      "date": "2026-03-22",
+      "count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "count": 0
+    },
+    {
+      "date": "2026-03-26",
+      "count": 0
+    },
+    {
+      "date": "2026-03-27",
+      "count": 0
+    },
+    {
+      "date": "2026-03-28",
+      "count": 0
+    },
+    {
+      "date": "2026-03-29",
+      "count": 0
+    },
+    {
+      "date": "2026-03-30",
+      "count": 0
+    },
+    {
+      "date": "2026-03-31",
+      "count": 0
+    },
+    {
+      "date": "2026-04-01",
+      "count": 0
+    },
+    {
+      "date": "2026-04-02",
+      "count": 0
+    },
+    {
+      "date": "2026-04-03",
+      "count": 0
+    },
+    {
+      "date": "2026-04-04",
+      "count": 0
+    },
+    {
+      "date": "2026-04-05",
+      "count": 0
+    },
+    {
+      "date": "2026-04-06",
+      "count": 0
+    },
+    {
+      "date": "2026-04-07",
+      "count": 0
+    },
+    {
+      "date": "2026-04-08",
+      "count": 0
+    },
+    {
+      "date": "2026-04-09",
+      "count": 0
+    },
+    {
+      "date": "2026-04-10",
+      "count": 0
+    },
+    {
+      "date": "2026-04-11",
+      "count": 0
+    },
+    {
+      "date": "2026-04-12",
+      "count": 0
+    },
+    {
+      "date": "2026-04-13",
+      "count": 0
+    },
+    {
+      "date": "2026-04-14",
+      "count": 0
+    },
+    {
+      "date": "2026-04-15",
+      "count": 0
+    },
+    {
+      "date": "2026-04-16",
+      "count": 0
+    },
+    {
+      "date": "2026-04-17",
+      "count": 0
+    },
+    {
+      "date": "2026-04-18",
+      "count": 0
+    },
+    {
+      "date": "2026-04-19",
+      "count": 0
+    },
+    {
+      "date": "2026-04-20",
+      "count": 0
+    },
+    {
+      "date": "2026-04-21",
+      "count": 0
+    },
+    {
+      "date": "2026-04-22",
+      "count": 0
+    },
+    {
+      "date": "2026-04-23",
+      "count": 0
+    },
+    {
+      "date": "2026-04-24",
+      "count": 0
+    },
+    {
+      "date": "2026-04-25",
+      "count": 0
+    },
+    {
+      "date": "2026-04-26",
+      "count": 0
+    },
+    {
+      "date": "2026-04-27",
+      "count": 0
+    },
+    {
+      "date": "2026-04-28",
+      "count": 0
+    },
+    {
+      "date": "2026-04-29",
+      "count": 0
+    },
+    {
+      "date": "2026-04-30",
+      "count": 0
+    },
+    {
+      "date": "2026-05-01",
+      "count": 0
+    },
+    {
+      "date": "2026-05-02",
+      "count": 0
+    },
+    {
+      "date": "2026-05-03",
+      "count": 0
+    },
+    {
+      "date": "2026-05-04",
+      "count": 0
+    },
+    {
+      "date": "2026-05-05",
+      "count": 0
+    },
+    {
+      "date": "2026-05-06",
+      "count": 0
+    },
+    {
+      "date": "2026-05-07",
+      "count": 2
+    },
+    {
+      "date": "2026-05-08",
+      "count": 0
+    },
+    {
+      "date": "2026-05-09",
+      "count": 0
+    },
+    {
+      "date": "2026-05-10",
+      "count": 0
+    },
+    {
+      "date": "2026-05-11",
+      "count": 0
+    },
+    {
+      "date": "2026-05-12",
+      "count": 0
+    },
+    {
+      "date": "2026-05-13",
+      "count": 0
+    },
+    {
+      "date": "2026-05-14",
+      "count": 0
+    },
+    {
+      "date": "2026-05-15",
+      "count": 0
+    },
+    {
+      "date": "2026-05-16",
+      "count": 0
+    },
+    {
+      "date": "2026-05-17",
+      "count": 0
+    },
+    {
+      "date": "2026-05-18",
+      "count": 0
+    },
+    {
+      "date": "2026-05-19",
+      "count": 0
+    },
+    {
+      "date": "2026-05-20",
+      "count": 0
+    },
+    {
+      "date": "2026-05-21",
+      "count": 0
+    },
+    {
+      "date": "2026-05-22",
+      "count": 0
+    },
+    {
+      "date": "2026-05-23",
+      "count": 0
+    },
+    {
+      "date": "2026-05-24",
+      "count": 0
+    },
+    {
+      "date": "2026-05-25",
+      "count": 0
+    },
+    {
+      "date": "2026-05-26",
+      "count": 0
+    },
+    {
+      "date": "2026-05-27",
+      "count": 0
+    },
+    {
+      "date": "2026-05-28",
+      "count": 0
+    },
+    {
+      "date": "2026-05-29",
+      "count": 0
+    },
+    {
+      "date": "2026-05-30",
+      "count": 0
+    },
+    {
+      "date": "2026-05-31",
+      "count": 0
+    },
+    {
+      "date": "2026-06-01",
+      "count": 0
+    },
+    {
+      "date": "2026-06-02",
+      "count": 0
+    },
+    {
+      "date": "2026-06-03",
+      "count": 0
+    },
+    {
+      "date": "2026-06-04",
+      "count": 0
+    },
+    {
+      "date": "2026-06-05",
+      "count": 0
+    },
+    {
+      "date": "2026-06-06",
+      "count": 0
+    },
+    {
+      "date": "2026-06-07",
+      "count": 0
+    },
+    {
+      "date": "2026-06-08",
+      "count": 0
+    },
+    {
+      "date": "2026-06-09",
+      "count": 0
+    },
+    {
+      "date": "2026-06-10",
+      "count": 0
+    },
+    {
+      "date": "2026-06-11",
+      "count": 0
+    },
+    {
+      "date": "2026-06-12",
+      "count": 0
+    },
+    {
+      "date": "2026-06-13",
+      "count": 0
+    },
+    {
+      "date": "2026-06-14",
+      "count": 0
+    },
+    {
+      "date": "2026-06-15",
+      "count": 0
+    },
+    {
+      "date": "2026-06-16",
+      "count": 0
+    },
+    {
+      "date": "2026-06-17",
+      "count": 0
+    },
+    {
+      "date": "2026-06-18",
+      "count": 0
+    },
+    {
+      "date": "2026-06-19",
+      "count": 0
+    },
+    {
+      "date": "2026-06-20",
+      "count": 0
+    },
+    {
+      "date": "2026-06-21",
+      "count": 0
+    },
+    {
+      "date": "2026-06-22",
+      "count": 0
+    },
+    {
+      "date": "2026-06-23",
+      "count": 0
+    },
+    {
+      "date": "2026-06-24",
+      "count": 0
+    },
+    {
+      "date": "2026-06-25",
+      "count": 0
+    },
+    {
+      "date": "2026-06-26",
+      "count": 0
+    },
+    {
+      "date": "2026-06-27",
+      "count": 0
+    },
+    {
+      "date": "2026-06-28",
+      "count": 0
+    },
+    {
+      "date": "2026-06-29",
+      "count": 0
+    },
+    {
+      "date": "2026-06-30",
+      "count": 0
+    },
+    {
+      "date": "2026-07-01",
+      "count": 0
+    },
+    {
+      "date": "2026-07-02",
+      "count": 0
+    },
+    {
+      "date": "2026-07-03",
+      "count": 0
+    },
+    {
+      "date": "2026-07-04",
+      "count": 0
+    },
+    {
+      "date": "2026-07-05",
+      "count": 0
+    },
+    {
+      "date": "2026-07-06",
+      "count": 0
+    },
+    {
+      "date": "2026-07-07",
+      "count": 0
+    },
+    {
+      "date": "2026-07-08",
+      "count": 0
+    },
+    {
+      "date": "2026-07-09",
+      "count": 0
+    },
+    {
+      "date": "2026-07-10",
+      "count": 0
+    },
+    {
+      "date": "2026-07-11",
+      "count": 0
+    },
+    {
+      "date": "2026-07-12",
+      "count": 0
+    },
+    {
+      "date": "2026-07-13",
+      "count": 0
+    },
+    {
+      "date": "2026-07-14",
+      "count": 0
+    },
+    {
+      "date": "2026-07-15",
+      "count": 0
+    },
+    {
+      "date": "2026-07-16",
+      "count": 0
+    },
+    {
+      "date": "2026-07-17",
+      "count": 0
+    },
+    {
+      "date": "2026-07-18",
+      "count": 0
+    },
+    {
+      "date": "2026-07-19",
+      "count": 0
+    },
+    {
+      "date": "2026-07-20",
+      "count": 0
+    },
+    {
+      "date": "2026-07-21",
+      "count": 0
+    },
+    {
+      "date": "2026-07-22",
+      "count": 0
+    },
+    {
+      "date": "2026-07-23",
+      "count": 0
+    },
+    {
+      "date": "2026-07-24",
+      "count": 0
+    },
+    {
+      "date": "2026-07-25",
+      "count": 0
+    },
+    {
+      "date": "2026-07-26",
+      "count": 0
+    },
+    {
+      "date": "2026-07-27",
+      "count": 0
+    },
+    {
+      "date": "2026-07-28",
+      "count": 0
+    },
+    {
+      "date": "2026-07-29",
+      "count": 0
+    },
+    {
+      "date": "2026-07-30",
+      "count": 0
+    },
+    {
+      "date": "2026-07-31",
+      "count": 0
+    },
+    {
+      "date": "2026-08-01",
+      "count": 0
+    },
+    {
+      "date": "2026-08-02",
+      "count": 0
+    },
+    {
+      "date": "2026-08-03",
+      "count": 0
+    },
+    {
+      "date": "2026-08-04",
+      "count": 0
+    },
+    {
+      "date": "2026-08-05",
+      "count": 0
+    },
+    {
+      "date": "2026-08-06",
+      "count": 0
+    },
+    {
+      "date": "2026-08-07",
+      "count": 3
+    },
+    {
+      "date": "2026-08-08",
+      "count": 0
+    },
+    {
+      "date": "2026-08-09",
+      "count": 0
+    },
+    {
+      "date": "2026-08-10",
+      "count": 0
+    },
+    {
+      "date": "2026-08-11",
+      "count": 0
+    },
+    {
+      "date": "2026-08-12",
+      "count": 0
+    },
+    {
+      "date": "2026-08-13",
+      "count": 0
+    },
+    {
+      "date": "2026-08-14",
+      "count": 0
+    },
+    {
+      "date": "2026-08-15",
+      "count": 0
+    },
+    {
+      "date": "2026-08-16",
+      "count": 0
+    },
+    {
+      "date": "2026-08-17",
+      "count": 0
+    },
+    {
+      "date": "2026-08-18",
+      "count": 0
+    },
+    {
+      "date": "2026-08-19",
+      "count": 0
+    },
+    {
+      "date": "2026-08-20",
+      "count": 0
+    },
+    {
+      "date": "2026-08-21",
+      "count": 0
+    },
+    {
+      "date": "2026-08-22",
+      "count": 0
+    },
+    {
+      "date": "2026-08-23",
+      "count": 0
+    },
+    {
+      "date": "2026-08-24",
+      "count": 0
+    },
+    {
+      "date": "2026-08-25",
+      "count": 0
+    },
+    {
+      "date": "2026-08-26",
+      "count": 0
+    },
+    {
+      "date": "2026-08-27",
+      "count": 0
+    },
+    {
+      "date": "2026-08-28",
+      "count": 0
+    },
+    {
+      "date": "2026-08-29",
+      "count": 0
+    },
+    {
+      "date": "2026-08-30",
+      "count": 0
+    },
+    {
+      "date": "2026-08-31",
+      "count": 0
+    },
+    {
+      "date": "2026-09-01",
+      "count": 0
+    },
+    {
+      "date": "2026-09-02",
+      "count": 0
+    },
+    {
+      "date": "2026-09-03",
+      "count": 0
+    },
+    {
+      "date": "2026-09-04",
+      "count": 0
+    },
+    {
+      "date": "2026-09-05",
+      "count": 0
+    },
+    {
+      "date": "2026-09-06",
+      "count": 0
+    },
+    {
+      "date": "2026-09-07",
+      "count": 0
+    },
+    {
+      "date": "2026-09-08",
+      "count": 0
+    },
+    {
+      "date": "2026-09-09",
+      "count": 0
+    },
+    {
+      "date": "2026-09-10",
+      "count": 0
+    },
+    {
+      "date": "2026-09-11",
+      "count": 0
+    },
+    {
+      "date": "2026-09-12",
+      "count": 0
+    },
+    {
+      "date": "2026-09-13",
+      "count": 0
+    },
+    {
+      "date": "2026-09-14",
+      "count": 0
+    },
+    {
+      "date": "2026-09-15",
+      "count": 0
+    },
+    {
+      "date": "2026-09-16",
+      "count": 0
+    },
+    {
+      "date": "2026-09-17",
+      "count": 1
+    },
+    {
+      "date": "2026-09-18",
+      "count": 0
+    },
+    {
+      "date": "2026-09-19",
+      "count": 0
+    },
+    {
+      "date": "2026-09-20",
+      "count": 0
+    },
+    {
+      "date": "2026-09-21",
+      "count": 0
+    },
+    {
+      "date": "2026-09-22",
+      "count": 0
+    },
+    {
+      "date": "2026-09-23",
+      "count": 1
+    },
+    {
+      "date": "2026-09-24",
+      "count": 0
+    },
+    {
+      "date": "2026-09-25",
+      "count": 0
+    },
+    {
+      "date": "2026-09-26",
+      "count": 0
+    },
+    {
+      "date": "2026-09-27",
+      "count": 0
+    },
+    {
+      "date": "2026-09-28",
+      "count": 0
+    },
+    {
+      "date": "2026-09-29",
+      "count": 0
+    },
+    {
+      "date": "2026-09-30",
+      "count": 0
+    },
+    {
+      "date": "2026-10-01",
+      "count": 0
+    },
+    {
+      "date": "2026-10-02",
+      "count": 0
+    },
+    {
+      "date": "2026-10-03",
+      "count": 0
+    },
+    {
+      "date": "2026-10-04",
+      "count": 0
+    },
+    {
+      "date": "2026-10-05",
+      "count": 0
+    },
+    {
+      "date": "2026-10-06",
+      "count": 0
+    },
+    {
+      "date": "2026-10-07",
+      "count": 0
+    },
+    {
+      "date": "2026-10-08",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "count": 0
+    },
+    {
+      "date": "2026-10-10",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "count": 0
+    },
+    {
+      "date": "2026-10-14",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "count": 0
+    },
+    {
+      "date": "2026-10-20",
+      "count": 0
+    },
+    {
+      "date": "2026-10-21",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "count": 0
+    },
+    {
+      "date": "2026-10-27",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "count": 0
+    },
+    {
+      "date": "2026-11-07",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
+      "count": 0
+    },
+    {
+      "date": "2026-11-09",
+      "count": 0
+    },
+    {
+      "date": "2026-11-10",
+      "count": 0
+    },
+    {
+      "date": "2026-11-11",
+      "count": 0
+    },
+    {
+      "date": "2026-11-12",
+      "count": 0
+    },
+    {
+      "date": "2026-11-13",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
+      "count": 0
+    },
+    {
+      "date": "2026-11-15",
+      "count": 0
+    },
+    {
+      "date": "2026-11-16",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "count": 0
+    },
+    {
+      "date": "2026-11-18",
+      "count": 0
+    },
+    {
+      "date": "2026-11-19",
+      "count": 0
+    },
+    {
+      "date": "2026-11-20",
+      "count": 0
+    },
+    {
+      "date": "2026-11-21",
+      "count": 0
+    },
+    {
+      "date": "2026-11-22",
+      "count": 0
+    },
+    {
+      "date": "2026-11-23",
+      "count": 12
+    },
+    {
+      "date": "2026-11-24",
+      "count": 16
+    },
+    {
+      "date": "2026-11-25",
+      "count": 25
+    },
+    {
+      "date": "2026-11-26",
+      "count": 13
+    }
+  ],
+  "repos": [
+    {
+      "name": "Ledger",
+      "full_name": "dandisetiawanco/Ledger",
+      "url": "https://github.com/dandisetiawanco/Ledger",
+      "description": "A financial management and accounting platform built with Java, Spring Boot, and Next.js, featuring double-entry bookkeeping, invoicing, bank reconciliation, financial reporting, and enterprise transaction management.",
+      "homepage": "",
+      "language": "Java",
+      "languages": {
+        "Java": 658550,
+        "TypeScript": 388239,
+        "CSS": 5840,
+        "Shell": 2760,
+        "Makefile": 471,
+        "JavaScript": 94
+      },
+      "topics": [
+        "accounting",
+        "bank-reconciliation",
+        "cicd",
+        "docker",
+        "domain-driven-design",
+        "double-entry-bookkeeping",
+        "enterprise-software",
+        "fintech",
+        "javascript",
+        "nextjs",
+        "portfolio-project",
+        "postgresql",
+        "software-engineering",
+        "spring-boot",
+        "typescript"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-11-25T20:58:35Z",
+      "updated_at": "2026-11-26T10:20:15Z",
+      "pushed_at": "2026-11-26T10:10:46Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "229134d",
+          "message": "docs: record verified CI pass in implementation status",
+          "date": "2026-11-26T10:09:58Z",
+          "url": "https://github.com/dandisetiawanco/Ledger/commit/229134df402c6b66149b60f1828be2082747b245"
+        },
+        {
+          "sha": "d21fc0f",
+          "message": "fix(ci): upgrade Testcontainers to 1.21.4 for Docker API 1.44 compatibility",
+          "date": "2026-11-26T10:02:02Z",
+          "url": "https://github.com/dandisetiawanco/Ledger/commit/d21fc0f9070ac4b809c6004302e480b5196e477d"
+        },
+        {
+          "sha": "690346b",
+          "message": "fix(ci): run Failsafe PostgreSQL IT cleanly and harden Dockerfiles",
+          "date": "2026-11-26T09:51:23Z",
+          "url": "https://github.com/dandisetiawanco/Ledger/commit/690346b99c6cc1008f6e6caef22962659cbc6885"
+        }
+      ]
+    },
+    {
+      "name": "dandisetiawanco",
+      "full_name": "dandisetiawanco/dandisetiawanco",
+      "url": "https://github.com/dandisetiawanco/dandisetiawanco",
+      "description": "",
+      "homepage": "",
+      "language": "Python",
+      "languages": {
+        "Python": 26687
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-02-19T14:59:35Z",
+      "updated_at": "2026-11-23T23:53:59Z",
+      "pushed_at": "2026-11-26T08:21:12Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "27b712d",
+          "message": "feat: elevate profile with premium motion design and project showcases",
+          "date": "2026-11-24T02:10:35Z",
+          "url": "https://github.com/dandisetiawanco/dandisetiawanco/commit/27b712dea4ef4a5bb441ce5a9fe0c647ed80162c"
+        },
+        {
+          "sha": "a42b68f",
+          "message": "refactor: refine personal branding and premium profile design",
+          "date": "2026-11-24T01:10:05Z",
+          "url": "https://github.com/dandisetiawanco/dandisetiawanco/commit/a42b68f01fde3ca4e801abe4d4b2629c219e4848"
+        },
+        {
+          "sha": "e7271b8",
+          "message": "style: remove inline whitespace inside clickable SVG card anchors",
+          "date": "2026-11-24T00:00:55Z",
+          "url": "https://github.com/dandisetiawanco/dandisetiawanco/commit/e7271b8ff93c8e2b931e8593581384d933377a2f"
+        }
+      ]
+    },
+    {
+      "name": "InfraOS",
+      "full_name": "dandisetiawanco/InfraOS",
+      "url": "https://github.com/dandisetiawanco/InfraOS",
+      "description": "An infrastructure operations platform built with Go and Next.js, featuring real-time system monitoring, service observability, controlled deployment workflows, and a refined Liquid Glass workspace.",
+      "homepage": "",
+      "language": "Go",
+      "languages": {
+        "Go": 364306,
+        "TypeScript": 284455,
+        "CSS": 8246,
+        "Shell": 7030,
+        "HCL": 6586,
+        "Dockerfile": 3263,
+        "Makefile": 1339,
+        "JavaScript": 70
+      },
+      "topics": [
+        "cicd",
+        "devops",
+        "docker",
+        "golang",
+        "infrastructure",
+        "liquid-glass",
+        "monitoring",
+        "nextjs",
+        "observability",
+        "portfolio-project",
+        "postgresql",
+        "prometheus",
+        "sre",
+        "terraform"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-11-25T20:17:56Z",
+      "updated_at": "2026-11-25T20:39:57Z",
+      "pushed_at": "2026-11-25T20:51:34Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "7640c26",
+          "message": "fix(ci): declare hcloud provider in compute module and upgrade Go 1.27 and vulnerable deps",
+          "date": "2026-11-25T20:51:32Z",
+          "url": "https://github.com/dandisetiawanco/InfraOS/commit/7640c2629e871ce4dfecde5508faf6ab269f0a78"
+        },
+        {
+          "sha": "f5421f8",
+          "message": "docs: add README, screenshots, branding, architecture diagrams, and guides",
+          "date": "2026-11-25T20:38:52Z",
+          "url": "https://github.com/dandisetiawanco/InfraOS/commit/f5421f8ab92f62abe0d54860875e8552fd4c9874"
+        },
+        {
+          "sha": "ad9934f",
+          "message": "feat(web): add Liquid Glass Next.js workspace, public site, and contracts",
+          "date": "2026-11-25T20:38:52Z",
+          "url": "https://github.com/dandisetiawanco/InfraOS/commit/ad9934fe377cacc24f8c12bf407a133a741f1f00"
+        }
+      ]
+    },
+    {
+      "name": "TalentOS",
+      "full_name": "dandisetiawanco/TalentOS",
+      "url": "https://github.com/dandisetiawanco/TalentOS",
+      "description": "A modern recruitment operating system featuring Liquid Glass interfaces, intelligent resume analysis, human-led hiring workflows, and full-stack recruitment management.",
+      "homepage": "",
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 481656,
+        "Python": 370172,
+        "CSS": 16001,
+        "Dockerfile": 1702,
+        "Shell": 583,
+        "Mako": 504,
+        "JavaScript": 94
+      },
+      "topics": [
+        "applicant-tracking-system",
+        "artificial-intelligence",
+        "devops",
+        "fastapi",
+        "full-stack",
+        "human-resources",
+        "liquid-glass",
+        "nextjs",
+        "portfolio-project",
+        "postgresql",
+        "python",
+        "recruitment",
+        "typescript"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-11-25T14:03:37Z",
+      "updated_at": "2026-11-25T14:13:04Z",
+      "pushed_at": "2026-11-25T14:12:49Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "6021f22",
+          "message": "docs: finalize portfolio README, branding icons, and repository links",
+          "date": "2026-11-25T14:11:38Z",
+          "url": "https://github.com/dandisetiawanco/TalentOS/commit/6021f22238f3553aa6c0ec3e1653ca84b5f98d19"
+        },
+        {
+          "sha": "27276a5",
+          "message": "chore(ci): run pytest against PostgreSQL 16 and align pnpm version",
+          "date": "2026-11-25T14:11:38Z",
+          "url": "https://github.com/dandisetiawanco/TalentOS/commit/27276a56c7d35b0b3015f799b2a883be739fcb4d"
+        },
+        {
+          "sha": "c7c4270",
+          "message": "fix(ui,api): refine tablet navbar breakpoint and complete extracted resume summary",
+          "date": "2026-11-25T13:53:18Z",
+          "url": "https://github.com/dandisetiawanco/TalentOS/commit/c7c42707e7876dd74928c2cb2f95bde5a134746a"
+        }
+      ]
+    },
+    {
+      "name": "Omnidesk",
+      "full_name": "dandisetiawanco/Omnidesk",
+      "url": "https://github.com/dandisetiawanco/Omnidesk",
+      "description": "OmniDesk \u2014 An AI-powered desktop agent designed for intelligent computer interaction, workflow automation, and seamless system integration, built with Rust, Python, React, and Tauri.",
+      "homepage": "",
+      "language": "Python",
+      "languages": {
+        "Python": 295790,
+        "TypeScript": 241457,
+        "Rust": 62677,
+        "CSS": 30732,
+        "JavaScript": 964,
+        "HTML": 636
+      },
+      "topics": [],
+      "stars": 1,
+      "forks": 0,
+      "license": "NOASSERTION",
+      "created_at": "2026-11-24T06:20:48Z",
+      "updated_at": "2026-11-24T12:52:31Z",
+      "pushed_at": "2026-11-24T07:52:49Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "0684688",
+          "message": "fix(planner): recognize cross-platform external app demo intents on Linux, Windows, and macOS",
+          "date": "2026-11-24T07:50:36Z",
+          "url": "https://github.com/dandisetiawanco/Omnidesk/commit/068468888fbd4f96f78c2340409e50bf62898f5e"
+        },
+        {
+          "sha": "21bbf3e",
+          "message": "docs: prepare OmniDesk for public developer preview",
+          "date": "2026-11-24T07:09:49Z",
+          "url": "https://github.com/dandisetiawanco/Omnidesk/commit/21bbf3e29d5ec77761f7d8a8a01ca0f76cff3d32"
+        },
+        {
+          "sha": "8dafb86",
+          "message": "Complete cloud & local Ollama AI providers, Windows/Linux native adapters, and universal sidecar distribution",
+          "date": "2026-11-24T06:16:42Z",
+          "url": "https://github.com/dandisetiawanco/Omnidesk/commit/8dafb86bcdc9d42bc59a8cfff8fe8cc3bd1d2397"
+        }
+      ]
+    },
+    {
+      "name": "AgentOs",
+      "full_name": "dandisetiawanco/AgentOs",
+      "url": "https://github.com/dandisetiawanco/AgentOs",
+      "description": "AgentOS is an open-source, local-first AI desktop assistant that securely plans, executes, and verifies real-world computer tasks using autonomous AI agents.",
+      "homepage": "",
+      "language": "Python",
+      "languages": {
+        "Python": 438898,
+        "TypeScript": 245279,
+        "CSS": 17773,
+        "Rust": 11459,
+        "JavaScript": 997,
+        "HTML": 431
+      },
+      "topics": [],
+      "stars": 3,
+      "forks": 0,
+      "license": "Apache-2.0",
+      "created_at": "2026-11-23T02:37:52Z",
+      "updated_at": "2026-11-24T12:23:28Z",
+      "pushed_at": "2026-11-23T12:01:43Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "0ea9893",
+          "message": "feat(ui): overhaul desktop interface to native macOS Liquid Glass",
+          "date": "2026-11-23T04:16:01Z",
+          "url": "https://github.com/dandisetiawanco/AgentOs/commit/0ea98939f61656f7dfd8f16dc11ed758519ad093"
+        },
+        {
+          "sha": "0e11436",
+          "message": "feat(ui): redesign AgentOS with premium liquid glass",
+          "date": "2026-11-23T03:48:35Z",
+          "url": "https://github.com/dandisetiawanco/AgentOs/commit/0e11436464788f34ae459ce7e77fb22948315e29"
+        },
+        {
+          "sha": "d9d9c15",
+          "message": "fix: use canonical Apache-2.0 license text and macos-15 arm64 CI runner",
+          "date": "2026-11-23T02:56:41Z",
+          "url": "https://github.com/dandisetiawanco/AgentOs/commit/d9d9c15465d417dc2a1fbc1e3a6e713c5b25fb4a"
+        }
+      ]
+    },
+    {
+      "name": "portdandisetiawan",
+      "full_name": "dandisetiawanco/portdandisetiawan",
+      "url": "https://github.com/dandisetiawanco/portdandisetiawan",
+      "description": "PORTFOLIO DANDI SETIAWAN",
+      "homepage": "https://portdandisetiawan.vercel.app",
+      "language": "JavaScript",
+      "languages": {
+        "JavaScript": 59519,
+        "CSS": 52322,
+        "HTML": 2422
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-09-23T11:33:37Z",
+      "updated_at": "2026-09-23T11:44:35Z",
+      "pushed_at": "2026-09-23T11:38:43Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "187034b",
+          "message": "feat: initial commit portfolio",
+          "date": "2026-09-23T11:37:58Z",
+          "url": "https://github.com/dandisetiawanco/portdandisetiawan/commit/187034b11577e3a5e88a75069f1c16c92dbd7505"
+        },
+        {
+          "sha": "8617648",
+          "message": "Initial commit",
+          "date": "2026-09-23T11:34:35Z",
+          "url": "https://github.com/dandisetiawanco/portdandisetiawan/commit/86176484b6efbeb8253d703be38321737708281c"
+        }
+      ]
+    },
+    {
+      "name": "vegetables-fruits-interactive",
+      "full_name": "dandisetiawanco/vegetables-fruits-interactive",
+      "url": "https://github.com/dandisetiawanco/vegetables-fruits-interactive",
+      "description": "Interactive English learning web app for 4th-grade elementary students themed \"Vegetables and Fruits\", built with React.js, Vite, and a Problem Based Learning (PBL) approach",
+      "homepage": "https://vegetables-fruits-interactive.vercel.app",
+      "language": "JavaScript",
+      "languages": {
+        "JavaScript": 181358,
+        "CSS": 12851,
+        "HTML": 928
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-09-17T08:04:52Z",
+      "updated_at": "2026-09-17T08:13:21Z",
+      "pushed_at": "2026-09-17T08:12:22Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "bbb6db6",
+          "message": "feat: setup project interactive english web app",
+          "date": "2026-09-17T08:07:39Z",
+          "url": "https://github.com/dandisetiawanco/vegetables-fruits-interactive/commit/bbb6db6d66403099a175080cc15dbabfdff26179"
+        }
+      ]
+    },
+    {
+      "name": "dandisetiawan_pk",
+      "full_name": "dandisetiawanco/dandisetiawan_pk",
+      "url": "https://github.com/dandisetiawanco/dandisetiawan_pk",
+      "description": "SISTEM MANAJEMEN KARYAWAN",
+      "homepage": "",
+      "language": "PHP",
+      "languages": {
+        "PHP": 62970,
+        "Blade": 36366,
+        "JavaScript": 635,
+        "CSS": 390
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-05-07T08:52:47Z",
+      "updated_at": "2026-05-07T08:53:57Z",
+      "pushed_at": "2026-05-07T08:53:53Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "edab84d",
+          "message": "Initial commit",
+          "date": "2026-05-07T08:51:15Z",
+          "url": "https://github.com/dandisetiawanco/dandisetiawan_pk/commit/edab84d9efe8775f183cbb2573c13c0782485785"
+        }
+      ]
+    },
+    {
+      "name": "nexapos",
+      "full_name": "dandisetiawanco/nexapos",
+      "url": "https://github.com/dandisetiawanco/nexapos",
+      "description": "",
+      "homepage": "",
+      "language": "Blade",
+      "languages": {
+        "Blade": 82568,
+        "JavaScript": 82076,
+        "PHP": 78515,
+        "CSS": 1616,
+        "HTML": 384
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-02-22T00:28:51Z",
+      "updated_at": "2026-02-22T00:31:50Z",
+      "pushed_at": "2026-02-22T00:31:46Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "2a577ba",
+          "message": "Upload project nexapos  pertama",
+          "date": "2026-02-22T00:28:05Z",
+          "url": "https://github.com/dandisetiawanco/nexapos/commit/2a577ba165e980413df46f96edfa3936c178e296"
+        }
+      ]
+    },
+    {
+      "name": "nimbus",
+      "full_name": "dandisetiawanco/nimbus",
+      "url": "https://github.com/dandisetiawanco/nimbus",
+      "description": "",
+      "homepage": "",
+      "language": "PHP",
+      "languages": {
+        "PHP": 234243,
+        "Blade": 152907,
+        "JavaScript": 993,
+        "CSS": 59
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-02-21T02:39:50Z",
+      "updated_at": "2026-02-21T02:44:57Z",
+      "pushed_at": "2026-02-21T02:44:52Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "d64e0f9",
+          "message": "Upload project nimbus pertama",
+          "date": "2026-02-21T02:40:29Z",
+          "url": "https://github.com/dandisetiawanco/nimbus/commit/d64e0f94d3960dbc34e0ae73d3585846f8073948"
+        }
+      ]
+    }
+  ],
+  "recent_feed": [
+    {
+      "name": "Ledger",
+      "full_name": "dandisetiawanco/Ledger",
+      "url": "https://github.com/dandisetiawanco/Ledger",
+      "description": "A financial management and accounting platform built with Java, Spring Boot, and Next.js, featuring double-entry bookkeeping, invoicing, bank reconciliation, financial reporting, and enterprise transaction management.",
+      "homepage": "",
+      "language": "Java",
+      "languages": {
+        "Java": 658550,
+        "TypeScript": 388239,
+        "CSS": 5840,
+        "Shell": 2760,
+        "Makefile": 471,
+        "JavaScript": 94
+      },
+      "topics": [
+        "accounting",
+        "bank-reconciliation",
+        "cicd",
+        "docker",
+        "domain-driven-design",
+        "double-entry-bookkeeping",
+        "enterprise-software",
+        "fintech",
+        "javascript",
+        "nextjs",
+        "portfolio-project",
+        "postgresql",
+        "software-engineering",
+        "spring-boot",
+        "typescript"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-11-25T20:58:35Z",
+      "updated_at": "2026-11-26T10:20:15Z",
+      "pushed_at": "2026-11-26T10:10:46Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "229134d",
+          "message": "docs: record verified CI pass in implementation status",
+          "date": "2026-11-26T10:09:58Z",
+          "url": "https://github.com/dandisetiawanco/Ledger/commit/229134df402c6b66149b60f1828be2082747b245"
+        },
+        {
+          "sha": "d21fc0f",
+          "message": "fix(ci): upgrade Testcontainers to 1.21.4 for Docker API 1.44 compatibility",
+          "date": "2026-11-26T10:02:02Z",
+          "url": "https://github.com/dandisetiawanco/Ledger/commit/d21fc0f9070ac4b809c6004302e480b5196e477d"
+        },
+        {
+          "sha": "690346b",
+          "message": "fix(ci): run Failsafe PostgreSQL IT cleanly and harden Dockerfiles",
+          "date": "2026-11-26T09:51:23Z",
+          "url": "https://github.com/dandisetiawanco/Ledger/commit/690346b99c6cc1008f6e6caef22962659cbc6885"
+        }
+      ]
+    },
+    {
+      "name": "InfraOS",
+      "full_name": "dandisetiawanco/InfraOS",
+      "url": "https://github.com/dandisetiawanco/InfraOS",
+      "description": "An infrastructure operations platform built with Go and Next.js, featuring real-time system monitoring, service observability, controlled deployment workflows, and a refined Liquid Glass workspace.",
+      "homepage": "",
+      "language": "Go",
+      "languages": {
+        "Go": 364306,
+        "TypeScript": 284455,
+        "CSS": 8246,
+        "Shell": 7030,
+        "HCL": 6586,
+        "Dockerfile": 3263,
+        "Makefile": 1339,
+        "JavaScript": 70
+      },
+      "topics": [
+        "cicd",
+        "devops",
+        "docker",
+        "golang",
+        "infrastructure",
+        "liquid-glass",
+        "monitoring",
+        "nextjs",
+        "observability",
+        "portfolio-project",
+        "postgresql",
+        "prometheus",
+        "sre",
+        "terraform"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-11-25T20:17:56Z",
+      "updated_at": "2026-11-25T20:39:57Z",
+      "pushed_at": "2026-11-25T20:51:34Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "7640c26",
+          "message": "fix(ci): declare hcloud provider in compute module and upgrade Go 1.27 and vulnerable deps",
+          "date": "2026-11-25T20:51:32Z",
+          "url": "https://github.com/dandisetiawanco/InfraOS/commit/7640c2629e871ce4dfecde5508faf6ab269f0a78"
+        },
+        {
+          "sha": "f5421f8",
+          "message": "docs: add README, screenshots, branding, architecture diagrams, and guides",
+          "date": "2026-11-25T20:38:52Z",
+          "url": "https://github.com/dandisetiawanco/InfraOS/commit/f5421f8ab92f62abe0d54860875e8552fd4c9874"
+        },
+        {
+          "sha": "ad9934f",
+          "message": "feat(web): add Liquid Glass Next.js workspace, public site, and contracts",
+          "date": "2026-11-25T20:38:52Z",
+          "url": "https://github.com/dandisetiawanco/InfraOS/commit/ad9934fe377cacc24f8c12bf407a133a741f1f00"
+        }
+      ]
+    },
+    {
+      "name": "TalentOS",
+      "full_name": "dandisetiawanco/TalentOS",
+      "url": "https://github.com/dandisetiawanco/TalentOS",
+      "description": "A modern recruitment operating system featuring Liquid Glass interfaces, intelligent resume analysis, human-led hiring workflows, and full-stack recruitment management.",
+      "homepage": "",
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 481656,
+        "Python": 370172,
+        "CSS": 16001,
+        "Dockerfile": 1702,
+        "Shell": 583,
+        "Mako": 504,
+        "JavaScript": 94
+      },
+      "topics": [
+        "applicant-tracking-system",
+        "artificial-intelligence",
+        "devops",
+        "fastapi",
+        "full-stack",
+        "human-resources",
+        "liquid-glass",
+        "nextjs",
+        "portfolio-project",
+        "postgresql",
+        "python",
+        "recruitment",
+        "typescript"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-11-25T14:03:37Z",
+      "updated_at": "2026-11-25T14:13:04Z",
+      "pushed_at": "2026-11-25T14:12:49Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "6021f22",
+          "message": "docs: finalize portfolio README, branding icons, and repository links",
+          "date": "2026-11-25T14:11:38Z",
+          "url": "https://github.com/dandisetiawanco/TalentOS/commit/6021f22238f3553aa6c0ec3e1653ca84b5f98d19"
+        },
+        {
+          "sha": "27276a5",
+          "message": "chore(ci): run pytest against PostgreSQL 16 and align pnpm version",
+          "date": "2026-11-25T14:11:38Z",
+          "url": "https://github.com/dandisetiawanco/TalentOS/commit/27276a56c7d35b0b3015f799b2a883be739fcb4d"
+        },
+        {
+          "sha": "c7c4270",
+          "message": "fix(ui,api): refine tablet navbar breakpoint and complete extracted resume summary",
+          "date": "2026-11-25T13:53:18Z",
+          "url": "https://github.com/dandisetiawanco/TalentOS/commit/c7c42707e7876dd74928c2cb2f95bde5a134746a"
+        }
+      ]
+    },
+    {
+      "name": "Omnidesk",
+      "full_name": "dandisetiawanco/Omnidesk",
+      "url": "https://github.com/dandisetiawanco/Omnidesk",
+      "description": "OmniDesk \u2014 An AI-powered desktop agent designed for intelligent computer interaction, workflow automation, and seamless system integration, built with Rust, Python, React, and Tauri.",
+      "homepage": "",
+      "language": "Python",
+      "languages": {
+        "Python": 295790,
+        "TypeScript": 241457,
+        "Rust": 62677,
+        "CSS": 30732,
+        "JavaScript": 964,
+        "HTML": 636
+      },
+      "topics": [],
+      "stars": 1,
+      "forks": 0,
+      "license": "NOASSERTION",
+      "created_at": "2026-11-24T06:20:48Z",
+      "updated_at": "2026-11-24T12:52:31Z",
+      "pushed_at": "2026-11-24T07:52:49Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "0684688",
+          "message": "fix(planner): recognize cross-platform external app demo intents on Linux, Windows, and macOS",
+          "date": "2026-11-24T07:50:36Z",
+          "url": "https://github.com/dandisetiawanco/Omnidesk/commit/068468888fbd4f96f78c2340409e50bf62898f5e"
+        },
+        {
+          "sha": "21bbf3e",
+          "message": "docs: prepare OmniDesk for public developer preview",
+          "date": "2026-11-24T07:09:49Z",
+          "url": "https://github.com/dandisetiawanco/Omnidesk/commit/21bbf3e29d5ec77761f7d8a8a01ca0f76cff3d32"
+        },
+        {
+          "sha": "8dafb86",
+          "message": "Complete cloud & local Ollama AI providers, Windows/Linux native adapters, and universal sidecar distribution",
+          "date": "2026-11-24T06:16:42Z",
+          "url": "https://github.com/dandisetiawanco/Omnidesk/commit/8dafb86bcdc9d42bc59a8cfff8fe8cc3bd1d2397"
+        }
+      ]
+    },
+    {
+      "name": "AgentOs",
+      "full_name": "dandisetiawanco/AgentOs",
+      "url": "https://github.com/dandisetiawanco/AgentOs",
+      "description": "AgentOS is an open-source, local-first AI desktop assistant that securely plans, executes, and verifies real-world computer tasks using autonomous AI agents.",
+      "homepage": "",
+      "language": "Python",
+      "languages": {
+        "Python": 438898,
+        "TypeScript": 245279,
+        "CSS": 17773,
+        "Rust": 11459,
+        "JavaScript": 997,
+        "HTML": 431
+      },
+      "topics": [],
+      "stars": 3,
+      "forks": 0,
+      "license": "Apache-2.0",
+      "created_at": "2026-11-23T02:37:52Z",
+      "updated_at": "2026-11-24T12:23:28Z",
+      "pushed_at": "2026-11-23T12:01:43Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "0ea9893",
+          "message": "feat(ui): overhaul desktop interface to native macOS Liquid Glass",
+          "date": "2026-11-23T04:16:01Z",
+          "url": "https://github.com/dandisetiawanco/AgentOs/commit/0ea98939f61656f7dfd8f16dc11ed758519ad093"
+        },
+        {
+          "sha": "0e11436",
+          "message": "feat(ui): redesign AgentOS with premium liquid glass",
+          "date": "2026-11-23T03:48:35Z",
+          "url": "https://github.com/dandisetiawanco/AgentOs/commit/0e11436464788f34ae459ce7e77fb22948315e29"
+        },
+        {
+          "sha": "d9d9c15",
+          "message": "fix: use canonical Apache-2.0 license text and macos-15 arm64 CI runner",
+          "date": "2026-11-23T02:56:41Z",
+          "url": "https://github.com/dandisetiawanco/AgentOs/commit/d9d9c15465d417dc2a1fbc1e3a6e713c5b25fb4a"
+        }
+      ]
+    },
+    {
+      "name": "portdandisetiawan",
+      "full_name": "dandisetiawanco/portdandisetiawan",
+      "url": "https://github.com/dandisetiawanco/portdandisetiawan",
+      "description": "PORTFOLIO DANDI SETIAWAN",
+      "homepage": "https://portdandisetiawan.vercel.app",
+      "language": "JavaScript",
+      "languages": {
+        "JavaScript": 59519,
+        "CSS": 52322,
+        "HTML": 2422
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-09-23T11:33:37Z",
+      "updated_at": "2026-09-23T11:44:35Z",
+      "pushed_at": "2026-09-23T11:38:43Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "187034b",
+          "message": "feat: initial commit portfolio",
+          "date": "2026-09-23T11:37:58Z",
+          "url": "https://github.com/dandisetiawanco/portdandisetiawan/commit/187034b11577e3a5e88a75069f1c16c92dbd7505"
+        },
+        {
+          "sha": "8617648",
+          "message": "Initial commit",
+          "date": "2026-09-23T11:34:35Z",
+          "url": "https://github.com/dandisetiawanco/portdandisetiawan/commit/86176484b6efbeb8253d703be38321737708281c"
+        }
+      ]
+    }
+  ],
+  "latest_releases": []
+}

@@ -1,0 +1,288 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 348" width="920" height="348" role="img" aria-labelledby="hero-t-light hero-d-light">
+  <title id="hero-t-light">Dandi Setiawan: Full-Stack Developer &amp; AI Engineer</title>
+  <desc id="hero-d-light">Building intelligent systems, scalable applications, and software that solves real problems.</desc>
+  <defs>
+    <linearGradient id="hero-bg-light" x1="0" y1="0" x2="920" y2="348" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F8FAFC" />
+      <stop offset="100%" stop-color="#F1F5F9" />
+    </linearGradient>
+    <linearGradient id="hero-rule-light" x1="44" y1="0" x2="454" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="52%" stop-color="#0891B2" />
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0.45" />
+    </linearGradient>
+    <linearGradient id="hero-spine-light" x1="0" y1="0" x2="0" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0891B2" stop-opacity="0" />
+      <stop offset="50%" stop-color="#059669" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="hero-clip-light">
+      <rect x="0.75" y="0.75" width="918.5" height="346.5" rx="16" />
+    </clipPath>
+    <clipPath id="hero-name-mask-light">
+      <rect x="40" y="64" width="440" height="66" />
+    </clipPath>
+    <clipPath id="hero-role-mask-light">
+      <rect x="40" y="130" width="440" height="34" />
+    </clipPath>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+    .pkt { opacity: 0.92; }
+    @media (prefers-reduced-motion: no-preference) {
+      .reveal-name { animation: riseIn 0.75s cubic-bezier(0.16, 1, 0.3, 1) 0.05s both; }
+      .reveal-role { animation: riseIn 0.72s cubic-bezier(0.16, 1, 0.3, 1) 0.18s both; }
+      .reveal-copy { animation: fadeIn 0.8s ease-out 0.3s both; }
+      .rule-grow { transform-origin: 44px 173px; animation: drawX 0.9s cubic-bezier(0.16, 1, 0.3, 1) 0.25s both; }
+      .orbit-cw { transform-origin: 706px 176px; animation: spinCW 34s linear infinite; }
+      .orbit-ccw { transform-origin: 706px 176px; animation: spinCCW 22s linear infinite; }
+      .bus-e { stroke-dasharray: 9 7; animation: dashFwd 2.6s linear infinite; }
+      .bus-c { stroke-dasharray: 9 7; animation: dashFwd 2.2s linear infinite; }
+      .bus-v { stroke-dasharray: 9 7; animation: dashRev 2.8s linear infinite; }
+      .bus-a { stroke-dasharray: 9 7; animation: dashRev 3.1s linear infinite; }
+      .spine-sweep { animation: spineDown 7.5s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+      .float-hub { transform-origin: 706px 176px; animation: hubBreathe 8s ease-in-out infinite; }
+      .pkt-c { animation: moveC 4.4s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+      .pkt-v { animation: moveV 4.8s cubic-bezier(0.4, 0, 0.2, 1) 0.6s infinite; }
+      .pkt-e { animation: moveE 4.6s cubic-bezier(0.4, 0, 0.2, 1) 1.2s infinite; }
+      .pkt-a { animation: moveA 5.0s cubic-bezier(0.4, 0, 0.2, 1) 1.8s infinite; }
+      .dom-1 { animation: domFocus 12s ease-in-out 0s infinite; }
+      .dom-2 { animation: domFocus 12s ease-in-out 3s infinite; }
+      .dom-3 { animation: domFocus 12s ease-in-out 6s infinite; }
+      .dom-4 { animation: domFocus 12s ease-in-out 9s infinite; }
+    }
+    @keyframes riseIn {
+      from { opacity: 0; transform: translateY(28px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+    @keyframes drawX {
+      from { transform: scaleX(0); opacity: 0; }
+      to   { transform: scaleX(1); opacity: 1; }
+    }
+    @keyframes spinCW {
+      from { transform: rotate(0deg); }
+      to   { transform: rotate(360deg); }
+    }
+    @keyframes spinCCW {
+      from { transform: rotate(360deg); }
+      to   { transform: rotate(0deg); }
+    }
+    @keyframes dashFwd {
+      from { stroke-dashoffset: 32; }
+      to   { stroke-dashoffset: 0; }
+    }
+    @keyframes dashRev {
+      from { stroke-dashoffset: 0; }
+      to   { stroke-dashoffset: 32; }
+    }
+    @keyframes spineDown {
+      0%        { transform: translateY(-120px); opacity: 0; }
+      15%, 78%  { opacity: 0.9; }
+      95%, 100% { transform: translateY(360px); opacity: 0; }
+    }
+    @keyframes hubBreathe {
+      0%, 100% { transform: translateY(0px); }
+      50%      { transform: translateY(-4px); }
+    }
+    @keyframes moveC {
+      0%   { transform: translate(0px, 0px); opacity: 0; }
+      12%  { opacity: 1; }
+      40%  { transform: translate(0px, 36px); opacity: 1; }
+      88%  { opacity: 1; }
+      100% { transform: translate(82px, 36px); opacity: 0; }
+    }
+    @keyframes moveV {
+      0%   { transform: translate(0px, 0px); opacity: 0; }
+      12%  { opacity: 1; }
+      40%  { transform: translate(0px, 36px); opacity: 1; }
+      88%  { opacity: 1; }
+      100% { transform: translate(-85px, 36px); opacity: 0; }
+    }
+    @keyframes moveE {
+      0%   { transform: translate(0px, 0px); opacity: 0; }
+      12%  { opacity: 1; }
+      40%  { transform: translate(0px, -36px); opacity: 1; }
+      88%  { opacity: 1; }
+      100% { transform: translate(82px, -36px); opacity: 0; }
+    }
+    @keyframes moveA {
+      0%   { transform: translate(0px, 0px); opacity: 0; }
+      12%  { opacity: 1; }
+      40%  { transform: translate(0px, -36px); opacity: 1; }
+      88%  { opacity: 1; }
+      100% { transform: translate(-85px, -36px); opacity: 0; }
+    }
+    @keyframes domFocus {
+      0%, 22%   { opacity: 1; }
+      30%, 100% { opacity: 0.58; }
+    }
+  </style>
+
+  <g clip-path="url(#hero-clip-light)">
+    <rect x="0" y="0" width="920" height="348" fill="url(#hero-bg-light)" />
+
+    <!-- Top architectural 4-domain identity motif -->
+    <rect x="44" y="0.75" width="32" height="3" fill="#059669" />
+    <rect x="80" y="0.75" width="24" height="3" fill="#0891B2" />
+    <rect x="108" y="0.75" width="20" height="3" fill="#7C3AED" />
+    <rect x="132" y="0.75" width="16" height="3" fill="#D97706" />
+
+    <!-- Architectural coordinate grid on right systems canvas -->
+    <g aria-hidden="true" opacity="0.72">
+      <line x1="520" y1="16" x2="520" y2="332" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="556" y1="16" x2="556" y2="332" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="592" y1="16" x2="592" y2="332" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="628" y1="16" x2="628" y2="332" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="664" y1="16" x2="664" y2="332" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="700" y1="16" x2="700" y2="332" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="736" y1="16" x2="736" y2="332" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="772" y1="16" x2="772" y2="332" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="808" y1="16" x2="808" y2="332" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="844" y1="16" x2="844" y2="332" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="880" y1="16" x2="880" y2="332" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="916" y1="16" x2="916" y2="332" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="504" y1="36" x2="908" y2="36" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="504" y1="72" x2="908" y2="72" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="504" y1="108" x2="908" y2="108" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="504" y1="144" x2="908" y2="144" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="504" y1="180" x2="908" y2="180" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="504" y1="216" x2="908" y2="216" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="504" y1="252" x2="908" y2="252" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="504" y1="288" x2="908" y2="288" stroke="#E2E8F0" stroke-width="1" />
+      <line x1="504" y1="324" x2="908" y2="324" stroke="#E2E8F0" stroke-width="1" />
+      <path d="M 551 72 L 561 72 M 556 67 L 556 77" stroke="#94A3B8" stroke-width="1" />
+      <path d="M 839 72 L 849 72 M 844 67 L 844 77" stroke="#94A3B8" stroke-width="1" />
+      <path d="M 551 288 L 561 288 M 556 283 L 556 293" stroke="#94A3B8" stroke-width="1" />
+      <path d="M 839 288 L 849 288 M 844 283 L 844 293" stroke="#94A3B8" stroke-width="1" />
+      <path d="M 695 180 L 705 180 M 700 175 L 700 185" stroke="#94A3B8" stroke-width="1" />
+    </g>
+
+    <!-- Editorial vertical partition with travelling vertical signal -->
+    <line x1="504" y1="0" x2="504" y2="348" stroke="#E2E8F0" stroke-width="1" />
+    <rect class="spine-sweep" x="503.25" y="0" width="1.5" height="120" fill="url(#hero-spine-light)" />
+
+    <!-- Left editorial typography -->
+    <text x="44" y="48" class="mono" font-size="10.2" font-weight="600" fill="#475569" letter-spacing="0.06em">BANDAR LAMPUNG  ·  5.4292° S, 105.2610° E</text>
+
+    <g clip-path="url(#hero-name-mask-light)">
+      <text x="44" y="114" class="sans reveal-name" font-size="50" font-weight="700" fill="#0F172A" letter-spacing="-0.032em">Dandi Setiawan</text>
+    </g>
+
+    <g clip-path="url(#hero-role-mask-light)">
+      <text x="44" y="152" class="sans reveal-role" font-size="19.5" font-weight="600" fill="#047857" letter-spacing="-0.01em">Full-Stack Developer &amp; AI Engineer</text>
+    </g>
+
+    <line x1="44" y1="173" x2="454" y2="173" stroke="#E2E8F0" stroke-width="1.2" />
+    <line class="rule-grow" x1="44" y1="173" x2="454" y2="173" stroke="url(#hero-rule-light)" stroke-width="1.8" />
+
+    <g class="reveal-copy">
+      <text x="44" y="206" class="sans" font-size="14.5" font-weight="400" fill="#334155">Building intelligent systems, scalable applications,</text>
+      <text x="44" y="228" class="sans" font-size="14.5" font-weight="400" fill="#334155">and software that solves real problems.</text>
+    </g>
+
+    <!-- Four semantic domain index markers matching right topology -->
+    <g transform="translate(44, 272)">
+      <g class="dom-1">
+        <rect x="0" y="0" width="3" height="28" rx="1.5" fill="#0891B2" />
+        <text x="11" y="12" class="mono" font-size="9.5" font-weight="600" fill="#0E7490">01</text>
+        <text x="11" y="26" class="sans" font-size="12" font-weight="600" fill="#0F172A">Full-Stack</text>
+      </g>
+      <g class="dom-2" transform="translate(106, 0)">
+        <rect x="0" y="0" width="3" height="28" rx="1.5" fill="#7C3AED" />
+        <text x="11" y="12" class="mono" font-size="9.5" font-weight="600" fill="#6D28D9">02</text>
+        <text x="11" y="26" class="sans" font-size="12" font-weight="600" fill="#0F172A">AI Agents</text>
+      </g>
+      <g class="dom-3" transform="translate(208, 0)">
+        <rect x="0" y="0" width="3" height="28" rx="1.5" fill="#059669" />
+        <text x="11" y="12" class="mono" font-size="9.5" font-weight="600" fill="#047857">03</text>
+        <text x="11" y="26" class="sans" font-size="12" font-weight="600" fill="#0F172A">Systems</text>
+      </g>
+      <g class="dom-4" transform="translate(304, 0)">
+        <rect x="0" y="0" width="3" height="28" rx="1.5" fill="#D97706" />
+        <text x="11" y="12" class="mono" font-size="9.5" font-weight="600" fill="#B45309">04</text>
+        <text x="11" y="26" class="sans" font-size="12" font-weight="600" fill="#0F172A">Data</text>
+      </g>
+    </g>
+
+    <!-- Right custom distributed-systems architecture illustration -->
+    <g aria-hidden="true">
+      <!-- Concentric orchestration rings -->
+      <circle cx="706" cy="176" r="106" fill="none" stroke="#E2E8F0" stroke-width="1" />
+      <circle class="orbit-cw" cx="706" cy="176" r="88" fill="none" stroke="#94A3B8" stroke-width="1.15" stroke-dasharray="18 10 4 10" />
+      <circle class="orbit-ccw" cx="706" cy="176" r="64" fill="none" stroke="#059669" stroke-width="1.35" stroke-dasharray="52 38 14 38" stroke-opacity="0.78" />
+
+      <!-- Orthogonal data pathways linking four architectural domains to core -->
+      <path d="M 582 122 L 582 158 L 664 158" fill="none" stroke="#0891B2" stroke-opacity="0.28" stroke-width="2" />
+      <path class="bus-c" d="M 582 122 L 582 158 L 664 158" fill="none" stroke="#0891B2" stroke-width="1.6" />
+
+      <path d="M 833 122 L 833 158 L 748 158" fill="none" stroke="#7C3AED" stroke-opacity="0.28" stroke-width="2" />
+      <path class="bus-v" d="M 833 122 L 833 158 L 748 158" fill="none" stroke="#7C3AED" stroke-width="1.6" />
+
+      <path d="M 582 230 L 582 194 L 664 194" fill="none" stroke="#059669" stroke-opacity="0.28" stroke-width="2" />
+      <path class="bus-e" d="M 582 230 L 582 194 L 664 194" fill="none" stroke="#059669" stroke-width="1.6" />
+
+      <path d="M 833 230 L 833 194 L 748 194" fill="none" stroke="#D97706" stroke-opacity="0.28" stroke-width="2" />
+      <path class="bus-a" d="M 833 230 L 833 194 L 748 194" fill="none" stroke="#D97706" stroke-width="1.6" />
+
+      <!-- Travelling signal packets anchored to node ports -->
+      <circle class="pkt pkt-c" cx="582" cy="122" r="3.4" fill="#0891B2" />
+      <circle class="pkt pkt-v" cx="833" cy="122" r="3.4" fill="#7C3AED" />
+      <circle class="pkt pkt-e" cx="582" cy="230" r="3.4" fill="#059669" />
+      <circle class="pkt pkt-a" cx="833" cy="230" r="3.4" fill="#D97706" />
+
+      <!-- Node 01: Interface & Client (Top-Left) -->
+      <g>
+        <rect x="526" y="64" width="112" height="58" rx="9" fill="#FFFFFF" stroke="#0891B2" stroke-width="1.25" />
+        <rect x="538" y="76" width="16" height="11" rx="2" fill="none" stroke="#0891B2" stroke-width="1.3" />
+        <line x1="538" y1="80" x2="554" y2="80" stroke="#0891B2" stroke-width="1.1" />
+        <text x="562" y="85" class="mono" font-size="9.5" font-weight="700" fill="#0E7490">CLIENT</text>
+        <text x="538" y="106" class="sans" font-size="11" font-weight="600" fill="#0F172A">React · Next.js</text>
+      </g>
+
+      <!-- Node 02: AI Agent Runtime (Top-Right) -->
+      <g>
+        <rect x="774" y="64" width="118" height="58" rx="9" fill="#FFFFFF" stroke="#7C3AED" stroke-width="1.25" />
+        <circle cx="788" cy="80" r="2.4" fill="#7C3AED" />
+        <circle cx="798" cy="80" r="2.4" fill="#7C3AED" />
+        <circle cx="793" cy="88" r="2.4" fill="#7C3AED" />
+        <path d="M 788 80 L 798 80 L 793 88 Z" fill="none" stroke="#7C3AED" stroke-width="1.1" />
+        <text x="807" y="85" class="mono" font-size="9.5" font-weight="700" fill="#6D28D9">AGENTS</text>
+        <text x="786" y="106" class="sans" font-size="11" font-weight="600" fill="#0F172A">LangGraph · LLM</text>
+      </g>
+
+      <!-- Node 03: API & Native Systems (Bottom-Left) -->
+      <g>
+        <rect x="526" y="230" width="112" height="58" rx="9" fill="#F8FAFC" stroke="#059669" stroke-width="1.25" />
+        <polygon points="545,241 552,245 552,253 545,257 538,253 538,245" fill="none" stroke="#059669" stroke-width="1.3" />
+        <text x="560" y="252" class="mono" font-size="9.5" font-weight="700" fill="#047857">SERVICES</text>
+        <text x="538" y="272" class="sans" font-size="11" font-weight="600" fill="#0F172A">FastAPI · Rust</text>
+      </g>
+
+      <!-- Node 04: Data & Ledger (Bottom-Right) -->
+      <g>
+        <rect x="774" y="230" width="118" height="58" rx="9" fill="#F8FAFC" stroke="#D97706" stroke-width="1.25" />
+        <ellipse cx="793" cy="244" rx="6.5" ry="2.6" fill="none" stroke="#D97706" stroke-width="1.3" />
+        <path d="M 786.5 244 L 786.5 253 C 786.5 255 799.5 255 799.5 253 L 799.5 244" fill="none" stroke="#D97706" stroke-width="1.3" />
+        <text x="807" y="252" class="mono" font-size="9.5" font-weight="700" fill="#B45309">STORAGE</text>
+        <text x="786" y="272" class="sans" font-size="11" font-weight="600" fill="#0F172A">Postgres · SQL</text>
+      </g>
+
+      <!-- Central Layered Architectural Core Hub -->
+      <g class="float-hub">
+        <polygon points="706,134 748,158 748,194 706,218 664,194 664,158" fill="#FFFFFF" stroke="#059669" stroke-width="1.6" />
+        <polygon points="706,144 738,162 738,190 706,208 674,190 674,162" fill="#ECFDF5" stroke="#0891B2" stroke-opacity="0.55" stroke-width="1" />
+        <text x="706" y="172" text-anchor="middle" class="mono" font-size="10.2" font-weight="700" fill="#047857">CORE</text>
+        <text x="706" y="187" text-anchor="middle" class="mono" font-size="9.2" font-weight="600" fill="#0F172A">SYSTEMS</text>
+      </g>
+
+      <text x="892" y="328" text-anchor="end" class="mono" font-size="9.8" fill="#475569">11 PUBLIC REPOS  ·  UPDATED 2026-11-26</text>
+    </g>
+  </g>
+
+  <rect x="0.75" y="0.75" width="918.5" height="346.5" rx="16" fill="none" stroke="#CBD5E1" stroke-width="1.2" />
+</svg>
