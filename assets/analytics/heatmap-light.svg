@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 232" width="920" height="232" role="img" aria-labelledby="hm-t-light hm-d-light">
   <title id="hm-t-light">Annual Public Contribution Heatmap</title>
-  <desc id="hm-d-light">52-week public GitHub contribution calendar showing 91 public contributions across 11 active days, peaking at 25 in a single day.</desc>
+  <desc id="hm-d-light">52-week public GitHub contribution calendar showing 92 public contributions across 11 active days, peaking at 25 in a single day.</desc>
   <defs>
     <linearGradient id="hm-bg-light" x1="0" y1="0" x2="920" y2="232" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#F8FAFC" />
@@ -41,7 +41,7 @@
   <rect x="0.75" y="0.75" width="918.5" height="230.5" rx="14" fill="url(#hm-bg-light)" stroke="#CBD5E1" stroke-width="1.2" />
 
   <text x="28" y="32" class="sans" font-size="14.5" font-weight="700" fill="#0F172A">Annual Contribution Heatmap</text>
-  <text x="892" y="32" text-anchor="end" class="mono" font-size="9.8" fill="#047857">91 PUBLIC CONTRIBUTIONS  ·  PEAK 25/DAY  ·  11 ACTIVE DAYS</text>
+  <text x="892" y="32" text-anchor="end" class="mono" font-size="9.8" fill="#047857">92 PUBLIC CONTRIBUTIONS  ·  PEAK 25/DAY  ·  11 ACTIVE DAYS</text>
   <line x1="28" y1="44" x2="892" y2="44" stroke="#E2E8F0" stroke-width="1" />
 
   <text x="58.0" y="62" class="mono" font-size="9.5" fill="#475569">Nov</text>

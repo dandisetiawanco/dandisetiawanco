@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-11-26 10:37 UTC",
+  "generated_at_utc": "2026-11-26 10:41 UTC",
   "updated_date_utc": "2026-11-26",
-  "token_source": "git-credential",
+  "token_source": "env",
   "scope": "public_owned_non_fork",
   "user": {
     "login": "dandisetiawanco",
@@ -15,13 +15,13 @@
     "public_repos": 11,
     "total_stars": 4,
     "total_forks": 0,
-    "total_contributions": 91,
-    "public_commits": 79,
+    "total_contributions": 92,
+    "public_commits": 80,
     "active_days": 11,
     "current_streak": 4,
     "longest_streak": 4,
     "peak_day": 25,
-    "peak_week": 66,
+    "peak_week": 67,
     "releases_count": 0
   },
   "languages": [
@@ -298,7 +298,7 @@
     },
     {
       "first_day": "2026-11-22",
-      "count": 66
+      "count": 67
     }
   ],
   "calendar_days": [
@@ -1776,10 +1776,49 @@
     },
     {
       "date": "2026-11-26",
-      "count": 13
+      "count": 14
     }
   ],
   "repos": [
+    {
+      "name": "dandisetiawanco",
+      "full_name": "dandisetiawanco/dandisetiawanco",
+      "url": "https://github.com/dandisetiawanco/dandisetiawanco",
+      "description": "",
+      "homepage": "",
+      "language": "Python",
+      "languages": {
+        "Python": 26687
+      },
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "license": "",
+      "created_at": "2026-02-19T14:59:35Z",
+      "updated_at": "2026-11-23T23:53:59Z",
+      "pushed_at": "2026-11-26T10:41:22Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "17467f5",
+          "message": "feat: redesign GitHub profile with animated architecture SVGs and hourly automation",
+          "date": "2026-11-26T10:40:39Z",
+          "url": "https://github.com/dandisetiawanco/dandisetiawanco/commit/17467f5a3431b353a07a9a08c211e181d161a975"
+        },
+        {
+          "sha": "27b712d",
+          "message": "feat: elevate profile with premium motion design and project showcases",
+          "date": "2026-11-24T02:10:35Z",
+          "url": "https://github.com/dandisetiawanco/dandisetiawanco/commit/27b712dea4ef4a5bb441ce5a9fe0c647ed80162c"
+        },
+        {
+          "sha": "a42b68f",
+          "message": "refactor: refine personal branding and premium profile design",
+          "date": "2026-11-24T01:10:05Z",
+          "url": "https://github.com/dandisetiawanco/dandisetiawanco/commit/a42b68f01fde3ca4e801abe4d4b2629c219e4848"
+        }
+      ]
+    },
     {
       "name": "Ledger",
       "full_name": "dandisetiawanco/Ledger",
@@ -1837,45 +1876,6 @@
           "message": "fix(ci): run Failsafe PostgreSQL IT cleanly and harden Dockerfiles",
           "date": "2026-11-26T09:51:23Z",
           "url": "https://github.com/dandisetiawanco/Ledger/commit/690346b99c6cc1008f6e6caef22962659cbc6885"
-        }
-      ]
-    },
-    {
-      "name": "dandisetiawanco",
-      "full_name": "dandisetiawanco/dandisetiawanco",
-      "url": "https://github.com/dandisetiawanco/dandisetiawanco",
-      "description": "",
-      "homepage": "",
-      "language": "Python",
-      "languages": {
-        "Python": 26687
-      },
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "license": "",
-      "created_at": "2026-02-19T14:59:35Z",
-      "updated_at": "2026-11-23T23:53:59Z",
-      "pushed_at": "2026-11-26T08:21:12Z",
-      "latest_release": null,
-      "recent_commits": [
-        {
-          "sha": "27b712d",
-          "message": "feat: elevate profile with premium motion design and project showcases",
-          "date": "2026-11-24T02:10:35Z",
-          "url": "https://github.com/dandisetiawanco/dandisetiawanco/commit/27b712dea4ef4a5bb441ce5a9fe0c647ed80162c"
-        },
-        {
-          "sha": "a42b68f",
-          "message": "refactor: refine personal branding and premium profile design",
-          "date": "2026-11-24T01:10:05Z",
-          "url": "https://github.com/dandisetiawanco/dandisetiawanco/commit/a42b68f01fde3ca4e801abe4d4b2629c219e4848"
-        },
-        {
-          "sha": "e7271b8",
-          "message": "style: remove inline whitespace inside clickable SVG card anchors",
-          "date": "2026-11-24T00:00:55Z",
-          "url": "https://github.com/dandisetiawanco/dandisetiawanco/commit/e7271b8ff93c8e2b931e8593581384d933377a2f"
         }
       ]
     },
