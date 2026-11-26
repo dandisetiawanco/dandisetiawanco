@@ -67,23 +67,23 @@
 
   <rect x="392" y="66" width="496" height="10" rx="5" fill="#1B2836" />
   <g clip-path="url(#ov-bar-clip-dark)">
-    <rect x="392.0" y="66" width="176.5" height="10" fill="#22D3EE" />
-    <rect x="571.0" y="66" width="121.4" height="10" fill="#8B5CF6" />
-    <rect x="694.9" y="66" width="70.7" height="10" fill="#F59E0B" />
-    <rect x="768.1" y="66" width="40.5" height="10" fill="#10B981" />
-    <rect x="811.0" y="66" width="39.4" height="10" fill="#38BDF8" />
-    <rect x="852.9" y="66" width="35.1" height="10" fill="#94A3B8" />
+    <rect x="392.0" y="66" width="172.8" height="10" fill="#22D3EE" />
+    <rect x="567.3" y="66" width="129.2" height="10" fill="#8B5CF6" />
+    <rect x="699.1" y="66" width="69.5" height="10" fill="#F59E0B" />
+    <rect x="771.0" y="66" width="39.3" height="10" fill="#10B981" />
+    <rect x="812.8" y="66" width="38.2" height="10" fill="#38BDF8" />
+    <rect x="853.5" y="66" width="34.5" height="10" fill="#94A3B8" />
     <rect class="sheen" x="392" y="66" width="120" height="10" fill="url(#ov-sheen-dark)" />
   </g>
 
   <g class="donut-spin">
     <circle cx="474.0" cy="176.0" r="52.0" fill="none" stroke="#1B2836" stroke-width="13" />
-    <circle cx="474.0" cy="176.0" r="52.0" fill="none" stroke="#22D3EE" stroke-width="13" stroke-dasharray="116.74 326.73" stroke-dashoffset="-0.00" transform="rotate(-90 474.0 176.0)" />
-    <circle cx="474.0" cy="176.0" r="52.0" fill="none" stroke="#8B5CF6" stroke-width="13" stroke-dasharray="79.55 326.73" stroke-dashoffset="-119.24" transform="rotate(-90 474.0 176.0)" />
-    <circle cx="474.0" cy="176.0" r="52.0" fill="none" stroke="#F59E0B" stroke-width="13" stroke-dasharray="45.27 326.73" stroke-dashoffset="-201.29" transform="rotate(-90 474.0 176.0)" />
-    <circle cx="474.0" cy="176.0" r="52.0" fill="none" stroke="#10B981" stroke-width="13" stroke-dasharray="24.85 326.73" stroke-dashoffset="-249.06" transform="rotate(-90 474.0 176.0)" />
-    <circle cx="474.0" cy="176.0" r="52.0" fill="none" stroke="#38BDF8" stroke-width="13" stroke-dasharray="24.12 326.73" stroke-dashoffset="-276.40" transform="rotate(-90 474.0 176.0)" />
-    <circle cx="474.0" cy="176.0" r="52.0" fill="none" stroke="#94A3B8" stroke-width="13" stroke-dasharray="21.20 326.73" stroke-dashoffset="-303.02" transform="rotate(-90 474.0 176.0)" />
+    <circle cx="474.0" cy="176.0" r="52.0" fill="none" stroke="#22D3EE" stroke-width="13" stroke-dasharray="114.29 326.73" stroke-dashoffset="-0.00" transform="rotate(-90 474.0 176.0)" />
+    <circle cx="474.0" cy="176.0" r="52.0" fill="none" stroke="#8B5CF6" stroke-width="13" stroke-dasharray="84.82 326.73" stroke-dashoffset="-116.79" transform="rotate(-90 474.0 176.0)" />
+    <circle cx="474.0" cy="176.0" r="52.0" fill="none" stroke="#F59E0B" stroke-width="13" stroke-dasharray="44.43 326.73" stroke-dashoffset="-204.11" transform="rotate(-90 474.0 176.0)" />
+    <circle cx="474.0" cy="176.0" r="52.0" fill="none" stroke="#10B981" stroke-width="13" stroke-dasharray="24.06 326.73" stroke-dashoffset="-251.05" transform="rotate(-90 474.0 176.0)" />
+    <circle cx="474.0" cy="176.0" r="52.0" fill="none" stroke="#38BDF8" stroke-width="13" stroke-dasharray="23.33 326.73" stroke-dashoffset="-277.61" transform="rotate(-90 474.0 176.0)" />
+    <circle cx="474.0" cy="176.0" r="52.0" fill="none" stroke="#94A3B8" stroke-width="13" stroke-dasharray="20.79 326.73" stroke-dashoffset="-303.44" transform="rotate(-90 474.0 176.0)" />
   </g>
   <text x="474.0" y="174.0" text-anchor="middle" class="mono" font-size="20" font-weight="700" fill="#F8FAFC">6</text>
   <text x="474.0" y="190.0" text-anchor="middle" class="mono" font-size="9.2" fill="#94A3B8">LANGUAGES</text>
@@ -91,37 +91,37 @@
   <g>
     <rect x="572" y="107" width="9" height="9" rx="2" fill="#22D3EE" />
     <text x="589" y="116" class="sans" font-size="12.5" font-weight="600" fill="#F8FAFC">TypeScript</text>
-    <text x="888" y="116" text-anchor="end" class="mono" font-size="11.5" font-weight="600" fill="#CBD5E1">32.7%</text>
+    <text x="888" y="116" text-anchor="end" class="mono" font-size="11.5" font-weight="600" fill="#CBD5E1">32.1%</text>
     <line x1="572" y1="124" x2="888" y2="124" stroke="#1E2C3A" stroke-width="0.8" />
   </g>
   <g>
     <rect x="572" y="131" width="9" height="9" rx="2" fill="#8B5CF6" />
     <text x="589" y="140" class="sans" font-size="12.5" font-weight="600" fill="#F8FAFC">Python</text>
-    <text x="888" y="140" text-anchor="end" class="mono" font-size="11.5" font-weight="600" fill="#CBD5E1">22.5%</text>
+    <text x="888" y="140" text-anchor="end" class="mono" font-size="11.5" font-weight="600" fill="#CBD5E1">24.0%</text>
     <line x1="572" y1="148" x2="888" y2="148" stroke="#1E2C3A" stroke-width="0.8" />
   </g>
   <g>
     <rect x="572" y="155" width="9" height="9" rx="2" fill="#F59E0B" />
     <text x="589" y="164" class="sans" font-size="12.5" font-weight="600" fill="#F8FAFC">Java</text>
-    <text x="888" y="164" text-anchor="end" class="mono" font-size="11.5" font-weight="600" fill="#CBD5E1">13.1%</text>
+    <text x="888" y="164" text-anchor="end" class="mono" font-size="11.5" font-weight="600" fill="#CBD5E1">12.9%</text>
     <line x1="572" y1="172" x2="888" y2="172" stroke="#1E2C3A" stroke-width="0.8" />
   </g>
   <g>
     <rect x="572" y="179" width="9" height="9" rx="2" fill="#10B981" />
     <text x="589" y="188" class="sans" font-size="12.5" font-weight="600" fill="#F8FAFC">PHP</text>
-    <text x="888" y="188" text-anchor="end" class="mono" font-size="11.5" font-weight="600" fill="#CBD5E1">7.5%</text>
+    <text x="888" y="188" text-anchor="end" class="mono" font-size="11.5" font-weight="600" fill="#CBD5E1">7.3%</text>
     <line x1="572" y1="196" x2="888" y2="196" stroke="#1E2C3A" stroke-width="0.8" />
   </g>
   <g>
     <rect x="572" y="203" width="9" height="9" rx="2" fill="#38BDF8" />
     <text x="589" y="212" class="sans" font-size="12.5" font-weight="600" fill="#F8FAFC">Go</text>
-    <text x="888" y="212" text-anchor="end" class="mono" font-size="11.5" font-weight="600" fill="#CBD5E1">7.3%</text>
+    <text x="888" y="212" text-anchor="end" class="mono" font-size="11.5" font-weight="600" fill="#CBD5E1">7.1%</text>
     <line x1="572" y1="220" x2="888" y2="220" stroke="#1E2C3A" stroke-width="0.8" />
   </g>
   <g>
     <rect x="572" y="227" width="9" height="9" rx="2" fill="#94A3B8" />
     <text x="589" y="236" class="sans" font-size="12.5" font-weight="600" fill="#F8FAFC">JavaScript</text>
-    <text x="888" y="236" text-anchor="end" class="mono" font-size="11.5" font-weight="600" fill="#CBD5E1">6.5%</text>
+    <text x="888" y="236" text-anchor="end" class="mono" font-size="11.5" font-weight="600" fill="#CBD5E1">6.4%</text>
     <line x1="572" y1="244" x2="888" y2="244" stroke="#1E2C3A" stroke-width="0.8" />
   </g>
 </svg>
