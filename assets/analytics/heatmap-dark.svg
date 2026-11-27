@@ -430,12 +430,13 @@
     <rect x="864.0" y="105.0" width="12.4" height="12.4" rx="2.5" fill="#10B981" />
     <rect x="864.0" y="120.5" width="12.4" height="12.4" rx="2.5" fill="#22D3EE" />
     <rect x="864.0" y="136.0" width="12.4" height="12.4" rx="2.5" fill="#10B981" />
+    <rect x="864.0" y="151.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
   </g>
   <g clip-path="url(#hm-active-dark)" aria-hidden="true">
     <rect class="hm-wave" x="58" y="70" width="140" height="114" fill="url(#hm-scan-dark)" />
   </g>
 
-  <text x="28" y="208" class="mono" font-size="9.4" fill="#94A3B8">PUBLIC GITHUB CALENDAR  ·  UPDATED 2026-11-26 UTC</text>
+  <text x="28" y="208" class="mono" font-size="9.4" fill="#94A3B8">PUBLIC GITHUB CALENDAR  ·  UPDATED 2026-11-27 UTC</text>
   <text x="766" y="207.5" text-anchor="end" class="mono" font-size="9.2" fill="#94A3B8">Less</text>
   <rect x="774" y="198" width="11" height="11" rx="2.2" fill="#17232F" />
   <rect x="790" y="198" width="11" height="11" rx="2.2" fill="#0E4A3A" />
