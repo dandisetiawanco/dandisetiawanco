@@ -39,7 +39,7 @@
   </style>
   <rect x="0.75" y="0.75" width="918.5" height="136.5" rx="12" fill="url(#rp-bg-light)" stroke="#CBD5E1" stroke-width="1.15" />
   <text x="24" y="26" class="mono" font-size="9.8" font-weight="700" fill="#047857">LIVE DELIVERY TIMELINE  ·  NEWEST TO EARLIER</text>
-  <text x="896" y="26" text-anchor="end" class="mono" font-size="9.5" fill="#475569">AUTO-SYNCED 2026-11-27 12:11 UTC</text>
+  <text x="896" y="26" text-anchor="end" class="mono" font-size="9.5" fill="#475569">AUTO-SYNCED 2026-11-27 21:13 UTC</text>
 
   <line x1="64" y1="74" x2="856" y2="74" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" />
   <g clip-path="url(#rp-rail-light)">
@@ -47,38 +47,38 @@
   </g>
 
   <g>
-    <circle class="nd-0" cx="84.0" cy="74" r="7" fill="#FFFFFF" stroke="#D97706" stroke-width="2.2" />
-    <circle cx="84.0" cy="74" r="2.8" fill="#D97706" />
-    <text x="84.0" y="54" text-anchor="middle" class="sans" font-size="12.2" font-weight="700" fill="#0F172A">Ledger</text>
-    <text x="84.0" y="102" text-anchor="middle" class="mono" font-size="9.8" font-weight="600" fill="#334155">Java</text>
-    <text x="84.0" y="117" text-anchor="middle" class="mono" font-size="9.2" fill="#475569">11-26</text>
+    <circle class="nd-0" cx="84.0" cy="74" r="7" fill="#FFFFFF" stroke="#0891B2" stroke-width="2.2" />
+    <circle cx="84.0" cy="74" r="2.8" fill="#0891B2" />
+    <text x="84.0" y="54" text-anchor="middle" class="sans" font-size="12.2" font-weight="700" fill="#0F172A">aurel-social</text>
+    <text x="84.0" y="102" text-anchor="middle" class="mono" font-size="9.8" font-weight="600" fill="#334155">Multi</text>
+    <text x="84.0" y="117" text-anchor="middle" class="mono" font-size="9.2" fill="#475569">11-27</text>
   </g>
   <g>
-    <circle class="nd-1" cx="272.0" cy="74" r="7" fill="#FFFFFF" stroke="#0891B2" stroke-width="2.2" />
-    <circle cx="272.0" cy="74" r="2.8" fill="#0891B2" />
-    <text x="272.0" y="54" text-anchor="middle" class="sans" font-size="12.2" font-weight="700" fill="#0F172A">InfraOS</text>
-    <text x="272.0" y="102" text-anchor="middle" class="mono" font-size="9.8" font-weight="600" fill="#334155">Go</text>
-    <text x="272.0" y="117" text-anchor="middle" class="mono" font-size="9.2" fill="#475569">11-25</text>
+    <circle class="nd-1" cx="272.0" cy="74" r="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2.2" />
+    <circle cx="272.0" cy="74" r="2.8" fill="#7C3AED" />
+    <text x="272.0" y="54" text-anchor="middle" class="sans" font-size="12.2" font-weight="700" fill="#0F172A">nexus-workfl...</text>
+    <text x="272.0" y="102" text-anchor="middle" class="mono" font-size="9.8" font-weight="600" fill="#334155">Multi</text>
+    <text x="272.0" y="117" text-anchor="middle" class="mono" font-size="9.2" fill="#475569">11-27</text>
   </g>
   <g>
-    <circle class="nd-2" cx="460.0" cy="74" r="7" fill="#FFFFFF" stroke="#0891B2" stroke-width="2.2" />
-    <circle cx="460.0" cy="74" r="2.8" fill="#0891B2" />
-    <text x="460.0" y="54" text-anchor="middle" class="sans" font-size="12.2" font-weight="700" fill="#0F172A">TalentOS</text>
-    <text x="460.0" y="102" text-anchor="middle" class="mono" font-size="9.8" font-weight="600" fill="#334155">TypeScript</text>
-    <text x="460.0" y="117" text-anchor="middle" class="mono" font-size="9.2" fill="#475569">11-25</text>
+    <circle class="nd-2" cx="460.0" cy="74" r="7" fill="#FFFFFF" stroke="#D97706" stroke-width="2.2" />
+    <circle cx="460.0" cy="74" r="2.8" fill="#D97706" />
+    <text x="460.0" y="54" text-anchor="middle" class="sans" font-size="12.2" font-weight="700" fill="#0F172A">nova-finance</text>
+    <text x="460.0" y="102" text-anchor="middle" class="mono" font-size="9.8" font-weight="600" fill="#334155">Multi</text>
+    <text x="460.0" y="117" text-anchor="middle" class="mono" font-size="9.2" fill="#475569">11-27</text>
   </g>
   <g>
-    <circle class="nd-3" cx="648.0" cy="74" r="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2.2" />
-    <circle cx="648.0" cy="74" r="2.8" fill="#7C3AED" />
-    <text x="648.0" y="54" text-anchor="middle" class="sans" font-size="12.2" font-weight="700" fill="#0F172A">Omnidesk</text>
-    <text x="648.0" y="102" text-anchor="middle" class="mono" font-size="9.8" font-weight="600" fill="#334155">Python</text>
-    <text x="648.0" y="117" text-anchor="middle" class="mono" font-size="9.2" fill="#475569">11-24</text>
+    <circle class="nd-3" cx="648.0" cy="74" r="7" fill="#FFFFFF" stroke="#D97706" stroke-width="2.2" />
+    <circle cx="648.0" cy="74" r="2.8" fill="#D97706" />
+    <text x="648.0" y="54" text-anchor="middle" class="sans" font-size="12.2" font-weight="700" fill="#0F172A">Ledger</text>
+    <text x="648.0" y="102" text-anchor="middle" class="mono" font-size="9.8" font-weight="600" fill="#334155">Java</text>
+    <text x="648.0" y="117" text-anchor="middle" class="mono" font-size="9.2" fill="#475569">11-26</text>
   </g>
   <g>
-    <circle class="nd-4" cx="836.0" cy="74" r="7" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2.2" />
-    <circle cx="836.0" cy="74" r="2.8" fill="#7C3AED" />
-    <text x="836.0" y="54" text-anchor="middle" class="sans" font-size="12.2" font-weight="700" fill="#0F172A">AgentOs</text>
-    <text x="836.0" y="102" text-anchor="middle" class="mono" font-size="9.8" font-weight="600" fill="#334155">Python</text>
-    <text x="836.0" y="117" text-anchor="middle" class="mono" font-size="9.2" fill="#475569">11-23</text>
+    <circle class="nd-4" cx="836.0" cy="74" r="7" fill="#FFFFFF" stroke="#0891B2" stroke-width="2.2" />
+    <circle cx="836.0" cy="74" r="2.8" fill="#0891B2" />
+    <text x="836.0" y="54" text-anchor="middle" class="sans" font-size="12.2" font-weight="700" fill="#0F172A">InfraOS</text>
+    <text x="836.0" y="102" text-anchor="middle" class="mono" font-size="9.8" font-weight="600" fill="#334155">Go</text>
+    <text x="836.0" y="117" text-anchor="middle" class="mono" font-size="9.2" fill="#475569">11-25</text>
   </g>
 </svg>

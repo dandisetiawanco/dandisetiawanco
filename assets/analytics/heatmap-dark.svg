@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 232" width="920" height="232" role="img" aria-labelledby="hm-t-dark hm-d-dark">
   <title id="hm-t-dark">Annual Public Contribution Heatmap</title>
-  <desc id="hm-d-dark">52-week public GitHub contribution calendar showing 92 public contributions across 11 active days, peaking at 25 in a single day.</desc>
+  <desc id="hm-d-dark">52-week public GitHub contribution calendar showing 147 public contributions across 18 active days, peaking at 45 in a single day.</desc>
   <defs>
     <linearGradient id="hm-bg-dark" x1="0" y1="0" x2="920" y2="232" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#101820" />
@@ -15,14 +15,21 @@
       <rect x="244.0" y="136.0" width="12.4" height="12.4" rx="2.5" />
       <rect x="244.0" y="167.0" width="12.4" height="12.4" rx="2.5" />
       <rect x="259.5" y="74.0" width="12.4" height="12.4" rx="2.5" />
+      <rect x="383.5" y="151.5" width="12.4" height="12.4" rx="2.5" />
       <rect x="414.5" y="136.0" width="12.4" height="12.4" rx="2.5" />
       <rect x="616.0" y="151.5" width="12.4" height="12.4" rx="2.5" />
       <rect x="709.0" y="136.0" width="12.4" height="12.4" rx="2.5" />
+      <rect x="724.5" y="89.5" width="12.4" height="12.4" rx="2.5" />
       <rect x="724.5" y="120.5" width="12.4" height="12.4" rx="2.5" />
+      <rect x="724.5" y="151.5" width="12.4" height="12.4" rx="2.5" />
+      <rect x="848.5" y="105.0" width="12.4" height="12.4" rx="2.5" />
+      <rect x="848.5" y="136.0" width="12.4" height="12.4" rx="2.5" />
+      <rect x="848.5" y="151.5" width="12.4" height="12.4" rx="2.5" />
       <rect x="864.0" y="89.5" width="12.4" height="12.4" rx="2.5" />
       <rect x="864.0" y="105.0" width="12.4" height="12.4" rx="2.5" />
       <rect x="864.0" y="120.5" width="12.4" height="12.4" rx="2.5" />
       <rect x="864.0" y="136.0" width="12.4" height="12.4" rx="2.5" />
+      <rect x="864.0" y="151.5" width="12.4" height="12.4" rx="2.5" />
     </clipPath>
   </defs>
   <style>
@@ -41,7 +48,7 @@
   <rect x="0.75" y="0.75" width="918.5" height="230.5" rx="14" fill="url(#hm-bg-dark)" stroke="#263646" stroke-width="1.2" />
 
   <text x="28" y="32" class="sans" font-size="14.5" font-weight="700" fill="#F8FAFC">Annual Contribution Heatmap</text>
-  <text x="892" y="32" text-anchor="end" class="mono" font-size="9.8" fill="#34D399">92 PUBLIC CONTRIBUTIONS  ·  PEAK 25/DAY  ·  11 ACTIVE DAYS</text>
+  <text x="892" y="32" text-anchor="end" class="mono" font-size="9.8" fill="#34D399">147 PUBLIC CONTRIBUTIONS  ·  PEAK 45/DAY  ·  18 ACTIVE DAYS</text>
   <line x1="28" y1="44" x2="892" y2="44" stroke="#1E2C3A" stroke-width="1" />
 
   <text x="58.0" y="62" class="mono" font-size="9.5" fill="#94A3B8">Nov</text>
@@ -149,9 +156,9 @@
     <rect x="244.0" y="89.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="244.0" y="105.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="244.0" y="120.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
-    <rect x="244.0" y="136.0" width="12.4" height="12.4" rx="2.5" fill="#059669" />
+    <rect x="244.0" y="136.0" width="12.4" height="12.4" rx="2.5" fill="#0E4A3A" />
     <rect x="244.0" y="151.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
-    <rect x="244.0" y="167.0" width="12.4" height="12.4" rx="2.5" fill="#059669" />
+    <rect x="244.0" y="167.0" width="12.4" height="12.4" rx="2.5" fill="#0E4A3A" />
     <rect x="259.5" y="74.0" width="12.4" height="12.4" rx="2.5" fill="#0E4A3A" />
     <rect x="259.5" y="89.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="259.5" y="105.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
@@ -213,7 +220,7 @@
     <rect x="383.5" y="105.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="383.5" y="120.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="383.5" y="136.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
-    <rect x="383.5" y="151.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
+    <rect x="383.5" y="151.5" width="12.4" height="12.4" rx="2.5" fill="#0E4A3A" />
     <rect x="383.5" y="167.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="399.0" y="74.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="399.0" y="89.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
@@ -363,11 +370,11 @@
     <rect x="709.0" y="151.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="709.0" y="167.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="724.5" y="74.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
-    <rect x="724.5" y="89.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
+    <rect x="724.5" y="89.5" width="12.4" height="12.4" rx="2.5" fill="#0E4A3A" />
     <rect x="724.5" y="105.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="724.5" y="120.5" width="12.4" height="12.4" rx="2.5" fill="#0E4A3A" />
     <rect x="724.5" y="136.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
-    <rect x="724.5" y="151.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
+    <rect x="724.5" y="151.5" width="12.4" height="12.4" rx="2.5" fill="#0E4A3A" />
     <rect x="724.5" y="167.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="740.0" y="74.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="740.0" y="89.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
@@ -420,17 +427,17 @@
     <rect x="833.0" y="167.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="848.5" y="74.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="848.5" y="89.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
-    <rect x="848.5" y="105.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
+    <rect x="848.5" y="105.0" width="12.4" height="12.4" rx="2.5" fill="#0E4A3A" />
     <rect x="848.5" y="120.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
-    <rect x="848.5" y="136.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
-    <rect x="848.5" y="151.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
+    <rect x="848.5" y="136.0" width="12.4" height="12.4" rx="2.5" fill="#0E4A3A" />
+    <rect x="848.5" y="151.5" width="12.4" height="12.4" rx="2.5" fill="#0E4A3A" />
     <rect x="848.5" y="167.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
     <rect x="864.0" y="74.0" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
-    <rect x="864.0" y="89.5" width="12.4" height="12.4" rx="2.5" fill="#10B981" />
-    <rect x="864.0" y="105.0" width="12.4" height="12.4" rx="2.5" fill="#10B981" />
-    <rect x="864.0" y="120.5" width="12.4" height="12.4" rx="2.5" fill="#22D3EE" />
-    <rect x="864.0" y="136.0" width="12.4" height="12.4" rx="2.5" fill="#10B981" />
-    <rect x="864.0" y="151.5" width="12.4" height="12.4" rx="2.5" fill="#17232F" />
+    <rect x="864.0" y="89.5" width="12.4" height="12.4" rx="2.5" fill="#059669" />
+    <rect x="864.0" y="105.0" width="12.4" height="12.4" rx="2.5" fill="#059669" />
+    <rect x="864.0" y="120.5" width="12.4" height="12.4" rx="2.5" fill="#10B981" />
+    <rect x="864.0" y="136.0" width="12.4" height="12.4" rx="2.5" fill="#059669" />
+    <rect x="864.0" y="151.5" width="12.4" height="12.4" rx="2.5" fill="#22D3EE" />
   </g>
   <g clip-path="url(#hm-active-dark)" aria-hidden="true">
     <rect class="hm-wave" x="58" y="70" width="140" height="114" fill="url(#hm-scan-dark)" />

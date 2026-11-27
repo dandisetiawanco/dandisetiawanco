@@ -94,12 +94,12 @@ I hold a Bachelor of Computer Science (S.Kom.) in Informatics from Universitas T
 
 | Repository | Summary | Language | Latest Activity | Updated |
 | :--- | :--- | :--- | :--- | :--- |
+| [**aurel-social**](https://github.com/dandisetiawanco/aurel-social) | A premium AI-powered social super app concept unifying private messaging, social networking... | `Multi` | [`b825079`](https://github.com/dandisetiawanco/aurel-social/commit/b825079d117b53f905b5ad0794ab2109cc837f4f) docs: add product architecture and design system... | `2026-11-27` |
+| [**nexus-workflow-studio**](https://github.com/dandisetiawanco/nexus-workflow-studio) | A premium visual workflow studio concept for AI agent orchestration, conditional automation... | `Multi` | [`192be94`](https://github.com/dandisetiawanco/nexus-workflow-studio/commit/192be9480b6ce926a69036e8bd8753aca98b2221) feat: publish NEXUS workflow studio design and... | `2026-11-27` |
+| [**nova-finance**](https://github.com/dandisetiawanco/nova-finance) | A premium personal finance mobile app concept featuring an editable FigCraft design... | `Multi` | [`20762f1`](https://github.com/dandisetiawanco/nova-finance/commit/20762f119e2c276c3151e8995acd9d612e2ca428) feat: publish NOVA Finance product design and... | `2026-11-27` |
 | [**Ledger**](https://github.com/dandisetiawanco/Ledger) | A financial management and accounting platform built with Java, Spring Boot, and Next.js... | `Java` | [`229134d`](https://github.com/dandisetiawanco/Ledger/commit/229134df402c6b66149b60f1828be2082747b245) docs: record verified CI pass in implementation... | `2026-11-26` |
 | [**InfraOS**](https://github.com/dandisetiawanco/InfraOS) | An infrastructure operations platform built with Go and Next.js, featuring real-time system... | `Go` | [`7640c26`](https://github.com/dandisetiawanco/InfraOS/commit/7640c2629e871ce4dfecde5508faf6ab269f0a78) fix(ci): declare hcloud provider in compute... | `2026-11-25` |
 | [**TalentOS**](https://github.com/dandisetiawanco/TalentOS) | A modern recruitment operating system featuring Liquid Glass interfaces, intelligent resume... | `TypeScript` | [`6021f22`](https://github.com/dandisetiawanco/TalentOS/commit/6021f22238f3553aa6c0ec3e1653ca84b5f98d19) docs: finalize portfolio README, branding icons... | `2026-11-25` |
-| [**Omnidesk**](https://github.com/dandisetiawanco/Omnidesk) (1 star) | OmniDesk: An AI-powered desktop agent designed for intelligent computer interaction... | `Python` | [`0684688`](https://github.com/dandisetiawanco/Omnidesk/commit/068468888fbd4f96f78c2340409e50bf62898f5e) fix(planner): recognize cross-platform external... | `2026-11-24` |
-| [**AgentOs**](https://github.com/dandisetiawanco/AgentOs) (3 stars) | AgentOS is an open-source, local-first AI desktop assistant that securely plans, executes... | `Python` | [`0ea9893`](https://github.com/dandisetiawanco/AgentOs/commit/0ea98939f61656f7dfd8f16dc11ed758519ad093) feat(ui): overhaul desktop interface to native... | `2026-11-23` |
-| [**portdandisetiawan**](https://github.com/dandisetiawanco/portdandisetiawan) | Portfolio Dandi Setiawan | `JavaScript` | [`187034b`](https://github.com/dandisetiawanco/portdandisetiawan/commit/187034b11577e3a5e88a75069f1c16c92dbd7505) feat: initial commit portfolio | `2026-09-23` |
 <!-- DYNAMIC:RECENTLY_SHIPPED:END -->
 
 ## Engineering Ecosystem
@@ -154,7 +154,7 @@ Applied AI software breaks down when model outputs trigger unverified side effec
 
 <p align="center">
 <!-- DYNAMIC:ANALYTICS_FOOTER:START -->
-<sub>Scope: public GitHub data across 11 owned non-fork repositories (92 trailing 52-week public contributions, 80 public commits, 4 stars). Private repository data is excluded. Last verified sync: <code>2026-11-27 12:11 UTC</code>.</sub>
+<sub>Scope: public GitHub data across 14 owned non-fork repositories (147 trailing 52-week public contributions, 82 public commits, 4 stars). Private repository data is excluded. Last verified sync: <code>2026-11-27 21:13 UTC</code>.</sub>
 <!-- DYNAMIC:ANALYTICS_FOOTER:END -->
 </p>
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-11-27 12:11 UTC",
+  "generated_at_utc": "2026-11-27 21:13 UTC",
   "updated_date_utc": "2026-11-27",
   "token_source": "env",
   "scope": "public_owned_non_fork",
@@ -8,20 +8,20 @@
     "login": "dandisetiawanco",
     "name": "Dandi Setiawan",
     "location": "Indonesia",
-    "public_repos": 11,
+    "public_repos": 14,
     "followers": 0
   },
   "stats": {
-    "public_repos": 11,
+    "public_repos": 14,
     "total_stars": 4,
     "total_forks": 0,
-    "total_contributions": 92,
-    "public_commits": 80,
-    "active_days": 11,
-    "current_streak": 4,
-    "longest_streak": 4,
-    "peak_day": 25,
-    "peak_week": 67,
+    "total_contributions": 147,
+    "public_commits": 82,
+    "active_days": 18,
+    "current_streak": 5,
+    "longest_streak": 5,
+    "peak_day": 45,
+    "peak_week": 112,
     "releases_count": 0
   },
   "languages": [
@@ -138,7 +138,7 @@
     },
     {
       "first_day": "2026-02-15",
-      "count": 15
+      "count": 17
     },
     {
       "first_day": "2026-02-22",
@@ -174,7 +174,7 @@
     },
     {
       "first_day": "2026-04-19",
-      "count": 0
+      "count": 3
     },
     {
       "first_day": "2026-04-26",
@@ -262,7 +262,7 @@
     },
     {
       "first_day": "2026-09-20",
-      "count": 1
+      "count": 3
     },
     {
       "first_day": "2026-09-27",
@@ -294,11 +294,11 @@
     },
     {
       "first_day": "2026-11-15",
-      "count": 0
+      "count": 3
     },
     {
       "first_day": "2026-11-22",
-      "count": 67
+      "count": 112
     }
   ],
   "calendar_days": [
@@ -664,7 +664,7 @@
     },
     {
       "date": "2026-02-21",
-      "count": 7
+      "count": 9
     },
     {
       "date": "2026-02-22",
@@ -912,7 +912,7 @@
     },
     {
       "date": "2026-04-24",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2026-04-25",
@@ -1512,7 +1512,7 @@
     },
     {
       "date": "2026-09-21",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-09-22",
@@ -1528,7 +1528,7 @@
     },
     {
       "date": "2026-09-25",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-09-26",
@@ -1740,7 +1740,7 @@
     },
     {
       "date": "2026-11-17",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-11-18",
@@ -1748,11 +1748,11 @@
     },
     {
       "date": "2026-11-19",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-11-20",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-11-21",
@@ -1780,10 +1780,147 @@
     },
     {
       "date": "2026-11-27",
-      "count": 0
+      "count": 45
     }
   ],
   "repos": [
+    {
+      "name": "aurel-social",
+      "full_name": "dandisetiawanco/aurel-social",
+      "url": "https://github.com/dandisetiawanco/aurel-social",
+      "description": "A premium AI-powered social super app concept unifying private messaging, social networking, immersive short videos, communities, and contextual intelligence through an Apple-inspired Liquid Glass experience.",
+      "homepage": "https://www.ngoprekdigital.site/",
+      "language": "Multi",
+      "languages": {},
+      "topics": [
+        "ai-assistant",
+        "artificial-intelligence",
+        "astryx",
+        "design-engineering",
+        "design-system",
+        "figcraft",
+        "ios-design",
+        "liquid-glass",
+        "messaging",
+        "mobile-design",
+        "ngoprek-digital",
+        "product-design",
+        "prototyping",
+        "short-video",
+        "social-app",
+        "social-network",
+        "super-app",
+        "ui-ux"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "license": "NOASSERTION",
+      "created_at": "2026-11-27T19:30:44Z",
+      "updated_at": "2026-11-27T19:40:49Z",
+      "pushed_at": "2026-11-27T19:31:00Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "b825079",
+          "message": "docs: add product architecture and design system documentation",
+          "date": "2026-11-27T19:16:00Z",
+          "url": "https://github.com/dandisetiawanco/aurel-social/commit/b825079d117b53f905b5ad0794ab2109cc837f4f"
+        },
+        {
+          "sha": "9355cd0",
+          "message": "design: add premium product showcase and motion assets",
+          "date": "2026-11-27T19:15:59Z",
+          "url": "https://github.com/dandisetiawanco/aurel-social/commit/9355cd0503d6f4f424b6e8bc6d5f0f857f381bf9"
+        },
+        {
+          "sha": "dacc561",
+          "message": "feat: add AUREL mobile product design and interactive prototype",
+          "date": "2026-11-27T19:15:59Z",
+          "url": "https://github.com/dandisetiawanco/aurel-social/commit/dacc561b58fc81f21a72a618c44ffdf2993fef91"
+        }
+      ]
+    },
+    {
+      "name": "nexus-workflow-studio",
+      "full_name": "dandisetiawanco/nexus-workflow-studio",
+      "url": "https://github.com/dandisetiawanco/nexus-workflow-studio",
+      "description": "A premium visual workflow studio concept for AI agent orchestration, conditional automation, execution monitoring, and intelligent error recovery. Built with FigCraft and Astryx design principles.",
+      "homepage": "https://www.ngoprekdigital.site/",
+      "language": "Multi",
+      "languages": {},
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "ai-assisted-design",
+        "astryx",
+        "design-engineering",
+        "design-system",
+        "enterprise-saas",
+        "figcraft",
+        "ngoprek-digital",
+        "node-editor",
+        "product-design",
+        "prototyping",
+        "ui-ux",
+        "visual-programming",
+        "workflow-automation",
+        "workflow-builder"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "license": "NOASSERTION",
+      "created_at": "2026-11-27T16:51:21Z",
+      "updated_at": "2026-11-27T16:51:54Z",
+      "pushed_at": "2026-11-27T16:52:21Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "192be94",
+          "message": "feat: publish NEXUS workflow studio design and architecture",
+          "date": "2026-11-27T16:50:55Z",
+          "url": "https://github.com/dandisetiawanco/nexus-workflow-studio/commit/192be9480b6ce926a69036e8bd8753aca98b2221"
+        }
+      ]
+    },
+    {
+      "name": "nova-finance",
+      "full_name": "dandisetiawanco/nova-finance",
+      "url": "https://github.com/dandisetiawanco/nova-finance",
+      "description": "A premium personal finance mobile app concept featuring an editable FigCraft design, scalable design system, interactive prototypes, and a distinctive visual identity by NGOPREK DIGITAL.",
+      "homepage": "https://www.ngoprekdigital.site/",
+      "language": "Multi",
+      "languages": {},
+      "topics": [
+        "ai-assisted-design",
+        "astryx",
+        "design-engineering",
+        "design-system",
+        "figcraft",
+        "fintech",
+        "mobile-app",
+        "mobile-design",
+        "ngoprek-digital",
+        "personal-finance",
+        "product-design",
+        "prototyping",
+        "ui-ux"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "license": "NOASSERTION",
+      "created_at": "2026-11-27T15:21:25Z",
+      "updated_at": "2026-11-27T15:22:15Z",
+      "pushed_at": "2026-11-27T15:21:37Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "20762f1",
+          "message": "feat: publish NOVA Finance product design and interactive prototype",
+          "date": "2026-11-27T15:20:49Z",
+          "url": "https://github.com/dandisetiawanco/nova-finance/commit/20762f119e2c276c3151e8995acd9d612e2ca428"
+        }
+      ]
+    },
     {
       "name": "dandisetiawanco",
       "full_name": "dandisetiawanco/dandisetiawanco",
@@ -1800,7 +1937,7 @@
       "license": "",
       "created_at": "2026-02-19T14:59:35Z",
       "updated_at": "2026-11-23T23:53:59Z",
-      "pushed_at": "2026-11-27T02:50:28Z",
+      "pushed_at": "2026-11-27T12:11:44Z",
       "latest_release": null,
       "recent_commits": [
         {
@@ -2237,6 +2374,143 @@
   ],
   "recent_feed": [
     {
+      "name": "aurel-social",
+      "full_name": "dandisetiawanco/aurel-social",
+      "url": "https://github.com/dandisetiawanco/aurel-social",
+      "description": "A premium AI-powered social super app concept unifying private messaging, social networking, immersive short videos, communities, and contextual intelligence through an Apple-inspired Liquid Glass experience.",
+      "homepage": "https://www.ngoprekdigital.site/",
+      "language": "Multi",
+      "languages": {},
+      "topics": [
+        "ai-assistant",
+        "artificial-intelligence",
+        "astryx",
+        "design-engineering",
+        "design-system",
+        "figcraft",
+        "ios-design",
+        "liquid-glass",
+        "messaging",
+        "mobile-design",
+        "ngoprek-digital",
+        "product-design",
+        "prototyping",
+        "short-video",
+        "social-app",
+        "social-network",
+        "super-app",
+        "ui-ux"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "license": "NOASSERTION",
+      "created_at": "2026-11-27T19:30:44Z",
+      "updated_at": "2026-11-27T19:40:49Z",
+      "pushed_at": "2026-11-27T19:31:00Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "b825079",
+          "message": "docs: add product architecture and design system documentation",
+          "date": "2026-11-27T19:16:00Z",
+          "url": "https://github.com/dandisetiawanco/aurel-social/commit/b825079d117b53f905b5ad0794ab2109cc837f4f"
+        },
+        {
+          "sha": "9355cd0",
+          "message": "design: add premium product showcase and motion assets",
+          "date": "2026-11-27T19:15:59Z",
+          "url": "https://github.com/dandisetiawanco/aurel-social/commit/9355cd0503d6f4f424b6e8bc6d5f0f857f381bf9"
+        },
+        {
+          "sha": "dacc561",
+          "message": "feat: add AUREL mobile product design and interactive prototype",
+          "date": "2026-11-27T19:15:59Z",
+          "url": "https://github.com/dandisetiawanco/aurel-social/commit/dacc561b58fc81f21a72a618c44ffdf2993fef91"
+        }
+      ]
+    },
+    {
+      "name": "nexus-workflow-studio",
+      "full_name": "dandisetiawanco/nexus-workflow-studio",
+      "url": "https://github.com/dandisetiawanco/nexus-workflow-studio",
+      "description": "A premium visual workflow studio concept for AI agent orchestration, conditional automation, execution monitoring, and intelligent error recovery. Built with FigCraft and Astryx design principles.",
+      "homepage": "https://www.ngoprekdigital.site/",
+      "language": "Multi",
+      "languages": {},
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "ai-assisted-design",
+        "astryx",
+        "design-engineering",
+        "design-system",
+        "enterprise-saas",
+        "figcraft",
+        "ngoprek-digital",
+        "node-editor",
+        "product-design",
+        "prototyping",
+        "ui-ux",
+        "visual-programming",
+        "workflow-automation",
+        "workflow-builder"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "license": "NOASSERTION",
+      "created_at": "2026-11-27T16:51:21Z",
+      "updated_at": "2026-11-27T16:51:54Z",
+      "pushed_at": "2026-11-27T16:52:21Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "192be94",
+          "message": "feat: publish NEXUS workflow studio design and architecture",
+          "date": "2026-11-27T16:50:55Z",
+          "url": "https://github.com/dandisetiawanco/nexus-workflow-studio/commit/192be9480b6ce926a69036e8bd8753aca98b2221"
+        }
+      ]
+    },
+    {
+      "name": "nova-finance",
+      "full_name": "dandisetiawanco/nova-finance",
+      "url": "https://github.com/dandisetiawanco/nova-finance",
+      "description": "A premium personal finance mobile app concept featuring an editable FigCraft design, scalable design system, interactive prototypes, and a distinctive visual identity by NGOPREK DIGITAL.",
+      "homepage": "https://www.ngoprekdigital.site/",
+      "language": "Multi",
+      "languages": {},
+      "topics": [
+        "ai-assisted-design",
+        "astryx",
+        "design-engineering",
+        "design-system",
+        "figcraft",
+        "fintech",
+        "mobile-app",
+        "mobile-design",
+        "ngoprek-digital",
+        "personal-finance",
+        "product-design",
+        "prototyping",
+        "ui-ux"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "license": "NOASSERTION",
+      "created_at": "2026-11-27T15:21:25Z",
+      "updated_at": "2026-11-27T15:22:15Z",
+      "pushed_at": "2026-11-27T15:21:37Z",
+      "latest_release": null,
+      "recent_commits": [
+        {
+          "sha": "20762f1",
+          "message": "feat: publish NOVA Finance product design and interactive prototype",
+          "date": "2026-11-27T15:20:49Z",
+          "url": "https://github.com/dandisetiawanco/nova-finance/commit/20762f119e2c276c3151e8995acd9d612e2ca428"
+        }
+      ]
+    },
+    {
       "name": "Ledger",
       "full_name": "dandisetiawanco/Ledger",
       "url": "https://github.com/dandisetiawanco/Ledger",
@@ -2413,129 +2687,6 @@
           "message": "fix(ui,api): refine tablet navbar breakpoint and complete extracted resume summary",
           "date": "2026-11-25T13:53:18Z",
           "url": "https://github.com/dandisetiawanco/TalentOS/commit/c7c42707e7876dd74928c2cb2f95bde5a134746a"
-        }
-      ]
-    },
-    {
-      "name": "Omnidesk",
-      "full_name": "dandisetiawanco/Omnidesk",
-      "url": "https://github.com/dandisetiawanco/Omnidesk",
-      "description": "OmniDesk \u2014 An AI-powered desktop agent designed for intelligent computer interaction, workflow automation, and seamless system integration, built with Rust, Python, React, and Tauri.",
-      "homepage": "",
-      "language": "Python",
-      "languages": {
-        "Python": 295790,
-        "TypeScript": 241457,
-        "Rust": 62677,
-        "CSS": 30732,
-        "JavaScript": 964,
-        "HTML": 636
-      },
-      "topics": [],
-      "stars": 1,
-      "forks": 0,
-      "license": "NOASSERTION",
-      "created_at": "2026-11-24T06:20:48Z",
-      "updated_at": "2026-11-24T12:52:31Z",
-      "pushed_at": "2026-11-24T07:52:49Z",
-      "latest_release": null,
-      "recent_commits": [
-        {
-          "sha": "0684688",
-          "message": "fix(planner): recognize cross-platform external app demo intents on Linux, Windows, and macOS",
-          "date": "2026-11-24T07:50:36Z",
-          "url": "https://github.com/dandisetiawanco/Omnidesk/commit/068468888fbd4f96f78c2340409e50bf62898f5e"
-        },
-        {
-          "sha": "21bbf3e",
-          "message": "docs: prepare OmniDesk for public developer preview",
-          "date": "2026-11-24T07:09:49Z",
-          "url": "https://github.com/dandisetiawanco/Omnidesk/commit/21bbf3e29d5ec77761f7d8a8a01ca0f76cff3d32"
-        },
-        {
-          "sha": "8dafb86",
-          "message": "Complete cloud & local Ollama AI providers, Windows/Linux native adapters, and universal sidecar distribution",
-          "date": "2026-11-24T06:16:42Z",
-          "url": "https://github.com/dandisetiawanco/Omnidesk/commit/8dafb86bcdc9d42bc59a8cfff8fe8cc3bd1d2397"
-        }
-      ]
-    },
-    {
-      "name": "AgentOs",
-      "full_name": "dandisetiawanco/AgentOs",
-      "url": "https://github.com/dandisetiawanco/AgentOs",
-      "description": "AgentOS is an open-source, local-first AI desktop assistant that securely plans, executes, and verifies real-world computer tasks using autonomous AI agents.",
-      "homepage": "",
-      "language": "Python",
-      "languages": {
-        "Python": 438898,
-        "TypeScript": 245279,
-        "CSS": 17773,
-        "Rust": 11459,
-        "JavaScript": 997,
-        "HTML": 431
-      },
-      "topics": [],
-      "stars": 3,
-      "forks": 0,
-      "license": "Apache-2.0",
-      "created_at": "2026-11-23T02:37:52Z",
-      "updated_at": "2026-11-24T12:23:28Z",
-      "pushed_at": "2026-11-23T12:01:43Z",
-      "latest_release": null,
-      "recent_commits": [
-        {
-          "sha": "0ea9893",
-          "message": "feat(ui): overhaul desktop interface to native macOS Liquid Glass",
-          "date": "2026-11-23T04:16:01Z",
-          "url": "https://github.com/dandisetiawanco/AgentOs/commit/0ea98939f61656f7dfd8f16dc11ed758519ad093"
-        },
-        {
-          "sha": "0e11436",
-          "message": "feat(ui): redesign AgentOS with premium liquid glass",
-          "date": "2026-11-23T03:48:35Z",
-          "url": "https://github.com/dandisetiawanco/AgentOs/commit/0e11436464788f34ae459ce7e77fb22948315e29"
-        },
-        {
-          "sha": "d9d9c15",
-          "message": "fix: use canonical Apache-2.0 license text and macos-15 arm64 CI runner",
-          "date": "2026-11-23T02:56:41Z",
-          "url": "https://github.com/dandisetiawanco/AgentOs/commit/d9d9c15465d417dc2a1fbc1e3a6e713c5b25fb4a"
-        }
-      ]
-    },
-    {
-      "name": "portdandisetiawan",
-      "full_name": "dandisetiawanco/portdandisetiawan",
-      "url": "https://github.com/dandisetiawanco/portdandisetiawan",
-      "description": "PORTFOLIO DANDI SETIAWAN",
-      "homepage": "https://portdandisetiawan.vercel.app",
-      "language": "JavaScript",
-      "languages": {
-        "JavaScript": 59519,
-        "CSS": 52322,
-        "HTML": 2422
-      },
-      "topics": [],
-      "stars": 0,
-      "forks": 0,
-      "license": "",
-      "created_at": "2026-09-23T11:33:37Z",
-      "updated_at": "2026-09-23T11:44:35Z",
-      "pushed_at": "2026-09-23T11:38:43Z",
-      "latest_release": null,
-      "recent_commits": [
-        {
-          "sha": "187034b",
-          "message": "feat: initial commit portfolio",
-          "date": "2026-09-23T11:37:58Z",
-          "url": "https://github.com/dandisetiawanco/portdandisetiawan/commit/187034b11577e3a5e88a75069f1c16c92dbd7505"
-        },
-        {
-          "sha": "8617648",
-          "message": "Initial commit",
-          "date": "2026-09-23T11:34:35Z",
-          "url": "https://github.com/dandisetiawanco/portdandisetiawan/commit/86176484b6efbeb8253d703be38321737708281c"
         }
       ]
     }
