@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 278" width="920" height="278" role="img" aria-labelledby="ov-t-light ov-d-light">
   <title id="ov-t-light">Public Engineering Overview and Language Distribution</title>
-  <desc id="ov-d-light">Verified public GitHub statistics (147 public contributions across 14 public repositories) and byte-weighted language distribution.</desc>
+  <desc id="ov-d-light">Verified public GitHub statistics (150 public contributions across 14 public repositories) and byte-weighted language distribution.</desc>
   <defs>
     <linearGradient id="ov-bg-light" x1="0" y1="0" x2="920" y2="278" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#F8FAFC" />
@@ -37,9 +37,9 @@
 
   <!-- Left editorial KPI ledger -->
   <text x="30" y="34" class="sans" font-size="14.5" font-weight="700" fill="#0F172A">Public Engineering Scope</text>
-  <text x="30" y="51" class="mono" font-size="9.5" fill="#475569">TRAILING 52 WEEKS  ·  SYNC 2026-11-27</text>
+  <text x="30" y="51" class="mono" font-size="9.5" fill="#475569">TRAILING 52 WEEKS  ·  SYNC 2026-11-28</text>
 
-  <text x="30" y="112" class="mono" font-size="44" font-weight="700" fill="#047857" letter-spacing="-0.03em">147</text>
+  <text x="30" y="112" class="mono" font-size="44" font-weight="700" fill="#047857" letter-spacing="-0.03em">150</text>
   <text x="30" y="132" class="sans" font-size="12.5" font-weight="600" fill="#334155">Public Contributions</text>
 
   <line x1="30" y1="150" x2="346" y2="150" stroke="#E2E8F0" stroke-width="1" />
@@ -47,7 +47,7 @@
   <text x="30" y="176" class="mono" font-size="20" font-weight="700" fill="#0F172A">14</text>
   <text x="30" y="193" class="sans" font-size="11" fill="#475569">Public Repositories</text>
 
-  <text x="196" y="176" class="mono" font-size="20" font-weight="700" fill="#0E7490">82</text>
+  <text x="196" y="176" class="mono" font-size="20" font-weight="700" fill="#0E7490">85</text>
   <text x="196" y="193" class="sans" font-size="11" fill="#475569">Public Commits</text>
 
   <line x1="30" y1="208" x2="346" y2="208" stroke="#E2E8F0" stroke-width="1" />
@@ -55,7 +55,7 @@
   <text x="30" y="234" class="mono" font-size="20" font-weight="700" fill="#B45309">4</text>
   <text x="30" y="251" class="sans" font-size="11" fill="#475569">Stars Earned</text>
 
-  <text x="196" y="234" class="mono" font-size="20" font-weight="700" fill="#6D28D9">18d / 5d</text>
+  <text x="196" y="234" class="mono" font-size="20" font-weight="700" fill="#6D28D9">19d / 6d</text>
   <text x="196" y="251" class="sans" font-size="11" fill="#475569">Active Days / Peak Streak</text>
 
   <!-- Vertical separator -->

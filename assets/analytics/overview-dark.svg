@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 278" width="920" height="278" role="img" aria-labelledby="ov-t-dark ov-d-dark">
   <title id="ov-t-dark">Public Engineering Overview and Language Distribution</title>
-  <desc id="ov-d-dark">Verified public GitHub statistics (147 public contributions across 14 public repositories) and byte-weighted language distribution.</desc>
+  <desc id="ov-d-dark">Verified public GitHub statistics (150 public contributions across 14 public repositories) and byte-weighted language distribution.</desc>
   <defs>
     <linearGradient id="ov-bg-dark" x1="0" y1="0" x2="920" y2="278" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#101820" />
@@ -37,9 +37,9 @@
 
   <!-- Left editorial KPI ledger -->
   <text x="30" y="34" class="sans" font-size="14.5" font-weight="700" fill="#F8FAFC">Public Engineering Scope</text>
-  <text x="30" y="51" class="mono" font-size="9.5" fill="#94A3B8">TRAILING 52 WEEKS  ·  SYNC 2026-11-27</text>
+  <text x="30" y="51" class="mono" font-size="9.5" fill="#94A3B8">TRAILING 52 WEEKS  ·  SYNC 2026-11-28</text>
 
-  <text x="30" y="112" class="mono" font-size="44" font-weight="700" fill="#34D399" letter-spacing="-0.03em">147</text>
+  <text x="30" y="112" class="mono" font-size="44" font-weight="700" fill="#34D399" letter-spacing="-0.03em">150</text>
   <text x="30" y="132" class="sans" font-size="12.5" font-weight="600" fill="#CBD5E1">Public Contributions</text>
 
   <line x1="30" y1="150" x2="346" y2="150" stroke="#1E2C3A" stroke-width="1" />
@@ -47,7 +47,7 @@
   <text x="30" y="176" class="mono" font-size="20" font-weight="700" fill="#F8FAFC">14</text>
   <text x="30" y="193" class="sans" font-size="11" fill="#94A3B8">Public Repositories</text>
 
-  <text x="196" y="176" class="mono" font-size="20" font-weight="700" fill="#22D3EE">82</text>
+  <text x="196" y="176" class="mono" font-size="20" font-weight="700" fill="#22D3EE">85</text>
   <text x="196" y="193" class="sans" font-size="11" fill="#94A3B8">Public Commits</text>
 
   <line x1="30" y1="208" x2="346" y2="208" stroke="#1E2C3A" stroke-width="1" />
@@ -55,7 +55,7 @@
   <text x="30" y="234" class="mono" font-size="20" font-weight="700" fill="#FBBF24">4</text>
   <text x="30" y="251" class="sans" font-size="11" fill="#94A3B8">Stars Earned</text>
 
-  <text x="196" y="234" class="mono" font-size="20" font-weight="700" fill="#C4B5FD">18d / 5d</text>
+  <text x="196" y="234" class="mono" font-size="20" font-weight="700" fill="#C4B5FD">19d / 6d</text>
   <text x="196" y="251" class="sans" font-size="11" fill="#94A3B8">Active Days / Peak Streak</text>
 
   <!-- Vertical separator -->
